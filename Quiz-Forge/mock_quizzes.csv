@@ -1,0 +1,2648 @@
+quiz_id,creator_id,creation_date,topic,quiz_type,num_questions,avg_difficulty,dominant_bloom_level,popularity_score
+QZ1000,QF1000,12-07-2024,Programming,Open,6,3.23,Analyze,0.33
+QZ1001,QF1000,22-08-2024,Physics,MCQ,11,2.73,Understand,1.51
+QZ1002,QF1000,15-05-2024,Mathematics,MCQ,11,3.19,Remember,0.36
+QZ1003,QF1000,01-05-2024,English,MCQ,5,3.11,Understand,0.87
+QZ1004,QF1001,05-04-2024,Biology,Open,5,2.81,Remember,9.38
+QZ1005,QF1001,13-08-2024,Biology,MCQ,8,2.89,Remember,0.36
+QZ1006,QF1001,31-05-2024,Chemistry,MCQ,6,3.36,Analyze,2.3
+QZ1007,QF1001,13-07-2024,Physics,Mixed,11,2.84,Remember,4.46
+QZ1008,QF1001,24-07-2024,Programming,MCQ,3,3.14,Evaluate,1.54
+QZ1009,QF1001,22-05-2024,Language,Mixed,8,3.36,Understand,1.45
+QZ1010,QF1001,04-06-2024,Physics,MCQ,12,3.26,Apply,4.82
+QZ1011,QF1001,07-08-2024,General Knowledge,Mixed,9,2.95,Remember,0.85
+QZ1012,QF1001,02-05-2024,Computer Science,MCQ,7,2.4,Remember,1.84
+QZ1013,QF1001,07-08-2024,Mathematics,MCQ,6,3.05,Understand,2.5
+QZ1014,QF1001,31-05-2024,Mathematics,MCQ,11,2.61,Remember,1.67
+QZ1015,QF1002,07-08-2024,Physics,MCQ,6,2.58,Remember,1.45
+QZ1016,QF1002,02-08-2024,Biology,MCQ,8,2.86,Remember,1.11
+QZ1017,QF1003,05-04-2024,Biology,Open,8,3.41,Understand,1.96
+QZ1018,QF1003,21-05-2024,Language,MCQ,7,3.25,Understand,0.25
+QZ1019,QF1005,21-08-2024,General Knowledge,MCQ,7,2.76,Understand,1.92
+QZ1020,QF1007,20-08-2024,Mathematics,MCQ,4,3.02,Apply,1.41
+QZ1021,QF1007,06-07-2024,Language,MCQ,8,2.43,Analyze,0.12
+QZ1022,QF1007,03-05-2024,Biology,MCQ,10,2.74,Understand,3.78
+QZ1023,QF1009,31-05-2024,Programming,MCQ,6,3.36,Evaluate,2.73
+QZ1024,QF1009,09-06-2024,Language,Mixed,12,3.4,Remember,1.24
+QZ1025,QF1009,07-06-2024,Computer Science,MCQ,4,2.88,Evaluate,0.1
+QZ1026,QF1009,08-07-2024,Biology,MCQ,7,3.19,Remember,1.92
+QZ1027,QF1009,16-08-2024,Business Studies,MCQ,6,2.49,Understand,2.56
+QZ1028,QF1009,07-06-2024,General Knowledge,Open,8,3.26,Understand,1.41
+QZ1029,QF1009,24-07-2024,English,Mixed,4,3.18,Evaluate,4.99
+QZ1030,QF1009,11-07-2024,Mathematics,Open,9,2.4,Remember,5.68
+QZ1031,QF1009,16-04-2024,Chemistry,Mixed,9,2.6,Remember,15
+QZ1032,QF1009,05-06-2024,Computer Science,Open,4,3.19,Understand,0.44
+QZ1033,QF1009,16-07-2024,History,MCQ,9,3.14,Remember,5.07
+QZ1034,QF1009,09-08-2024,English,MCQ,9,2.83,Understand,3.42
+QZ1035,QF1009,17-06-2024,Chemistry,MCQ,8,3.28,Understand,6.29
+QZ1036,QF1009,08-07-2024,Biology,MCQ,7,3.66,Remember,1.94
+QZ1037,QF1009,17-08-2024,History,Mixed,8,3.36,Understand,12.93
+QZ1038,QF1009,15-07-2024,Physics,MCQ,7,2.21,Understand,8.99
+QZ1039,QF1010,27-08-2024,Physics,MCQ,4,2.8,Remember,0.98
+QZ1040,QF1011,23-07-2024,Computer Science,Mixed,4,3,Understand,1.71
+QZ1041,QF1011,07-08-2024,Physics,Open,8,2.87,Understand,2.51
+QZ1042,QF1011,08-06-2024,History,MCQ,11,2.91,Apply,15
+QZ1043,QF1011,10-03-2024,History,MCQ,6,3.32,Understand,1.78
+QZ1044,QF1011,22-08-2024,General Knowledge,MCQ,6,2.77,Remember,4.48
+QZ1045,QF1012,19-04-2024,English,Mixed,10,2.83,Apply,1.2
+QZ1046,QF1012,29-04-2024,Mathematics,Mixed,9,3.25,Understand,1.85
+QZ1047,QF1012,13-04-2024,Business Studies,Mixed,8,2.87,Understand,2.63
+QZ1048,QF1012,10-05-2024,Language,Mixed,4,2.69,Understand,1.77
+QZ1049,QF1012,11-07-2024,Physics,MCQ,10,2.32,Remember,2.61
+QZ1050,QF1012,14-07-2024,Computer Science,Mixed,4,2.57,Remember,2.88
+QZ1051,QF1012,30-08-2024,Physics,Mixed,7,3,Understand,0.52
+QZ1052,QF1012,21-04-2024,Language,Mixed,5,2.43,Remember,0.39
+QZ1053,QF1012,22-04-2024,English,MCQ,8,2.77,Remember,3.49
+QZ1054,QF1012,28-05-2024,Programming,MCQ,7,2.88,Remember,0.48
+QZ1055,QF1012,24-07-2024,General Knowledge,MCQ,4,2.37,Remember,3
+QZ1056,QF1012,04-07-2024,History,MCQ,11,3.39,Understand,7.3
+QZ1057,QF1012,13-08-2024,General Knowledge,MCQ,7,2.68,Understand,1.61
+QZ1058,QF1012,20-03-2024,Biology,Mixed,13,3.08,Understand,0.22
+QZ1059,QF1012,23-08-2024,Physics,Mixed,9,2.42,Understand,4
+QZ1060,QF1012,04-08-2024,Mathematics,MCQ,3,3.04,Understand,1.12
+QZ1061,QF1012,07-07-2024,Programming,MCQ,9,2.88,Evaluate,2.25
+QZ1062,QF1012,27-08-2024,Biology,MCQ,10,2.56,Understand,1.35
+QZ1063,QF1014,17-06-2024,English,Mixed,11,3.19,Understand,0.66
+QZ1064,QF1014,26-03-2024,Physics,MCQ,8,3.24,Apply,1.02
+QZ1065,QF1015,16-08-2024,Biology,MCQ,7,2.69,Remember,0.82
+QZ1066,QF1016,24-06-2024,Physics,MCQ,7,2.46,Understand,0.87
+QZ1067,QF1016,19-08-2024,Computer Science,MCQ,10,2.8,Understand,2.17
+QZ1068,QF1016,11-06-2024,English,MCQ,12,2.84,Understand,4.02
+QZ1069,QF1017,05-04-2024,Business Studies,MCQ,12,2.62,Understand,1.86
+QZ1070,QF1017,16-04-2024,Programming,Mixed,5,3.1,Remember,1.35
+QZ1071,QF1017,24-05-2024,History,MCQ,6,3.82,Apply,0.98
+QZ1072,QF1017,17-05-2024,Chemistry,MCQ,8,3.06,Evaluate,2.88
+QZ1073,QF1017,20-06-2024,History,MCQ,4,2.47,Remember,11.24
+QZ1074,QF1017,19-07-2024,History,Mixed,4,2.79,Remember,0.67
+QZ1075,QF1017,18-03-2024,Biology,Open,13,2.65,Apply,1.71
+QZ1076,QF1017,04-07-2024,Programming,MCQ,5,3.14,Understand,4.41
+QZ1077,QF1019,03-05-2024,English,MCQ,7,3.59,Apply,0.6
+QZ1078,QF1019,22-08-2024,Programming,MCQ,7,2.74,Apply,1.52
+QZ1079,QF1020,28-08-2024,Programming,MCQ,6,2.73,Understand,5.03
+QZ1080,QF1020,16-05-2024,Physics,MCQ,13,2.81,Remember,7.56
+QZ1081,QF1020,10-04-2024,General Knowledge,MCQ,14,3.02,Remember,3.06
+QZ1082,QF1020,23-06-2024,Programming,Mixed,9,2.54,Understand,3.33
+QZ1083,QF1020,13-06-2024,Chemistry,MCQ,13,2.97,Understand,0.31
+QZ1084,QF1020,10-04-2024,Language,Mixed,9,2.49,Understand,6.1
+QZ1085,QF1021,21-08-2024,Biology,MCQ,9,2.94,Understand,2.07
+QZ1086,QF1021,23-04-2024,Chemistry,Mixed,10,2.71,Remember,0.49
+QZ1087,QF1022,26-08-2024,Business Studies,MCQ,11,2.34,Remember,0.69
+QZ1088,QF1022,07-07-2024,Computer Science,MCQ,9,2.94,Remember,2.06
+QZ1089,QF1022,23-05-2024,English,MCQ,5,2.64,Remember,1.81
+QZ1090,QF1022,25-06-2024,Programming,Open,5,3.17,Understand,0.61
+QZ1091,QF1023,02-07-2024,Language,MCQ,5,3.73,Remember,2.87
+QZ1092,QF1023,14-08-2024,Biology,MCQ,7,2.33,Understand,4.24
+QZ1093,QF1023,05-06-2024,Programming,MCQ,11,2.95,Apply,5.36
+QZ1094,QF1023,09-04-2024,History,MCQ,8,3.26,Analyze,0.8
+QZ1095,QF1029,19-06-2024,Mathematics,MCQ,12,2.69,Remember,2.13
+QZ1096,QF1029,29-08-2024,Biology,MCQ,3,3.22,Apply,1
+QZ1097,QF1029,23-06-2024,Mathematics,MCQ,10,2.96,Apply,6.86
+QZ1098,QF1029,18-08-2024,History,MCQ,7,2.85,Understand,0.48
+QZ1099,QF1029,04-08-2024,Computer Science,MCQ,11,2.79,Remember,0.95
+QZ1100,QF1029,04-08-2024,English,Open,11,2.43,Remember,1.48
+QZ1101,QF1029,08-08-2024,Physics,MCQ,6,3.86,Evaluate,0.13
+QZ1102,QF1029,07-07-2024,Biology,MCQ,5,3.02,Remember,0.66
+QZ1103,QF1029,09-06-2024,General Knowledge,MCQ,2,4.31,Evaluate,0.92
+QZ1104,QF1029,18-08-2024,History,Mixed,6,2.79,Remember,2.66
+QZ1105,QF1029,25-08-2024,Biology,MCQ,6,3.4,Understand,1
+QZ1106,QF1029,22-07-2024,Programming,MCQ,10,2.77,Understand,3.35
+QZ1107,QF1029,30-05-2024,Business Studies,Mixed,5,3.17,Apply,4.78
+QZ1108,QF1029,07-07-2024,Computer Science,Mixed,13,2.61,Remember,3.24
+QZ1109,QF1029,22-05-2024,Programming,MCQ,9,2.9,Apply,1.31
+QZ1110,QF1031,22-05-2024,Business Studies,Mixed,4,3.2,Understand,8.69
+QZ1111,QF1031,24-08-2024,Chemistry,Mixed,11,2.71,Remember,2.51
+QZ1112,QF1031,15-08-2024,English,MCQ,7,2.31,Understand,5.28
+QZ1113,QF1031,11-05-2024,Chemistry,Mixed,8,2.85,Apply,3.69
+QZ1114,QF1031,08-07-2024,Biology,Mixed,5,2.8,Understand,1.55
+QZ1115,QF1031,24-06-2024,Language,MCQ,8,3.14,Understand,4.57
+QZ1116,QF1031,08-06-2024,Language,MCQ,1,1.47,Remember,0.93
+QZ1117,QF1031,21-05-2024,English,MCQ,11,2.75,Understand,2.4
+QZ1118,QF1031,24-08-2024,General Knowledge,MCQ,10,2.36,Apply,0.24
+QZ1119,QF1031,09-04-2024,Computer Science,Mixed,6,3.17,Remember,2.59
+QZ1120,QF1031,26-07-2024,General Knowledge,MCQ,7,3.4,Evaluate,1.43
+QZ1121,QF1031,24-08-2024,Computer Science,Mixed,11,3.04,Understand,3
+QZ1122,QF1031,05-08-2024,History,Mixed,7,3.49,Understand,2.08
+QZ1123,QF1032,05-07-2024,Biology,MCQ,10,3.13,Understand,1.06
+QZ1124,QF1032,23-03-2024,Chemistry,MCQ,7,2.25,Understand,0.28
+QZ1125,QF1032,19-08-2024,Language,MCQ,8,2.87,Remember,1.16
+QZ1126,QF1033,30-03-2024,Business Studies,MCQ,12,3.05,Understand,0.88
+QZ1127,QF1033,12-07-2024,Physics,MCQ,8,2.78,Understand,4.72
+QZ1128,QF1033,30-04-2024,Mathematics,MCQ,8,2.41,Understand,3.12
+QZ1129,QF1033,22-05-2024,Physics,MCQ,7,2.82,Understand,1.93
+QZ1130,QF1033,08-06-2024,Chemistry,MCQ,9,2.39,Apply,4.03
+QZ1131,QF1033,05-07-2024,Programming,Mixed,10,2.29,Remember,4.89
+QZ1132,QF1033,26-08-2024,Chemistry,MCQ,10,2.78,Understand,10.7
+QZ1133,QF1033,04-05-2024,Programming,Mixed,5,2.7,Understand,1.24
+QZ1134,QF1033,02-08-2024,Computer Science,Mixed,13,2.9,Apply,6.37
+QZ1135,QF1033,03-08-2024,General Knowledge,Mixed,6,3.32,Analyze,1.48
+QZ1136,QF1033,07-07-2024,Physics,Mixed,6,3.6,Evaluate,1.02
+QZ1137,QF1036,29-04-2024,Computer Science,Mixed,8,2.35,Understand,3.03
+QZ1138,QF1037,23-06-2024,Computer Science,MCQ,6,2.14,Apply,0.67
+QZ1139,QF1037,30-07-2024,General Knowledge,Mixed,3,1.85,Remember,2.29
+QZ1140,QF1039,16-08-2024,Business Studies,Mixed,5,3.37,Evaluate,4.01
+QZ1141,QF1040,28-07-2024,Language,Mixed,6,2.73,Remember,1.24
+QZ1142,QF1040,14-06-2024,English,MCQ,11,2.74,Remember,1.04
+QZ1143,QF1040,06-08-2024,Language,MCQ,7,2.97,Remember,2.34
+QZ1144,QF1040,13-08-2024,Mathematics,MCQ,6,3.6,Remember,5.51
+QZ1145,QF1040,10-05-2024,Programming,Open,10,3.14,Analyze,1.21
+QZ1146,QF1042,10-08-2024,Physics,MCQ,6,3.07,Create,3.07
+QZ1147,QF1043,28-06-2024,Programming,MCQ,6,3.47,Understand,0.1
+QZ1148,QF1043,12-05-2024,Language,MCQ,12,3.09,Understand,1.53
+QZ1149,QF1043,25-05-2024,English,MCQ,9,2.91,Understand,0.29
+QZ1150,QF1044,09-06-2024,Programming,MCQ,9,2.58,Understand,0.14
+QZ1151,QF1044,11-06-2024,History,Open,4,2.45,Remember,1.69
+QZ1152,QF1044,22-04-2024,Physics,MCQ,10,2.88,Remember,2.98
+QZ1153,QF1044,28-07-2024,English,MCQ,7,2.9,Apply,1.88
+QZ1154,QF1048,05-06-2024,Computer Science,MCQ,6,3.09,Understand,1.59
+QZ1155,QF1048,18-07-2024,Chemistry,Mixed,14,2.66,Remember,0.66
+QZ1156,QF1049,08-08-2024,Business Studies,Mixed,10,2.8,Remember,1.55
+QZ1157,QF1050,27-07-2024,Mathematics,MCQ,8,3.05,Remember,0.39
+QZ1158,QF1051,18-08-2024,English,Mixed,4,3.08,Remember,0.26
+QZ1159,QF1051,20-06-2024,Language,MCQ,4,3.03,Apply,4.43
+QZ1160,QF1051,27-08-2024,Chemistry,Mixed,7,3.68,Understand,1.67
+QZ1161,QF1051,17-04-2024,Language,Mixed,6,3.01,Understand,0.44
+QZ1162,QF1051,09-04-2024,Physics,MCQ,10,3.51,Understand,1.3
+QZ1163,QF1052,17-05-2024,Programming,Mixed,3,2.55,Remember,2.22
+QZ1164,QF1052,15-05-2024,English,MCQ,10,2.24,Understand,5.67
+QZ1165,QF1052,05-05-2024,Programming,MCQ,6,2.72,Remember,0.84
+QZ1166,QF1053,21-06-2024,Language,Open,6,2.62,Understand,0.58
+QZ1167,QF1053,17-08-2024,General Knowledge,Mixed,6,2.71,Understand,2.44
+QZ1168,QF1054,16-08-2024,Biology,MCQ,5,2.39,Remember,4.2
+QZ1169,QF1057,07-08-2024,Chemistry,MCQ,8,2.82,Understand,0.85
+QZ1170,QF1058,09-06-2024,History,Open,7,3,Remember,3.16
+QZ1171,QF1058,24-06-2024,Chemistry,MCQ,6,3.75,Apply,1.91
+QZ1172,QF1058,26-07-2024,Language,MCQ,5,3.27,Understand,1.38
+QZ1173,QF1058,30-08-2024,Language,MCQ,3,3.66,Evaluate,8.55
+QZ1174,QF1058,22-07-2024,Mathematics,Open,11,2.67,Understand,0.33
+QZ1175,QF1058,16-08-2024,General Knowledge,MCQ,7,2.63,Remember,13.07
+QZ1176,QF1058,29-07-2024,History,MCQ,9,3.23,Understand,1.78
+QZ1177,QF1058,18-08-2024,Business Studies,MCQ,9,3.03,Understand,2.03
+QZ1178,QF1059,17-08-2024,Mathematics,MCQ,9,2.67,Understand,12.51
+QZ1179,QF1059,02-07-2024,Physics,Mixed,10,3.49,Create,1.96
+QZ1180,QF1059,19-06-2024,History,MCQ,10,2.98,Remember,1.66
+QZ1181,QF1059,20-05-2024,English,Mixed,4,3.81,Understand,5.11
+QZ1182,QF1059,04-07-2024,Biology,Open,6,3.17,Remember,5.17
+QZ1183,QF1059,02-04-2024,Mathematics,MCQ,11,2.52,Remember,3.32
+QZ1184,QF1059,01-08-2024,Biology,MCQ,3,3.06,Understand,8.86
+QZ1185,QF1059,19-06-2024,General Knowledge,MCQ,13,2.67,Remember,9.19
+QZ1186,QF1059,16-06-2024,Physics,MCQ,14,2.98,Understand,4.76
+QZ1187,QF1059,08-07-2024,Physics,Mixed,9,2.31,Remember,5.2
+QZ1188,QF1059,14-08-2024,Business Studies,Mixed,7,2.34,Remember,7.78
+QZ1189,QF1059,03-08-2024,Physics,MCQ,15,2.66,Remember,0.9
+QZ1190,QF1062,01-08-2024,Language,MCQ,8,3.11,Understand,1.26
+QZ1191,QF1062,07-04-2024,Chemistry,MCQ,12,2.65,Understand,0.82
+QZ1192,QF1063,04-07-2024,Chemistry,MCQ,4,3.17,Remember,2.27
+QZ1193,QF1064,26-04-2024,Programming,Mixed,9,2.4,Understand,0.86
+QZ1194,QF1064,07-07-2024,Business Studies,MCQ,7,2.74,Understand,0.1
+QZ1195,QF1064,05-06-2024,Language,Mixed,11,2.73,Remember,0.83
+QZ1196,QF1064,05-08-2024,Chemistry,MCQ,7,2.84,Remember,0.5
+QZ1197,QF1064,31-08-2024,English,MCQ,12,2.61,Remember,3.08
+QZ1198,QF1065,02-05-2024,Language,Open,14,3.62,Understand,3.77
+QZ1199,QF1065,30-07-2024,General Knowledge,MCQ,7,3.2,Remember,0.35
+QZ1200,QF1065,12-08-2024,Computer Science,Mixed,6,2.74,Understand,1.73
+QZ1201,QF1065,09-07-2024,Biology,MCQ,7,2.87,Understand,0.33
+QZ1202,QF1065,09-05-2024,Language,MCQ,11,2.82,Analyze,1.05
+QZ1203,QF1066,26-08-2024,Biology,MCQ,7,2.84,Remember,0.48
+QZ1204,QF1067,25-07-2024,English,Open,7,3.18,Understand,0.1
+QZ1205,QF1067,25-07-2024,Computer Science,Open,11,3.02,Remember,0.26
+QZ1206,QF1068,20-07-2024,Programming,MCQ,5,3.45,Understand,1.81
+QZ1207,QF1068,12-07-2024,Programming,MCQ,12,2.81,Understand,6.49
+QZ1208,QF1068,16-06-2024,History,Open,7,2.51,Remember,1.52
+QZ1209,QF1068,11-07-2024,Business Studies,MCQ,8,2.68,Understand,2.45
+QZ1210,QF1068,17-07-2024,Language,MCQ,9,2.49,Understand,1.4
+QZ1211,QF1070,03-07-2024,Business Studies,Mixed,8,2.06,Remember,0.75
+QZ1212,QF1070,01-08-2024,Physics,MCQ,6,3.35,Evaluate,0.57
+QZ1213,QF1073,18-06-2024,Biology,MCQ,6,3.53,Understand,0.16
+QZ1214,QF1074,10-08-2024,Biology,Mixed,12,3,Analyze,1.9
+QZ1215,QF1074,31-07-2024,Physics,Mixed,16,2.68,Understand,9.07
+QZ1216,QF1074,22-07-2024,History,MCQ,11,3.41,Understand,0.5
+QZ1217,QF1075,29-08-2024,Mathematics,MCQ,6,3.49,Understand,0.36
+QZ1218,QF1075,09-06-2024,General Knowledge,MCQ,11,2.88,Understand,3.16
+QZ1219,QF1075,26-07-2024,Language,Mixed,9,3.21,Evaluate,2.75
+QZ1220,QF1075,08-04-2024,Biology,Mixed,9,3.66,Remember,0.53
+QZ1221,QF1075,21-08-2024,General Knowledge,Open,10,2.67,Remember,0.12
+QZ1222,QF1075,19-07-2024,Biology,MCQ,4,3.64,Understand,4.01
+QZ1223,QF1075,25-04-2024,Mathematics,MCQ,6,2.2,Understand,4.01
+QZ1224,QF1075,07-08-2024,Physics,MCQ,10,3.15,Understand,3.09
+QZ1225,QF1075,18-04-2024,Programming,MCQ,11,2.73,Remember,6.48
+QZ1226,QF1075,09-05-2024,Mathematics,MCQ,9,2.73,Remember,4.84
+QZ1227,QF1075,25-06-2024,Biology,MCQ,9,3.14,Remember,0.1
+QZ1228,QF1075,14-06-2024,Physics,Mixed,7,3.45,Apply,5.77
+QZ1229,QF1075,29-05-2024,Mathematics,MCQ,8,3.58,Understand,5.52
+QZ1230,QF1075,20-07-2024,History,MCQ,10,2.87,Remember,4.99
+QZ1231,QF1075,06-06-2024,Physics,MCQ,9,3.49,Understand,1.94
+QZ1232,QF1076,26-07-2024,Language,Open,8,3.06,Analyze,1.07
+QZ1233,QF1076,24-06-2024,Biology,Mixed,10,3.21,Remember,0.54
+QZ1234,QF1077,24-05-2024,English,MCQ,8,2.87,Analyze,2.92
+QZ1235,QF1078,23-07-2024,Programming,MCQ,9,2.87,Understand,3.02
+QZ1236,QF1078,20-05-2024,Business Studies,Mixed,4,2.98,Remember,0.1
+QZ1237,QF1078,09-06-2024,Biology,MCQ,3,1.81,Remember,2.05
+QZ1238,QF1079,27-08-2024,Language,MCQ,9,2.58,Understand,0.24
+QZ1239,QF1079,16-06-2024,Chemistry,Mixed,5,3.21,Remember,4.4
+QZ1240,QF1079,24-08-2024,General Knowledge,Mixed,9,3.14,Understand,0.17
+QZ1241,QF1079,03-05-2024,General Knowledge,MCQ,5,3.18,Remember,1
+QZ1242,QF1079,30-08-2024,Business Studies,MCQ,13,2.73,Remember,3.13
+QZ1243,QF1080,21-06-2024,Biology,MCQ,9,3.08,Remember,2.87
+QZ1244,QF1080,23-07-2024,Business Studies,MCQ,5,3.68,Remember,0.78
+QZ1245,QF1081,19-07-2024,Computer Science,Mixed,11,3.35,Evaluate,4.9
+QZ1246,QF1081,29-07-2024,Biology,MCQ,9,2.72,Remember,4.42
+QZ1247,QF1082,25-08-2024,Physics,Mixed,13,2.92,Understand,2.29
+QZ1248,QF1082,13-06-2024,Physics,MCQ,6,2.91,Understand,1.96
+QZ1249,QF1082,09-06-2024,Programming,MCQ,8,2.69,Apply,2.33
+QZ1250,QF1082,18-04-2024,Computer Science,MCQ,12,3.26,Apply,4.15
+QZ1251,QF1082,04-07-2024,History,MCQ,8,2.5,Understand,3.52
+QZ1252,QF1082,25-08-2024,Computer Science,MCQ,8,3.51,Remember,0.99
+QZ1253,QF1083,24-07-2024,Computer Science,Open,12,3.01,Remember,0.5
+QZ1254,QF1084,30-08-2024,Business Studies,MCQ,2,2.78,Understand,0.29
+QZ1255,QF1084,25-06-2024,Mathematics,MCQ,7,3.51,Remember,8.02
+QZ1256,QF1084,31-05-2024,Programming,Mixed,8,2.89,Remember,0.97
+QZ1257,QF1084,25-04-2024,Programming,Mixed,7,3.21,Apply,1.94
+QZ1258,QF1084,13-05-2024,Programming,MCQ,14,3.11,Remember,4.67
+QZ1259,QF1084,01-06-2024,Physics,Mixed,8,2.61,Remember,2.49
+QZ1260,QF1084,16-05-2024,Mathematics,MCQ,2,1.85,Remember,3.7
+QZ1261,QF1085,27-04-2024,Computer Science,MCQ,10,3.11,Understand,1.85
+QZ1262,QF1085,19-07-2024,History,MCQ,8,2.43,Remember,1.05
+QZ1263,QF1085,06-07-2024,Physics,MCQ,6,3.59,Understand,3.56
+QZ1264,QF1085,15-07-2024,Biology,MCQ,7,3.12,Understand,1.12
+QZ1265,QF1086,07-06-2024,Biology,Mixed,3,2.21,Understand,3.08
+QZ1266,QF1086,19-07-2024,Biology,MCQ,11,2.87,Remember,3.68
+QZ1267,QF1086,12-06-2024,Language,MCQ,7,2.53,Remember,3.51
+QZ1268,QF1086,17-06-2024,Business Studies,MCQ,7,2.79,Understand,2.96
+QZ1269,QF1086,19-08-2024,Chemistry,Mixed,8,3.13,Remember,1.27
+QZ1270,QF1086,22-07-2024,Computer Science,Mixed,2,2.91,Understand,1.62
+QZ1271,QF1087,08-06-2024,Chemistry,MCQ,9,2.44,Remember,0.13
+QZ1272,QF1088,11-08-2024,English,Mixed,6,2.54,Understand,0.19
+QZ1273,QF1088,19-07-2024,Business Studies,MCQ,2,3.23,Remember,0.59
+QZ1274,QF1089,28-07-2024,Biology,Mixed,5,2.7,Apply,2.97
+QZ1275,QF1089,30-05-2024,Physics,Open,9,2.71,Understand,1.03
+QZ1276,QF1089,21-07-2024,Business Studies,Mixed,7,3.13,Understand,7.8
+QZ1277,QF1089,31-08-2024,Language,MCQ,7,3.01,Understand,4.04
+QZ1278,QF1089,02-05-2024,Physics,MCQ,5,3.1,Analyze,3.42
+QZ1279,QF1089,27-06-2024,Mathematics,MCQ,10,3.21,Remember,3.42
+QZ1280,QF1089,09-06-2024,Programming,MCQ,9,2.67,Understand,3.11
+QZ1281,QF1089,22-07-2024,Language,Mixed,10,3.04,Analyze,4.09
+QZ1282,QF1089,20-07-2024,Mathematics,MCQ,3,2.28,Remember,0.54
+QZ1283,QF1089,21-05-2024,Physics,Mixed,4,2.47,Understand,1.37
+QZ1284,QF1089,28-04-2024,Biology,MCQ,9,3.28,Understand,0.84
+QZ1285,QF1089,14-07-2024,Chemistry,MCQ,7,3.55,Remember,2.16
+QZ1286,QF1090,09-07-2024,Computer Science,Mixed,11,2.83,Remember,2.39
+QZ1287,QF1090,14-08-2024,Business Studies,MCQ,4,3.34,Evaluate,1.28
+QZ1288,QF1090,23-08-2024,Business Studies,MCQ,7,3.22,Apply,3.25
+QZ1289,QF1090,26-06-2024,Biology,Mixed,6,2.59,Remember,0.36
+QZ1290,QF1090,30-08-2024,Computer Science,MCQ,7,2.98,Apply,1.73
+QZ1291,QF1092,14-08-2024,Mathematics,Open,7,2.82,Remember,0.54
+QZ1292,QF1092,29-06-2024,Chemistry,MCQ,7,2.51,Apply,1.98
+QZ1293,QF1092,08-08-2024,Computer Science,MCQ,1,2.46,Understand,0.96
+QZ1294,QF1092,11-05-2024,Mathematics,MCQ,5,3.02,Understand,4.09
+QZ1295,QF1093,01-05-2024,Computer Science,MCQ,10,3.22,Understand,0.1
+QZ1296,QF1094,19-06-2024,English,MCQ,9,2.5,Understand,0.4
+QZ1297,QF1094,03-08-2024,Business Studies,MCQ,7,3.13,Apply,0.86
+QZ1298,QF1096,06-05-2024,English,MCQ,2,3.82,Create,1.61
+QZ1299,QF1096,25-05-2024,Computer Science,MCQ,12,2.69,Understand,5.86
+QZ1300,QF1096,30-06-2024,Language,MCQ,7,2.05,Understand,1.3
+QZ1301,QF1096,23-07-2024,Programming,MCQ,10,2.31,Remember,3
+QZ1302,QF1096,16-08-2024,Business Studies,MCQ,5,4.39,Evaluate,0.96
+QZ1303,QF1096,14-06-2024,Chemistry,MCQ,13,2.88,Remember,2.1
+QZ1304,QF1096,31-07-2024,Biology,MCQ,4,2.99,Remember,1.38
+QZ1305,QF1096,21-06-2024,English,Mixed,6,2.63,Understand,1.42
+QZ1306,QF1096,18-08-2024,Biology,Mixed,7,2.71,Remember,0.9
+QZ1307,QF1096,25-04-2024,Mathematics,MCQ,9,3.24,Evaluate,5.57
+QZ1308,QF1096,15-07-2024,General Knowledge,MCQ,6,2.63,Remember,1.53
+QZ1309,QF1096,06-07-2024,Language,MCQ,8,3.61,Apply,4.5
+QZ1310,QF1096,11-07-2024,Mathematics,Open,2,3.09,Understand,3.96
+QZ1311,QF1096,04-07-2024,History,Mixed,6,3.18,Remember,0.96
+QZ1312,QF1096,08-08-2024,Mathematics,MCQ,7,2.44,Remember,5.58
+QZ1313,QF1099,27-05-2024,Mathematics,Mixed,10,2.81,Remember,6.81
+QZ1314,QF1099,13-08-2024,General Knowledge,Mixed,8,3.2,Remember,1.6
+QZ1315,QF1099,19-05-2024,Business Studies,MCQ,6,2.64,Remember,8.97
+QZ1316,QF1099,10-07-2024,Language,MCQ,6,2.55,Remember,1.45
+QZ1317,QF1099,29-07-2024,Language,Mixed,8,3.18,Apply,4.43
+QZ1318,QF1099,16-08-2024,Chemistry,MCQ,6,3.21,Remember,1.32
+QZ1319,QF1099,21-05-2024,Mathematics,MCQ,7,2.71,Remember,2.35
+QZ1320,QF1099,07-08-2024,Language,Mixed,10,2.83,Remember,7.63
+QZ1321,QF1099,02-05-2024,Physics,Open,12,3.11,Apply,0.53
+QZ1322,QF1099,17-08-2024,Chemistry,MCQ,14,3.29,Understand,0.18
+QZ1323,QF1099,06-05-2024,Physics,Mixed,6,3.41,Apply,1.55
+QZ1324,QF1099,26-04-2024,General Knowledge,Open,9,2.87,Remember,0.12
+QZ1325,QF1099,03-05-2024,Physics,MCQ,9,3.44,Evaluate,0.98
+QZ1326,QF1099,02-08-2024,Programming,Mixed,5,3.6,Evaluate,1.37
+QZ1327,QF1100,29-06-2024,Biology,Mixed,9,3.09,Remember,1.41
+QZ1328,QF1101,27-05-2024,Computer Science,MCQ,6,2.75,Remember,1.12
+QZ1329,QF1101,20-08-2024,Physics,MCQ,7,2.47,Understand,0.39
+QZ1330,QF1101,11-05-2024,General Knowledge,MCQ,12,3.39,Analyze,15
+QZ1331,QF1101,25-08-2024,Biology,MCQ,4,3.17,Apply,3.95
+QZ1332,QF1101,23-07-2024,General Knowledge,Open,11,3.4,Understand,4.49
+QZ1333,QF1101,27-05-2024,General Knowledge,Mixed,9,2.97,Understand,4.43
+QZ1334,QF1101,26-08-2024,Mathematics,Mixed,7,3.28,Analyze,6.05
+QZ1335,QF1102,28-06-2024,General Knowledge,MCQ,9,2.76,Understand,0.27
+QZ1336,QF1102,07-07-2024,Physics,MCQ,10,3.36,Apply,0.66
+QZ1337,QF1102,21-08-2024,Computer Science,MCQ,10,3.24,Understand,1
+QZ1338,QF1102,30-07-2024,Programming,Open,8,3.22,Remember,2.05
+QZ1339,QF1102,13-08-2024,General Knowledge,Open,7,2.86,Understand,3.54
+QZ1340,QF1104,11-05-2024,General Knowledge,MCQ,5,2.84,Understand,0.84
+QZ1341,QF1105,01-07-2024,Language,Mixed,6,3.32,Remember,0.1
+QZ1342,QF1105,06-08-2024,History,MCQ,8,2.16,Remember,1.15
+QZ1343,QF1105,12-06-2024,English,MCQ,11,3.12,Understand,3.63
+QZ1344,QF1106,19-07-2024,Biology,MCQ,6,2.8,Analyze,3.08
+QZ1345,QF1107,27-08-2024,Programming,Mixed,5,2.31,Remember,1.76
+QZ1346,QF1107,23-07-2024,History,MCQ,12,2.57,Understand,2.49
+QZ1347,QF1107,16-08-2024,Biology,Open,9,3.17,Apply,2.81
+QZ1348,QF1107,18-07-2024,English,MCQ,6,3.19,Remember,0.93
+QZ1349,QF1108,28-07-2024,Computer Science,MCQ,10,2.72,Understand,0.11
+QZ1350,QF1108,17-05-2024,Chemistry,MCQ,4,2.5,Remember,0.92
+QZ1351,QF1108,06-07-2024,Programming,MCQ,4,2.44,Understand,8.02
+QZ1352,QF1108,17-07-2024,Programming,Open,3,2.93,Analyze,0.63
+QZ1353,QF1108,28-04-2024,English,MCQ,5,3.1,Apply,2.79
+QZ1354,QF1110,18-08-2024,Business Studies,Mixed,8,2.37,Understand,1.2
+QZ1355,QF1114,24-06-2024,History,Mixed,10,3.22,Understand,0.62
+QZ1356,QF1114,08-06-2024,Physics,MCQ,13,2.85,Remember,3.46
+QZ1357,QF1114,30-05-2024,Mathematics,Open,10,2.91,Remember,3.62
+QZ1358,QF1115,19-04-2024,Business Studies,MCQ,10,2.9,Understand,0.68
+QZ1359,QF1115,18-05-2024,General Knowledge,Mixed,11,3.07,Evaluate,0.8
+QZ1360,QF1116,06-07-2024,General Knowledge,MCQ,8,3.49,Evaluate,8
+QZ1361,QF1116,12-07-2024,Physics,MCQ,11,3.04,Understand,10.76
+QZ1362,QF1116,30-04-2024,Physics,MCQ,6,2.78,Remember,3.99
+QZ1363,QF1116,30-06-2024,Language,MCQ,6,2.91,Understand,0.83
+QZ1364,QF1116,13-07-2024,Biology,MCQ,8,2.82,Remember,0.93
+QZ1365,QF1116,15-05-2024,Language,Mixed,11,3.13,Understand,4.04
+QZ1366,QF1116,18-05-2024,English,MCQ,8,3.01,Remember,6.1
+QZ1367,QF1116,18-04-2024,Chemistry,Mixed,9,2.63,Understand,5.12
+QZ1368,QF1116,24-06-2024,History,MCQ,12,2.39,Remember,1.96
+QZ1369,QF1116,28-07-2024,Physics,Mixed,6,2.28,Understand,0.7
+QZ1370,QF1116,15-08-2024,Biology,Mixed,5,3.15,Remember,3.24
+QZ1371,QF1116,23-08-2024,History,MCQ,10,2.68,Remember,0.49
+QZ1372,QF1116,29-07-2024,English,MCQ,4,2.32,Remember,2.98
+QZ1373,QF1116,26-04-2024,Chemistry,MCQ,7,2.37,Remember,0.23
+QZ1374,QF1117,11-08-2024,Business Studies,Mixed,5,2.69,Evaluate,1.59
+QZ1375,QF1118,17-07-2024,Language,MCQ,9,2.92,Understand,3.94
+QZ1376,QF1118,21-05-2024,English,Open,14,2.77,Remember,3.08
+QZ1377,QF1118,20-05-2024,General Knowledge,MCQ,11,3.05,Remember,1.53
+QZ1378,QF1118,23-07-2024,Programming,Open,10,2.95,Evaluate,1.14
+QZ1379,QF1119,27-08-2024,Language,MCQ,12,2.62,Remember,0.1
+QZ1380,QF1120,21-05-2024,Mathematics,Mixed,10,3.62,Create,0.49
+QZ1381,QF1120,18-07-2024,Programming,MCQ,11,3.19,Understand,0.93
+QZ1382,QF1120,15-07-2024,Language,MCQ,9,2.86,Understand,0.67
+QZ1383,QF1120,30-06-2024,English,Open,6,3.25,Remember,0.1
+QZ1384,QF1121,09-08-2024,Programming,Mixed,5,3.01,Remember,0.18
+QZ1385,QF1122,22-07-2024,Physics,Mixed,5,3.03,Remember,0.16
+QZ1386,QF1122,29-08-2024,Chemistry,MCQ,12,3.05,Apply,2.33
+QZ1387,QF1122,28-06-2024,English,MCQ,10,2.51,Remember,1.36
+QZ1388,QF1122,19-06-2024,Physics,MCQ,8,2.31,Remember,0.1
+QZ1389,QF1122,14-05-2024,Physics,Mixed,10,3.39,Analyze,0.57
+QZ1390,QF1123,28-07-2024,Language,MCQ,2,4.43,Evaluate,1.9
+QZ1391,QF1127,22-08-2024,Chemistry,Mixed,9,2.98,Apply,0.59
+QZ1392,QF1129,15-08-2024,English,MCQ,10,3.08,Understand,1.01
+QZ1393,QF1130,09-08-2024,English,MCQ,12,3.04,Apply,4.97
+QZ1394,QF1131,29-08-2024,General Knowledge,Open,11,3.12,Understand,0.21
+QZ1395,QF1132,13-07-2024,Biology,MCQ,12,2.94,Understand,1.27
+QZ1396,QF1133,21-08-2024,History,Mixed,9,2.84,Remember,2.47
+QZ1397,QF1133,02-08-2024,Biology,Mixed,10,2.59,Remember,2.91
+QZ1398,QF1133,17-08-2024,Programming,Mixed,7,3.26,Understand,1.47
+QZ1399,QF1133,27-07-2024,Programming,MCQ,4,2.63,Remember,1.63
+QZ1400,QF1133,20-08-2024,English,Mixed,8,3.19,Apply,1.05
+QZ1401,QF1133,15-06-2024,Language,MCQ,7,3.48,Evaluate,2.6
+QZ1402,QF1135,14-06-2024,Business Studies,Mixed,7,3.84,Understand,1.81
+QZ1403,QF1135,24-08-2024,English,MCQ,4,2.57,Remember,0.34
+QZ1404,QF1135,29-04-2024,Mathematics,Mixed,11,3.59,Evaluate,2.65
+QZ1405,QF1135,03-07-2024,Physics,Mixed,6,3.03,Understand,1.74
+QZ1406,QF1135,18-08-2024,Programming,Open,10,3.21,Remember,0.52
+QZ1407,QF1136,30-06-2024,Computer Science,MCQ,7,2.91,Analyze,3.88
+QZ1408,QF1136,17-07-2024,English,Mixed,11,2.82,Understand,1.89
+QZ1409,QF1136,14-07-2024,Mathematics,Mixed,7,3.32,Remember,0.1
+QZ1410,QF1137,14-07-2024,Mathematics,Mixed,5,2.51,Remember,0.82
+QZ1411,QF1137,03-08-2024,History,Mixed,10,2.78,Remember,1.05
+QZ1412,QF1137,05-06-2024,Chemistry,Mixed,11,3.03,Understand,0.34
+QZ1413,QF1137,17-07-2024,Programming,Open,5,3.33,Understand,0.83
+QZ1414,QF1138,03-07-2024,English,MCQ,7,3.52,Evaluate,6.84
+QZ1415,QF1138,26-08-2024,Chemistry,MCQ,9,3.7,Understand,3.32
+QZ1416,QF1138,29-06-2024,Business Studies,MCQ,17,3.43,Understand,6.44
+QZ1417,QF1139,12-06-2024,Language,Mixed,7,2.63,Remember,1.49
+QZ1418,QF1139,09-07-2024,Computer Science,Open,9,3.34,Remember,2.52
+QZ1419,QF1140,05-08-2024,Language,Mixed,7,3.72,Evaluate,1.65
+QZ1420,QF1140,03-07-2024,Mathematics,Mixed,4,2.98,Understand,2.12
+QZ1421,QF1140,26-05-2024,Physics,MCQ,10,2.84,Understand,0.32
+QZ1422,QF1140,24-06-2024,Physics,MCQ,4,2.83,Remember,0.1
+QZ1423,QF1140,07-06-2024,Chemistry,MCQ,9,3.33,Understand,1.19
+QZ1424,QF1141,06-06-2024,Language,Mixed,6,3.03,Remember,0.1
+QZ1425,QF1142,09-08-2024,Mathematics,Mixed,10,3.04,Understand,0.91
+QZ1426,QF1143,28-06-2024,History,Mixed,7,3.62,Evaluate,4.56
+QZ1427,QF1143,29-08-2024,General Knowledge,Mixed,9,2.68,Remember,8.28
+QZ1428,QF1143,23-05-2024,Language,Mixed,7,3.35,Remember,0.91
+QZ1429,QF1143,16-07-2024,Chemistry,Mixed,10,3.57,Apply,5.99
+QZ1430,QF1143,11-05-2024,Computer Science,Mixed,15,2.45,Understand,0.71
+QZ1431,QF1143,07-08-2024,Chemistry,MCQ,11,3.3,Understand,3.39
+QZ1432,QF1143,16-06-2024,Mathematics,Open,8,3.02,Remember,0.84
+QZ1433,QF1143,22-07-2024,English,Open,5,2.75,Evaluate,0.68
+QZ1434,QF1143,23-05-2024,History,MCQ,4,2.38,Remember,1.38
+QZ1435,QF1143,17-08-2024,Mathematics,MCQ,6,3.32,Understand,0.78
+QZ1436,QF1143,03-05-2024,History,Mixed,6,3.37,Remember,0.72
+QZ1437,QF1143,11-07-2024,Biology,MCQ,9,2.61,Remember,0.41
+QZ1438,QF1143,26-07-2024,Programming,MCQ,13,2.71,Remember,4.14
+QZ1439,QF1143,05-06-2024,Biology,MCQ,5,3.08,Apply,2.81
+QZ1440,QF1143,05-08-2024,Programming,Mixed,8,2.25,Remember,3.96
+QZ1441,QF1143,27-06-2024,Physics,Mixed,9,3.37,Evaluate,7.83
+QZ1442,QF1143,18-07-2024,History,MCQ,11,2.9,Understand,15
+QZ1443,QF1143,02-08-2024,Language,MCQ,9,2.77,Apply,1.57
+QZ1444,QF1143,19-06-2024,Computer Science,MCQ,9,2.9,Remember,0.24
+QZ1445,QF1143,25-07-2024,General Knowledge,MCQ,10,3.33,Analyze,0.17
+QZ1446,QF1143,03-08-2024,Chemistry,MCQ,13,2.78,Understand,0.82
+QZ1447,QF1145,05-08-2024,Biology,MCQ,12,2.78,Remember,0.65
+QZ1448,QF1145,14-06-2024,Chemistry,MCQ,6,3.82,Understand,0.69
+QZ1449,QF1145,16-08-2024,Chemistry,MCQ,9,3.06,Remember,1.53
+QZ1450,QF1147,17-05-2024,Computer Science,Mixed,15,3.24,Understand,0.1
+QZ1451,QF1148,02-08-2024,Mathematics,Open,7,3.22,Understand,7.54
+QZ1452,QF1148,04-07-2024,Chemistry,Mixed,9,2.86,Understand,0.19
+QZ1453,QF1148,11-06-2024,History,Open,6,3.44,Evaluate,5.39
+QZ1454,QF1148,04-06-2024,Computer Science,MCQ,6,2.65,Remember,2.07
+QZ1455,QF1148,03-08-2024,Programming,MCQ,2,3.84,Understand,0.51
+QZ1456,QF1148,22-07-2024,Biology,Mixed,5,2.02,Remember,2.25
+QZ1457,QF1149,08-07-2024,English,MCQ,4,2.57,Understand,0.9
+QZ1458,QF1150,25-08-2024,Chemistry,Open,6,2.34,Remember,0.11
+QZ1459,QF1151,31-05-2024,Physics,MCQ,8,2.68,Remember,0.59
+QZ1460,QF1152,17-07-2024,Computer Science,Mixed,6,3.01,Analyze,1.41
+QZ1461,QF1153,15-06-2024,Mathematics,Mixed,14,2.68,Understand,2.1
+QZ1462,QF1154,31-08-2024,Business Studies,Mixed,8,3.13,Understand,1.6
+QZ1463,QF1157,31-08-2024,Biology,Mixed,13,3.65,Apply,2.53
+QZ1464,QF1157,09-08-2024,Biology,Mixed,6,3.35,Analyze,0.9
+QZ1465,QF1157,21-08-2024,Business Studies,Mixed,12,2.46,Understand,0.9
+QZ1466,QF1158,07-06-2024,History,MCQ,9,2.3,Remember,2.24
+QZ1467,QF1158,22-05-2024,English,Open,10,3.4,Evaluate,4.73
+QZ1468,QF1159,27-07-2024,Biology,MCQ,8,3.57,Evaluate,1.1
+QZ1469,QF1160,21-05-2024,Biology,MCQ,8,3.02,Understand,1.74
+QZ1470,QF1161,30-05-2024,Mathematics,MCQ,8,3.28,Analyze,0.48
+QZ1471,QF1162,03-08-2024,Programming,Open,8,2.96,Remember,0.84
+QZ1472,QF1163,27-07-2024,Biology,Open,9,3.08,Apply,0.13
+QZ1473,QF1163,21-07-2024,Computer Science,MCQ,2,1.88,Understand,0.62
+QZ1474,QF1163,06-08-2024,History,MCQ,8,3.3,Understand,0.97
+QZ1475,QF1164,08-06-2024,English,MCQ,9,3.13,Understand,0.32
+QZ1476,QF1164,27-07-2024,Physics,Mixed,8,3.06,Analyze,0.22
+QZ1477,QF1164,17-08-2024,English,MCQ,10,2.8,Remember,5.85
+QZ1478,QF1165,17-05-2024,History,MCQ,6,3.15,Remember,1.17
+QZ1479,QF1166,17-06-2024,Programming,Open,5,2.43,Understand,1.25
+QZ1480,QF1166,28-06-2024,Language,MCQ,9,2.72,Remember,6.72
+QZ1481,QF1166,31-08-2024,Computer Science,Mixed,8,2.85,Understand,6.56
+QZ1482,QF1166,15-07-2024,Programming,Mixed,6,2.39,Understand,0.37
+QZ1483,QF1166,03-08-2024,Language,MCQ,3,2.18,Understand,2.8
+QZ1484,QF1167,07-06-2024,History,Mixed,7,3.06,Understand,0.24
+QZ1485,QF1167,16-07-2024,Mathematics,MCQ,9,3.02,Apply,1.29
+QZ1486,QF1167,24-07-2024,Physics,MCQ,9,2.54,Remember,3.43
+QZ1487,QF1168,11-06-2024,English,MCQ,5,3.02,Understand,0.11
+QZ1488,QF1169,11-07-2024,Chemistry,Mixed,4,2.26,Remember,1.27
+QZ1489,QF1170,10-05-2024,General Knowledge,MCQ,9,3.24,Analyze,0.63
+QZ1490,QF1173,12-06-2024,English,MCQ,7,3.15,Understand,0.8
+QZ1491,QF1173,10-07-2024,Mathematics,Open,9,2.56,Analyze,2.36
+QZ1492,QF1173,21-07-2024,Physics,Mixed,5,3.27,Analyze,0.99
+QZ1493,QF1173,26-05-2024,General Knowledge,Mixed,9,2.95,Evaluate,1.3
+QZ1494,QF1173,07-07-2024,Computer Science,Mixed,10,3.61,Analyze,0.9
+QZ1495,QF1174,27-07-2024,History,MCQ,5,3.42,Apply,0.54
+QZ1496,QF1174,10-06-2024,History,Open,10,2.52,Understand,3.55
+QZ1497,QF1176,08-08-2024,Computer Science,Mixed,6,2.62,Understand,1.4
+QZ1498,QF1176,17-08-2024,General Knowledge,MCQ,10,3.22,Analyze,3.39
+QZ1499,QF1176,29-05-2024,Language,MCQ,10,3.2,Understand,1.24
+QZ1500,QF1176,05-07-2024,Physics,MCQ,9,3.04,Evaluate,5.64
+QZ1501,QF1176,28-05-2024,Computer Science,MCQ,6,2.79,Remember,2.27
+QZ1502,QF1176,09-08-2024,General Knowledge,MCQ,9,2.43,Remember,4.23
+QZ1503,QF1176,19-08-2024,Biology,Mixed,16,2.54,Understand,1.02
+QZ1504,QF1176,26-08-2024,English,Mixed,5,3.81,Understand,3.81
+QZ1505,QF1176,14-08-2024,Mathematics,Open,9,2.83,Remember,0.15
+QZ1506,QF1177,26-07-2024,Computer Science,MCQ,11,3.22,Understand,4.55
+QZ1507,QF1177,17-07-2024,Mathematics,Mixed,7,3,Remember,0.44
+QZ1508,QF1177,25-08-2024,Language,Mixed,3,2.72,Apply,3.15
+QZ1509,QF1177,03-08-2024,Language,Mixed,13,2.81,Understand,6.36
+QZ1510,QF1177,14-08-2024,Programming,MCQ,4,2.57,Remember,0.19
+QZ1511,QF1177,26-05-2024,Programming,Mixed,10,3.07,Remember,5.94
+QZ1512,QF1177,31-07-2024,Biology,MCQ,4,2.3,Remember,4.47
+QZ1513,QF1177,26-06-2024,History,MCQ,9,2.69,Apply,0.38
+QZ1514,QF1177,19-06-2024,Computer Science,Open,11,3.66,Understand,1.22
+QZ1515,QF1177,25-07-2024,Physics,MCQ,7,2.6,Understand,2.99
+QZ1516,QF1178,08-08-2024,Programming,MCQ,5,3.35,Apply,0.47
+QZ1517,QF1178,24-08-2024,History,Mixed,8,2.15,Remember,1.24
+QZ1518,QF1180,26-08-2024,General Knowledge,Mixed,9,2.14,Understand,2.94
+QZ1519,QF1180,15-08-2024,History,MCQ,12,2.94,Understand,5.28
+QZ1520,QF1180,05-08-2024,Programming,Mixed,5,3.28,Remember,3.89
+QZ1521,QF1181,26-08-2024,Physics,MCQ,6,3.2,Remember,2.67
+QZ1522,QF1181,29-08-2024,English,Mixed,8,2.82,Understand,6.14
+QZ1523,QF1181,18-05-2024,Language,Mixed,9,3.5,Remember,1.92
+QZ1524,QF1181,23-08-2024,English,Mixed,10,2.74,Remember,2.86
+QZ1525,QF1181,13-07-2024,Programming,Mixed,13,3.69,Apply,1.69
+QZ1526,QF1181,19-08-2024,Computer Science,MCQ,10,2.85,Remember,3.98
+QZ1527,QF1181,28-07-2024,History,MCQ,7,3.13,Analyze,3.76
+QZ1528,QF1181,01-07-2024,Computer Science,MCQ,8,3.09,Remember,6.06
+QZ1529,QF1181,21-08-2024,English,MCQ,12,2.9,Understand,0.39
+QZ1530,QF1181,24-05-2024,Language,MCQ,7,2.65,Understand,2.66
+QZ1531,QF1181,13-08-2024,Chemistry,MCQ,8,3.37,Remember,1.03
+QZ1532,QF1181,09-07-2024,Biology,MCQ,3,2.16,Remember,7.59
+QZ1533,QF1181,27-07-2024,Computer Science,Mixed,4,2.9,Understand,0.28
+QZ1534,QF1181,18-08-2024,Programming,MCQ,7,3.39,Understand,2.52
+QZ1535,QF1182,14-07-2024,Computer Science,MCQ,9,3.36,Remember,0.71
+QZ1536,QF1183,15-06-2024,Programming,MCQ,11,2.88,Remember,1.76
+QZ1537,QF1184,24-07-2024,Chemistry,Mixed,10,2.84,Apply,2.18
+QZ1538,QF1185,06-05-2024,General Knowledge,MCQ,12,3.07,Understand,4.67
+QZ1539,QF1185,31-05-2024,General Knowledge,MCQ,8,3.19,Evaluate,0.73
+QZ1540,QF1185,11-07-2024,English,Mixed,11,3.37,Analyze,3.1
+QZ1541,QF1185,08-07-2024,Computer Science,MCQ,8,3.38,Apply,4.34
+QZ1542,QF1187,10-06-2024,Language,Mixed,6,2.49,Remember,0.44
+QZ1543,QF1187,15-06-2024,Mathematics,Open,5,2.65,Apply,1.92
+QZ1544,QF1188,01-07-2024,English,Mixed,8,3.01,Remember,0.82
+QZ1545,QF1189,10-05-2024,English,Mixed,14,3.34,Remember,1.57
+QZ1546,QF1189,13-08-2024,Biology,Mixed,10,3.59,Evaluate,1.66
+QZ1547,QF1189,12-07-2024,Computer Science,MCQ,6,2.63,Remember,0.21
+QZ1548,QF1189,17-06-2024,General Knowledge,Open,8,2.88,Apply,6
+QZ1549,QF1189,10-08-2024,General Knowledge,Mixed,11,3.23,Remember,4.34
+QZ1550,QF1189,21-08-2024,Programming,Mixed,10,3.1,Apply,1.92
+QZ1551,QF1189,18-08-2024,History,Mixed,10,3.22,Apply,3
+QZ1552,QF1189,13-06-2024,Business Studies,MCQ,14,2.81,Remember,1.66
+QZ1553,QF1189,24-07-2024,Business Studies,MCQ,4,2.67,Understand,1.11
+QZ1554,QF1189,13-07-2024,Business Studies,Mixed,12,2.9,Remember,2.79
+QZ1555,QF1189,22-05-2024,Programming,MCQ,9,2.22,Remember,0.86
+QZ1556,QF1189,17-06-2024,Biology,MCQ,11,2.78,Remember,0.79
+QZ1557,QF1189,28-08-2024,Language,Open,8,2.63,Understand,6.48
+QZ1558,QF1189,11-08-2024,Business Studies,Mixed,5,2.34,Remember,0.19
+QZ1559,QF1191,02-06-2024,Chemistry,Open,7,3.82,Apply,0.53
+QZ1560,QF1192,12-08-2024,Programming,MCQ,4,4.03,Evaluate,0.35
+QZ1561,QF1192,15-08-2024,Physics,MCQ,11,2.91,Understand,2.28
+QZ1562,QF1193,01-07-2024,English,MCQ,5,3.24,Remember,1.49
+QZ1563,QF1193,28-07-2024,Language,Mixed,11,2.7,Remember,0.27
+QZ1564,QF1193,22-06-2024,Programming,MCQ,5,2.51,Remember,0.38
+QZ1565,QF1194,28-06-2024,Programming,MCQ,11,3.56,Understand,1.44
+QZ1566,QF1194,24-05-2024,General Knowledge,MCQ,7,3,Analyze,2.84
+QZ1567,QF1195,21-08-2024,History,Mixed,9,3.17,Remember,0.89
+QZ1568,QF1195,30-06-2024,Physics,MCQ,15,2.83,Remember,0.85
+QZ1569,QF1195,03-06-2024,Biology,MCQ,6,2.4,Remember,0.33
+QZ1570,QF1197,16-08-2024,Programming,MCQ,13,2.82,Remember,1.2
+QZ1571,QF1198,27-07-2024,English,MCQ,10,2.54,Remember,0.12
+QZ1572,QF1198,09-07-2024,Biology,MCQ,10,3.09,Understand,1.38
+QZ1573,QF1198,23-08-2024,Biology,MCQ,4,2.52,Remember,4.39
+QZ1574,QF1198,23-07-2024,Chemistry,MCQ,9,3.11,Understand,0.21
+QZ1575,QF1201,03-06-2024,Mathematics,MCQ,14,2.88,Remember,2.02
+QZ1576,QF1202,12-06-2024,Mathematics,MCQ,9,3.37,Understand,2.7
+QZ1577,QF1202,14-06-2024,Biology,Mixed,12,2.74,Remember,2.35
+QZ1578,QF1203,08-07-2024,Business Studies,MCQ,14,2.53,Understand,1.29
+QZ1579,QF1205,13-05-2024,General Knowledge,Open,10,2.53,Remember,2.36
+QZ1580,QF1205,17-06-2024,Physics,MCQ,9,2.7,Remember,0.54
+QZ1581,QF1206,30-08-2024,Business Studies,Open,13,3.15,Remember,3.17
+QZ1582,QF1209,03-06-2024,Computer Science,MCQ,3,3.07,Remember,1.25
+QZ1583,QF1209,01-07-2024,Programming,MCQ,10,3.08,Understand,0.12
+QZ1584,QF1209,10-08-2024,General Knowledge,MCQ,7,4,Analyze,1.58
+QZ1585,QF1209,18-05-2024,Biology,MCQ,10,2.9,Understand,1.31
+QZ1586,QF1209,26-07-2024,Computer Science,MCQ,10,3.18,Apply,2.88
+QZ1587,QF1210,01-06-2024,Business Studies,MCQ,7,2.8,Remember,0.1
+QZ1588,QF1211,23-06-2024,Computer Science,Mixed,5,3.66,Understand,4.57
+QZ1589,QF1211,22-08-2024,Biology,MCQ,6,3.25,Understand,0.37
+QZ1590,QF1211,02-07-2024,Chemistry,MCQ,8,3.09,Understand,3.1
+QZ1591,QF1211,11-06-2024,Programming,Mixed,9,2.16,Remember,4.66
+QZ1592,QF1211,22-05-2024,Mathematics,Mixed,10,2.64,Remember,8.24
+QZ1593,QF1211,25-07-2024,Physics,MCQ,10,3.2,Apply,7.99
+QZ1594,QF1211,25-08-2024,Computer Science,MCQ,5,2.39,Remember,4.11
+QZ1595,QF1213,15-05-2024,Biology,MCQ,14,3,Remember,1.04
+QZ1596,QF1214,21-08-2024,Chemistry,Mixed,9,3.56,Understand,0.45
+QZ1597,QF1217,13-07-2024,Language,Open,7,3.01,Understand,1.12
+QZ1598,QF1218,26-07-2024,Business Studies,MCQ,5,3.28,Understand,0.34
+QZ1599,QF1219,02-06-2024,Mathematics,MCQ,8,3.02,Remember,3.15
+QZ1600,QF1220,28-08-2024,Language,MCQ,6,3.21,Remember,3.21
+QZ1601,QF1220,22-05-2024,Biology,Mixed,6,3.7,Evaluate,0.25
+QZ1602,QF1220,17-08-2024,Physics,MCQ,13,2.78,Understand,0.8
+QZ1603,QF1221,07-06-2024,Business Studies,MCQ,6,3.15,Apply,5.79
+QZ1604,QF1221,12-06-2024,Chemistry,Mixed,11,3.86,Evaluate,0.61
+QZ1605,QF1221,07-06-2024,Business Studies,Mixed,6,3.36,Analyze,6
+QZ1606,QF1221,14-06-2024,Programming,MCQ,12,2.6,Remember,2.53
+QZ1607,QF1221,20-07-2024,Language,MCQ,14,2.93,Remember,0.96
+QZ1608,QF1221,06-07-2024,Language,Mixed,5,3.01,Remember,6
+QZ1609,QF1221,15-07-2024,General Knowledge,MCQ,11,3.36,Understand,5.89
+QZ1610,QF1221,16-08-2024,History,MCQ,4,2.64,Understand,1.23
+QZ1611,QF1221,21-05-2024,Business Studies,Open,6,3.21,Remember,0.51
+QZ1612,QF1221,09-08-2024,General Knowledge,MCQ,5,2.62,Understand,2.67
+QZ1613,QF1221,17-07-2024,Language,Open,10,3.52,Apply,0.13
+QZ1614,QF1221,31-05-2024,Computer Science,MCQ,7,3.65,Apply,6.15
+QZ1615,QF1221,21-06-2024,Language,Mixed,7,2.75,Remember,3.2
+QZ1616,QF1223,10-08-2024,Business Studies,Open,6,2.77,Remember,1.22
+QZ1617,QF1228,22-07-2024,Chemistry,MCQ,9,2.75,Remember,4.96
+QZ1618,QF1229,09-07-2024,Business Studies,MCQ,5,2.52,Remember,4.26
+QZ1619,QF1229,21-08-2024,Business Studies,Mixed,5,2.82,Apply,1.38
+QZ1620,QF1229,30-07-2024,English,Mixed,8,2.85,Remember,0.64
+QZ1621,QF1229,31-07-2024,Biology,MCQ,7,2.98,Understand,0.28
+QZ1622,QF1229,29-08-2024,Programming,Mixed,13,2.56,Understand,5.64
+QZ1623,QF1229,02-08-2024,English,Open,3,4.24,Evaluate,2.94
+QZ1624,QF1229,27-08-2024,Language,Open,9,3.41,Understand,4.28
+QZ1625,QF1229,19-07-2024,Business Studies,MCQ,4,2.86,Remember,4.98
+QZ1626,QF1229,21-07-2024,Programming,Mixed,12,2.57,Understand,8.29
+QZ1627,QF1229,29-08-2024,Biology,MCQ,7,2.33,Remember,7.44
+QZ1628,QF1229,18-07-2024,English,Mixed,10,2.39,Remember,7.27
+QZ1629,QF1229,29-06-2024,Business Studies,Open,8,3,Understand,0.25
+QZ1630,QF1229,14-07-2024,Physics,Open,10,3,Understand,1.66
+QZ1631,QF1229,25-06-2024,English,MCQ,9,3.3,Analyze,0.48
+QZ1632,QF1230,14-07-2024,Biology,Mixed,3,2.19,Understand,7.24
+QZ1633,QF1230,15-07-2024,English,MCQ,12,2.94,Understand,4.15
+QZ1634,QF1230,24-07-2024,History,Open,9,3.08,Understand,1.42
+QZ1635,QF1231,25-08-2024,History,MCQ,9,2.75,Remember,3.66
+QZ1636,QF1232,20-07-2024,Language,MCQ,8,2.65,Understand,1.35
+QZ1637,QF1232,03-07-2024,Physics,MCQ,9,2.98,Remember,0.86
+QZ1638,QF1234,28-06-2024,Chemistry,MCQ,10,2.23,Understand,0.17
+QZ1639,QF1234,25-06-2024,Chemistry,MCQ,7,3.4,Understand,4.78
+QZ1640,QF1234,02-06-2024,Biology,Mixed,7,2.88,Analyze,0.49
+QZ1641,QF1234,18-08-2024,Computer Science,Mixed,12,3.35,Understand,0.54
+QZ1642,QF1234,15-08-2024,Chemistry,MCQ,6,3.19,Remember,0.55
+QZ1643,QF1236,02-08-2024,Biology,Open,7,2.91,Remember,1.02
+QZ1644,QF1236,31-08-2024,Physics,Mixed,9,3.16,Understand,0.33
+QZ1645,QF1236,24-07-2024,Computer Science,Mixed,7,3.11,Analyze,0.39
+QZ1646,QF1240,14-08-2024,Computer Science,Mixed,6,2.55,Remember,4.29
+QZ1647,QF1240,04-06-2024,History,MCQ,6,2.25,Understand,2.42
+QZ1648,QF1241,01-06-2024,Language,MCQ,14,2.86,Understand,2.39
+QZ1649,QF1241,21-05-2024,Business Studies,MCQ,8,2.29,Understand,0.79
+QZ1650,QF1242,24-07-2024,Computer Science,Open,8,3.25,Understand,2.78
+QZ1651,QF1242,16-08-2024,Mathematics,Mixed,8,3.54,Apply,2.42
+QZ1652,QF1242,18-07-2024,Biology,MCQ,5,3.35,Apply,1.86
+QZ1653,QF1242,30-07-2024,Computer Science,Mixed,7,2.71,Apply,2.3
+QZ1654,QF1242,14-06-2024,Computer Science,Mixed,3,3.67,Understand,1.1
+QZ1655,QF1242,25-06-2024,General Knowledge,Mixed,10,2.66,Understand,1.71
+QZ1656,QF1242,02-08-2024,Mathematics,Mixed,9,2.61,Analyze,6.06
+QZ1657,QF1242,30-06-2024,General Knowledge,MCQ,9,3.22,Understand,1.2
+QZ1658,QF1242,17-08-2024,Computer Science,MCQ,9,3.41,Remember,2.6
+QZ1659,QF1242,28-08-2024,Business Studies,MCQ,6,2.78,Remember,3.31
+QZ1660,QF1243,06-08-2024,Mathematics,Mixed,10,2.95,Apply,1.39
+QZ1661,QF1244,26-05-2024,History,MCQ,9,3.11,Understand,3.09
+QZ1662,QF1245,25-05-2024,English,Open,10,2.68,Remember,1.89
+QZ1663,QF1245,20-08-2024,Computer Science,MCQ,6,3.21,Remember,0.39
+QZ1664,QF1246,11-08-2024,Computer Science,MCQ,3,2.44,Apply,0.47
+QZ1665,QF1247,30-06-2024,Language,Mixed,11,2.78,Apply,0.34
+QZ1666,QF1249,27-08-2024,Language,MCQ,9,3.36,Apply,1.94
+QZ1667,QF1249,16-08-2024,General Knowledge,MCQ,8,3.33,Apply,3.29
+QZ1668,QF1249,23-08-2024,Biology,MCQ,6,2.15,Apply,2.23
+QZ1669,QF1249,17-06-2024,Business Studies,Mixed,10,3.26,Remember,10.97
+QZ1670,QF1249,10-07-2024,Biology,Mixed,6,3.26,Apply,0.35
+QZ1671,QF1249,08-08-2024,English,MCQ,7,2.48,Evaluate,3.02
+QZ1672,QF1249,06-08-2024,Computer Science,MCQ,9,2.58,Remember,1.47
+QZ1673,QF1249,04-06-2024,Business Studies,MCQ,1,2.07,Apply,3.39
+QZ1674,QF1249,19-08-2024,Mathematics,MCQ,8,3.5,Apply,1.95
+QZ1675,QF1249,22-08-2024,Computer Science,Open,7,3.05,Remember,1.92
+QZ1676,QF1249,03-07-2024,History,MCQ,7,2.62,Understand,8.19
+QZ1677,QF1249,02-08-2024,Programming,MCQ,4,1.62,Understand,3.9
+QZ1678,QF1249,03-08-2024,Programming,MCQ,9,3.06,Remember,5.46
+QZ1679,QF1250,21-07-2024,Computer Science,MCQ,19,3.5,Understand,0.44
+QZ1680,QF1251,19-08-2024,Chemistry,Mixed,12,3.08,Remember,5.44
+QZ1681,QF1252,26-05-2024,Business Studies,MCQ,5,2.58,Understand,1.4
+QZ1682,QF1252,25-08-2024,Chemistry,MCQ,5,2.7,Understand,0.85
+QZ1683,QF1252,26-07-2024,General Knowledge,MCQ,9,3.22,Remember,0.31
+QZ1684,QF1252,08-07-2024,Language,Open,9,2.83,Remember,1.95
+QZ1685,QF1252,04-08-2024,Mathematics,Mixed,4,3.13,Remember,5.69
+QZ1686,QF1254,21-08-2024,Computer Science,Mixed,5,3.2,Apply,2.26
+QZ1687,QF1254,29-07-2024,General Knowledge,MCQ,7,3.28,Apply,6.48
+QZ1688,QF1254,04-07-2024,General Knowledge,MCQ,7,2.67,Understand,0.21
+QZ1689,QF1254,12-08-2024,Programming,MCQ,5,3.92,Apply,0.5
+QZ1690,QF1254,20-08-2024,Mathematics,MCQ,7,2.67,Understand,0.52
+QZ1691,QF1254,24-08-2024,Physics,MCQ,10,2.83,Understand,7.01
+QZ1692,QF1256,21-08-2024,Programming,MCQ,7,3.28,Evaluate,2.15
+QZ1693,QF1257,05-06-2024,Computer Science,Mixed,5,2.87,Apply,5.61
+QZ1694,QF1257,03-07-2024,Chemistry,MCQ,4,2.97,Remember,2.16
+QZ1695,QF1257,13-07-2024,Business Studies,Mixed,4,3.12,Understand,4.52
+QZ1696,QF1257,14-06-2024,Chemistry,MCQ,5,2.3,Remember,1.05
+QZ1697,QF1258,15-07-2024,Mathematics,MCQ,9,3.13,Apply,1.69
+QZ1698,QF1258,16-07-2024,English,MCQ,4,2.2,Remember,4.54
+QZ1699,QF1258,20-07-2024,Computer Science,MCQ,10,2.87,Understand,2.12
+QZ1700,QF1258,07-08-2024,History,MCQ,11,3.18,Remember,1.84
+QZ1701,QF1258,18-08-2024,Biology,Open,7,2.97,Understand,2.92
+QZ1702,QF1259,18-06-2024,Business Studies,Mixed,8,3.26,Understand,1.02
+QZ1703,QF1259,12-07-2024,History,MCQ,8,3.88,Analyze,2.44
+QZ1704,QF1259,17-07-2024,History,MCQ,9,2.46,Understand,0.95
+QZ1705,QF1259,05-08-2024,Computer Science,MCQ,2,2.8,Remember,0.45
+QZ1706,QF1259,28-07-2024,English,Mixed,12,2.99,Remember,4.21
+QZ1707,QF1259,28-06-2024,Computer Science,MCQ,7,2.69,Apply,0.55
+QZ1708,QF1260,01-08-2024,English,Mixed,7,2.76,Understand,0.8
+QZ1709,QF1260,21-08-2024,Physics,Open,4,2.82,Understand,0.39
+QZ1710,QF1262,22-08-2024,Business Studies,MCQ,13,2.36,Understand,2.73
+QZ1711,QF1262,25-07-2024,Mathematics,Mixed,7,3.06,Understand,0.1
+QZ1712,QF1263,15-07-2024,Language,MCQ,5,2.27,Understand,0.52
+QZ1713,QF1263,28-06-2024,Mathematics,Open,7,3.12,Understand,0.32
+QZ1714,QF1264,15-08-2024,History,MCQ,9,2.6,Remember,6.59
+QZ1715,QF1264,30-06-2024,Biology,MCQ,9,3.49,Understand,1.36
+QZ1716,QF1264,26-07-2024,Programming,MCQ,6,2.89,Understand,2.57
+QZ1717,QF1264,29-06-2024,Physics,MCQ,6,2.24,Understand,3.08
+QZ1718,QF1264,31-08-2024,Programming,MCQ,8,2.24,Remember,2.45
+QZ1719,QF1264,30-08-2024,Mathematics,Open,7,2.35,Understand,4.4
+QZ1720,QF1264,14-07-2024,Mathematics,Mixed,9,2.72,Remember,3.89
+QZ1721,QF1265,22-07-2024,Biology,MCQ,9,2.58,Remember,0.86
+QZ1722,QF1267,17-08-2024,Biology,Mixed,4,2.87,Understand,0.92
+QZ1723,QF1267,02-08-2024,Mathematics,Mixed,10,2.99,Apply,1.85
+QZ1724,QF1267,21-08-2024,General Knowledge,MCQ,7,3.55,Understand,0.1
+QZ1725,QF1268,19-08-2024,Chemistry,MCQ,8,3.72,Analyze,2.48
+QZ1726,QF1269,17-08-2024,Biology,MCQ,9,2.92,Remember,3.87
+QZ1727,QF1269,18-08-2024,Chemistry,MCQ,5,2.66,Remember,7.98
+QZ1728,QF1269,14-06-2024,Business Studies,Mixed,4,3,Remember,0.36
+QZ1729,QF1269,20-08-2024,Programming,MCQ,8,2.16,Remember,2.75
+QZ1730,QF1269,22-06-2024,Physics,MCQ,5,3.09,Analyze,15
+QZ1731,QF1269,27-06-2024,General Knowledge,MCQ,11,3.01,Analyze,0.26
+QZ1732,QF1269,08-08-2024,Biology,MCQ,7,2.89,Remember,0.48
+QZ1733,QF1269,10-07-2024,Business Studies,MCQ,8,3.09,Apply,1.9
+QZ1734,QF1269,24-06-2024,English,MCQ,9,2.74,Understand,2.94
+QZ1735,QF1271,18-08-2024,History,Mixed,7,2.79,Remember,0.81
+QZ1736,QF1271,13-08-2024,Chemistry,Mixed,12,2.69,Remember,2
+QZ1737,QF1271,07-06-2024,General Knowledge,MCQ,7,3.01,Understand,12.47
+QZ1738,QF1271,17-07-2024,General Knowledge,MCQ,8,2.49,Remember,1.78
+QZ1739,QF1271,21-08-2024,Physics,Mixed,4,3.34,Evaluate,1.34
+QZ1740,QF1271,28-08-2024,Chemistry,MCQ,10,2.55,Remember,5.17
+QZ1741,QF1271,25-06-2024,English,MCQ,15,2.52,Remember,1.45
+QZ1742,QF1271,17-06-2024,Physics,Open,8,2.35,Remember,8.65
+QZ1743,QF1271,18-08-2024,General Knowledge,MCQ,9,3.07,Apply,1
+QZ1744,QF1272,26-07-2024,Mathematics,MCQ,4,3.39,Apply,2.36
+QZ1745,QF1272,08-08-2024,English,MCQ,6,2.35,Understand,1.63
+QZ1746,QF1272,01-08-2024,General Knowledge,MCQ,4,2.84,Apply,0.64
+QZ1747,QF1272,24-08-2024,Programming,MCQ,9,3.2,Apply,1.31
+QZ1748,QF1273,02-07-2024,Computer Science,Open,5,4.13,Evaluate,0.63
+QZ1749,QF1274,09-06-2024,Computer Science,MCQ,10,2.9,Remember,0.41
+QZ1750,QF1275,16-07-2024,Biology,MCQ,7,2.48,Apply,0.3
+QZ1751,QF1276,19-06-2024,Physics,MCQ,3,3.46,Analyze,0.33
+QZ1752,QF1277,06-06-2024,General Knowledge,MCQ,11,2.85,Understand,2.65
+QZ1753,QF1277,28-08-2024,Programming,Mixed,11,2.66,Remember,2
+QZ1754,QF1277,26-07-2024,Biology,Mixed,6,2.65,Remember,4.73
+QZ1755,QF1278,28-07-2024,Physics,MCQ,10,3.29,Apply,1.6
+QZ1756,QF1278,26-07-2024,English,Mixed,5,3.08,Evaluate,5.01
+QZ1757,QF1278,12-07-2024,Programming,MCQ,8,4.03,Evaluate,0.48
+QZ1758,QF1278,21-08-2024,General Knowledge,MCQ,11,3.13,Remember,4.28
+QZ1759,QF1278,05-08-2024,Physics,Mixed,6,4.04,Evaluate,2.39
+QZ1760,QF1278,29-08-2024,General Knowledge,MCQ,7,3.03,Understand,7.28
+QZ1761,QF1278,27-07-2024,Mathematics,MCQ,8,2.68,Evaluate,3.11
+QZ1762,QF1278,18-07-2024,History,MCQ,9,1.66,Remember,9.2
+QZ1763,QF1278,16-06-2024,Language,MCQ,6,2.73,Apply,1.22
+QZ1764,QF1278,30-07-2024,Computer Science,MCQ,10,2.59,Understand,3.04
+QZ1765,QF1278,23-06-2024,Programming,MCQ,8,3.63,Understand,4.34
+QZ1766,QF1278,10-06-2024,History,MCQ,6,2.18,Understand,4.66
+QZ1767,QF1278,05-08-2024,Physics,Open,6,3.06,Apply,6.95
+QZ1768,QF1278,13-06-2024,Language,Open,10,3.13,Apply,1.58
+QZ1769,QF1280,05-07-2024,Programming,Open,8,3.32,Evaluate,0.36
+QZ1770,QF1281,25-07-2024,History,MCQ,4,2.33,Remember,0.36
+QZ1771,QF1281,23-08-2024,Mathematics,Mixed,5,4.13,Evaluate,0.35
+QZ1772,QF1281,17-06-2024,Computer Science,MCQ,8,2.85,Understand,0.12
+QZ1773,QF1283,16-06-2024,Business Studies,Open,6,4.25,Evaluate,3
+QZ1774,QF1283,07-07-2024,Physics,MCQ,4,2.73,Understand,3.43
+QZ1775,QF1283,07-06-2024,Computer Science,Mixed,7,3.07,Understand,0.13
+QZ1776,QF1283,01-07-2024,History,MCQ,10,2.73,Understand,1.78
+QZ1777,QF1283,29-06-2024,Programming,MCQ,9,2.89,Understand,0.78
+QZ1778,QF1283,11-06-2024,Business Studies,Mixed,12,2.84,Remember,2.73
+QZ1779,QF1283,01-08-2024,Chemistry,Open,9,3.44,Remember,4.15
+QZ1780,QF1283,07-07-2024,Computer Science,Open,6,2.89,Understand,2.21
+QZ1781,QF1283,14-06-2024,Chemistry,MCQ,9,3.19,Understand,0.47
+QZ1782,QF1283,17-08-2024,Language,MCQ,7,2.34,Understand,3.18
+QZ1783,QF1283,03-08-2024,Programming,MCQ,6,3.56,Evaluate,8.41
+QZ1784,QF1283,27-07-2024,English,Mixed,7,3.37,Remember,8.63
+QZ1785,QF1283,20-08-2024,General Knowledge,Mixed,9,3.54,Understand,5.25
+QZ1786,QF1283,06-08-2024,Language,MCQ,6,2.48,Understand,0.98
+QZ1787,QF1283,27-06-2024,Business Studies,Open,8,2.22,Remember,0.71
+QZ1788,QF1283,26-06-2024,Business Studies,MCQ,12,2.82,Remember,5.85
+QZ1789,QF1283,05-08-2024,Computer Science,MCQ,8,2.5,Remember,0.24
+QZ1790,QF1283,31-07-2024,General Knowledge,MCQ,6,3.05,Analyze,0.83
+QZ1791,QF1284,13-08-2024,English,MCQ,5,3.41,Apply,0.95
+QZ1792,QF1284,25-06-2024,History,Open,11,2.87,Apply,1.64
+QZ1793,QF1284,29-08-2024,Biology,MCQ,10,3.12,Remember,8.56
+QZ1794,QF1284,17-08-2024,Physics,Mixed,9,2.65,Remember,5.59
+QZ1795,QF1284,16-06-2024,English,Mixed,6,3.29,Remember,1.77
+QZ1796,QF1284,20-08-2024,Business Studies,Mixed,11,2.92,Remember,5.46
+QZ1797,QF1284,09-08-2024,Biology,MCQ,6,3.34,Understand,7.18
+QZ1798,QF1284,18-07-2024,Business Studies,MCQ,11,3.1,Analyze,3.48
+QZ1799,QF1284,14-08-2024,General Knowledge,MCQ,12,3.03,Remember,1.87
+QZ1800,QF1284,02-06-2024,General Knowledge,MCQ,6,2.92,Understand,0.22
+QZ1801,QF1284,14-08-2024,Programming,MCQ,8,3.41,Remember,2.81
+QZ1802,QF1287,27-07-2024,Computer Science,MCQ,5,2.5,Understand,1.28
+QZ1803,QF1288,05-08-2024,History,MCQ,5,2.81,Remember,0.61
+QZ1804,QF1289,31-07-2024,Mathematics,MCQ,6,2.73,Understand,0.37
+QZ1805,QF1289,13-08-2024,Business Studies,Mixed,8,2.47,Analyze,0.85
+QZ1806,QF1290,03-08-2024,History,MCQ,6,2.66,Understand,0.63
+QZ1807,QF1291,12-08-2024,Chemistry,Mixed,12,3.2,Remember,0.86
+QZ1808,QF1294,06-08-2024,Business Studies,Mixed,7,2.27,Remember,1.28
+QZ1809,QF1294,25-07-2024,Biology,MCQ,9,2.98,Understand,2.96
+QZ1810,QF1294,14-08-2024,History,MCQ,8,3.03,Analyze,11.8
+QZ1811,QF1294,08-08-2024,English,MCQ,6,3.21,Analyze,6.14
+QZ1812,QF1294,30-07-2024,History,MCQ,10,2.56,Remember,2.75
+QZ1813,QF1294,25-07-2024,English,MCQ,10,3.53,Understand,1.71
+QZ1814,QF1294,06-06-2024,General Knowledge,MCQ,9,2.55,Remember,7.83
+QZ1815,QF1295,04-06-2024,English,MCQ,5,3.98,Understand,1.94
+QZ1816,QF1295,21-06-2024,Language,Open,4,2.98,Understand,0.63
+QZ1817,QF1295,12-06-2024,Mathematics,Mixed,3,1.47,Understand,4.68
+QZ1818,QF1295,10-07-2024,Language,MCQ,7,3.61,Understand,2.09
+QZ1819,QF1295,22-08-2024,Biology,MCQ,7,3.15,Analyze,3.51
+QZ1820,QF1295,26-06-2024,Physics,Mixed,8,2.72,Understand,4.46
+QZ1821,QF1295,16-08-2024,Biology,MCQ,9,3.08,Understand,8.63
+QZ1822,QF1295,26-06-2024,Computer Science,MCQ,7,2.73,Understand,0.1
+QZ1823,QF1295,19-08-2024,Business Studies,MCQ,6,2.49,Remember,0.1
+QZ1824,QF1295,03-08-2024,Language,MCQ,11,2.7,Remember,2.93
+QZ1825,QF1295,15-08-2024,Biology,MCQ,12,3.21,Evaluate,2.44
+QZ1826,QF1295,23-06-2024,Business Studies,MCQ,14,3.26,Understand,0.98
+QZ1827,QF1295,18-08-2024,Programming,MCQ,10,3.08,Remember,2.39
+QZ1828,QF1295,05-06-2024,Business Studies,MCQ,6,2.97,Understand,0.85
+QZ1829,QF1295,31-08-2024,Business Studies,Open,13,2.02,Remember,3.86
+QZ1830,QF1296,04-07-2024,Mathematics,Mixed,7,2.78,Understand,9.5
+QZ1831,QF1296,10-07-2024,Physics,Mixed,11,2.87,Understand,0.27
+QZ1832,QF1296,16-06-2024,English,MCQ,7,3.24,Remember,3.81
+QZ1833,QF1296,08-08-2024,Biology,MCQ,4,3.61,Understand,4.56
+QZ1834,QF1296,16-07-2024,Computer Science,MCQ,5,3.9,Understand,1.32
+QZ1835,QF1296,04-06-2024,Biology,Mixed,11,2.67,Remember,2.75
+QZ1836,QF1296,16-08-2024,English,MCQ,8,2.68,Remember,15
+QZ1837,QF1296,13-08-2024,Programming,MCQ,13,3.51,Analyze,3.33
+QZ1838,QF1296,22-08-2024,General Knowledge,MCQ,10,2.91,Remember,4.3
+QZ1839,QF1296,02-07-2024,History,MCQ,7,3.01,Understand,2.94
+QZ1840,QF1296,04-06-2024,Business Studies,MCQ,7,2.98,Apply,0.93
+QZ1841,QF1296,05-08-2024,Language,MCQ,4,4.62,Create,4.06
+QZ1842,QF1296,30-06-2024,Language,MCQ,6,2.49,Remember,3.74
+QZ1843,QF1296,05-06-2024,History,MCQ,9,3.71,Evaluate,11.51
+QZ1844,QF1296,31-07-2024,Computer Science,Mixed,7,3.38,Apply,1.92
+QZ1845,QF1296,11-08-2024,Language,MCQ,9,2.95,Apply,0.32
+QZ1846,QF1296,21-08-2024,History,MCQ,9,3.35,Understand,2.16
+QZ1847,QF1296,19-08-2024,History,MCQ,7,2.78,Remember,5.1
+QZ1848,QF1296,17-08-2024,Business Studies,Mixed,9,3.42,Apply,3.04
+QZ1849,QF1297,30-08-2024,English,MCQ,9,2.6,Remember,0.61
+QZ1850,QF1298,06-08-2024,English,Mixed,6,3.03,Understand,0.3
+QZ1851,QF1298,17-06-2024,English,MCQ,8,2.9,Understand,1.21
+QZ1852,QF1298,28-06-2024,Biology,Open,5,3.2,Apply,3.13
+QZ1853,QF1300,13-07-2024,Physics,Open,8,3.19,Understand,1.34
+QZ1854,QF1300,21-08-2024,Biology,MCQ,11,3.93,Understand,2.61
+QZ1855,QF1302,31-07-2024,History,MCQ,7,2.91,Understand,0.56
+QZ1856,QF1302,21-07-2024,Physics,Open,8,3.01,Analyze,1.54
+QZ1857,QF1302,16-08-2024,Language,MCQ,9,2.57,Understand,2.87
+QZ1858,QF1303,11-06-2024,Chemistry,MCQ,5,2.65,Understand,0.43
+QZ1859,QF1304,17-08-2024,Biology,Mixed,9,3.05,Remember,1.01
+QZ1860,QF1304,01-08-2024,Biology,Mixed,5,2.73,Remember,5.05
+QZ1861,QF1304,21-07-2024,Business Studies,MCQ,6,3.64,Apply,1.13
+QZ1862,QF1305,01-07-2024,English,Mixed,4,2.75,Evaluate,4.17
+QZ1863,QF1306,17-06-2024,General Knowledge,MCQ,9,3.21,Understand,1.05
+QZ1864,QF1306,29-06-2024,Language,MCQ,7,2.98,Remember,1.56
+QZ1865,QF1308,30-07-2024,General Knowledge,Mixed,7,3.56,Remember,0.55
+QZ1866,QF1310,20-06-2024,English,Open,8,3.02,Remember,1.42
+QZ1867,QF1311,23-08-2024,Physics,MCQ,9,2.75,Remember,0.57
+QZ1868,QF1314,13-08-2024,Biology,MCQ,14,2.98,Remember,0.55
+QZ1869,QF1315,27-08-2024,English,Open,2,3.02,Understand,0.18
+QZ1870,QF1315,29-08-2024,Biology,MCQ,6,2.92,Understand,8.98
+QZ1871,QF1315,08-08-2024,History,Mixed,9,3.08,Understand,5.67
+QZ1872,QF1316,04-08-2024,Chemistry,MCQ,6,2.73,Apply,2.19
+QZ1873,QF1316,08-08-2024,English,MCQ,7,2.93,Understand,9.17
+QZ1874,QF1316,04-07-2024,Mathematics,Mixed,7,3.06,Apply,6.03
+QZ1875,QF1316,24-07-2024,Language,MCQ,13,3.01,Remember,0.75
+QZ1876,QF1316,18-08-2024,Chemistry,MCQ,10,3.13,Remember,0.12
+QZ1877,QF1316,09-06-2024,English,Mixed,8,2,Understand,0.6
+QZ1878,QF1316,08-08-2024,Mathematics,Open,6,2.71,Understand,7.99
+QZ1879,QF1317,15-08-2024,Mathematics,MCQ,11,2.8,Remember,1.28
+QZ1880,QF1318,14-07-2024,Language,Open,6,2.69,Remember,3.64
+QZ1881,QF1318,15-07-2024,English,Mixed,10,3.49,Apply,1.31
+QZ1882,QF1318,20-07-2024,Chemistry,Mixed,9,3.03,Remember,1.19
+QZ1883,QF1318,25-08-2024,Programming,Mixed,9,3.83,Analyze,2.76
+QZ1884,QF1318,12-07-2024,Business Studies,MCQ,8,3.09,Apply,6.62
+QZ1885,QF1318,06-08-2024,Physics,Mixed,9,2.96,Evaluate,1.64
+QZ1886,QF1320,01-07-2024,Mathematics,Mixed,12,2.76,Understand,1.6
+QZ1887,QF1320,28-06-2024,General Knowledge,Mixed,8,2.51,Remember,3.75
+QZ1888,QF1320,14-08-2024,English,Open,7,2.72,Remember,3.49
+QZ1889,QF1320,20-08-2024,Business Studies,MCQ,9,2.4,Remember,0.63
+QZ1890,QF1321,20-07-2024,Business Studies,MCQ,5,2.83,Remember,0.8
+QZ1891,QF1323,18-06-2024,Business Studies,Mixed,10,2.77,Understand,1.55
+QZ1892,QF1323,20-06-2024,History,MCQ,7,2.95,Remember,6.76
+QZ1893,QF1323,25-08-2024,Chemistry,MCQ,6,2.04,Remember,0.69
+QZ1894,QF1323,04-07-2024,Mathematics,Mixed,5,2.88,Remember,0.12
+QZ1895,QF1323,27-06-2024,English,MCQ,9,2.95,Analyze,8.43
+QZ1896,QF1323,12-08-2024,Business Studies,Mixed,7,3.7,Remember,2.03
+QZ1897,QF1324,14-07-2024,Physics,Open,8,3.32,Understand,2.96
+QZ1898,QF1324,05-08-2024,Physics,MCQ,7,2.69,Evaluate,1.65
+QZ1899,QF1324,31-08-2024,Computer Science,MCQ,5,3.37,Understand,3.39
+QZ1900,QF1325,17-07-2024,Business Studies,MCQ,10,2.94,Remember,0.82
+QZ1901,QF1325,17-07-2024,Physics,MCQ,10,2.79,Understand,2.2
+QZ1902,QF1325,14-08-2024,General Knowledge,Mixed,9,3.03,Remember,0.8
+QZ1903,QF1325,31-07-2024,Programming,MCQ,5,2.8,Remember,4.28
+QZ1904,QF1327,13-07-2024,Programming,MCQ,6,2.52,Understand,1.22
+QZ1905,QF1328,21-06-2024,Mathematics,Mixed,5,3.84,Understand,1.27
+QZ1906,QF1329,11-08-2024,Chemistry,Mixed,6,2.09,Remember,6.83
+QZ1907,QF1329,08-07-2024,Chemistry,Mixed,4,3.19,Remember,0.87
+QZ1908,QF1329,21-07-2024,General Knowledge,MCQ,10,3.08,Apply,2.45
+QZ1909,QF1332,26-07-2024,English,MCQ,10,3.09,Remember,1.2
+QZ1910,QF1332,07-08-2024,Physics,MCQ,6,3.2,Understand,2.22
+QZ1911,QF1332,23-08-2024,Biology,MCQ,9,3.62,Apply,0.51
+QZ1912,QF1332,16-08-2024,Physics,Open,7,3.77,Remember,0.35
+QZ1913,QF1333,23-07-2024,Language,MCQ,7,3.2,Remember,0.87
+QZ1914,QF1334,05-07-2024,Computer Science,Mixed,8,2.83,Remember,0.1
+QZ1915,QF1334,23-07-2024,General Knowledge,Mixed,6,2.49,Apply,1.28
+QZ1916,QF1336,04-07-2024,General Knowledge,Mixed,8,3.38,Evaluate,3.02
+QZ1917,QF1336,08-07-2024,General Knowledge,MCQ,8,3.03,Remember,3.58
+QZ1918,QF1336,10-08-2024,Biology,MCQ,15,3,Remember,2.85
+QZ1919,QF1338,30-07-2024,Language,Mixed,5,3.03,Understand,1.63
+QZ1920,QF1338,16-07-2024,Computer Science,MCQ,4,3.28,Apply,0.73
+QZ1921,QF1338,01-08-2024,Business Studies,MCQ,3,2.91,Remember,4.68
+QZ1922,QF1339,23-06-2024,Business Studies,Mixed,7,2.94,Remember,0.2
+QZ1923,QF1339,01-08-2024,English,Mixed,7,2.48,Remember,1.76
+QZ1924,QF1339,04-08-2024,General Knowledge,MCQ,4,2.23,Understand,2.84
+QZ1925,QF1339,28-06-2024,Computer Science,MCQ,9,3.02,Remember,1.06
+QZ1926,QF1339,01-08-2024,English,Open,9,3.31,Understand,0.34
+QZ1927,QF1340,02-07-2024,General Knowledge,Mixed,12,3.19,Analyze,1.95
+QZ1928,QF1342,18-08-2024,General Knowledge,MCQ,7,2.52,Understand,0.73
+QZ1929,QF1344,22-08-2024,Mathematics,MCQ,12,2.61,Remember,2.07
+QZ1930,QF1344,12-06-2024,General Knowledge,MCQ,7,2.75,Understand,0.19
+QZ1931,QF1345,21-08-2024,Physics,Mixed,7,2.7,Remember,0.2
+QZ1932,QF1346,08-08-2024,Biology,Mixed,2,3.38,Understand,1.75
+QZ1933,QF1349,21-08-2024,Programming,MCQ,5,2.99,Understand,1.92
+QZ1934,QF1349,27-08-2024,Biology,MCQ,4,2.61,Understand,11.79
+QZ1935,QF1349,18-08-2024,English,MCQ,3,2.28,Analyze,0.8
+QZ1936,QF1349,21-06-2024,Programming,MCQ,6,2.77,Remember,4.93
+QZ1937,QF1349,08-07-2024,Physics,Mixed,9,3.13,Understand,0.1
+QZ1938,QF1349,04-08-2024,Chemistry,MCQ,8,3.27,Remember,4.95
+QZ1939,QF1349,31-07-2024,Biology,MCQ,9,3.17,Remember,0.66
+QZ1940,QF1349,23-06-2024,Chemistry,Mixed,3,3.46,Analyze,0.98
+QZ1941,QF1349,16-06-2024,Language,MCQ,15,3.05,Understand,3.04
+QZ1942,QF1349,18-08-2024,Physics,MCQ,2,2.47,Evaluate,1.01
+QZ1943,QF1349,22-08-2024,Chemistry,MCQ,5,3.07,Understand,11.26
+QZ1944,QF1350,17-08-2024,Mathematics,MCQ,7,2.8,Apply,1.03
+QZ1945,QF1351,29-07-2024,Computer Science,MCQ,11,3.26,Evaluate,1.9
+QZ1946,QF1352,12-07-2024,Business Studies,MCQ,10,3.08,Understand,0.81
+QZ1947,QF1353,27-07-2024,General Knowledge,MCQ,10,2.71,Remember,0.1
+QZ1948,QF1354,17-07-2024,Business Studies,MCQ,12,3.15,Remember,6.88
+QZ1949,QF1355,23-08-2024,English,MCQ,9,2.7,Understand,1.49
+QZ1950,QF1355,30-07-2024,Mathematics,MCQ,12,3.27,Understand,1.44
+QZ1951,QF1355,26-08-2024,Biology,Mixed,6,3.02,Understand,2.81
+QZ1952,QF1355,28-08-2024,English,MCQ,11,2.97,Apply,2.48
+QZ1953,QF1355,13-08-2024,English,MCQ,7,2.66,Remember,1.55
+QZ1954,QF1355,25-07-2024,Business Studies,MCQ,8,2.29,Understand,0.42
+QZ1955,QF1356,18-08-2024,Physics,MCQ,8,3.15,Remember,5.33
+QZ1956,QF1356,30-06-2024,Programming,MCQ,11,2.5,Understand,0.31
+QZ1957,QF1356,30-08-2024,Biology,MCQ,11,2.97,Remember,1.39
+QZ1958,QF1356,12-07-2024,English,MCQ,13,2.67,Understand,0.21
+QZ1959,QF1357,24-07-2024,Programming,Mixed,4,3.01,Understand,0.87
+QZ1960,QF1358,19-08-2024,General Knowledge,Mixed,6,2.65,Understand,0.91
+QZ1961,QF1359,31-07-2024,Programming,MCQ,9,3.06,Understand,0.35
+QZ1962,QF1360,25-06-2024,Biology,MCQ,10,3.45,Analyze,0.56
+QZ1963,QF1360,26-08-2024,Computer Science,Mixed,7,2.86,Remember,0.1
+QZ1964,QF1360,08-08-2024,Physics,Mixed,7,2.49,Remember,0.12
+QZ1965,QF1360,21-07-2024,Language,Open,8,2.7,Remember,2.05
+QZ1966,QF1362,02-07-2024,Biology,Mixed,4,3.36,Analyze,0.4
+QZ1967,QF1362,08-07-2024,Programming,MCQ,7,2.91,Remember,0.68
+QZ1968,QF1362,08-07-2024,Chemistry,Mixed,5,3.14,Remember,3.46
+QZ1969,QF1364,22-08-2024,English,MCQ,3,2.84,Remember,11.92
+QZ1970,QF1364,25-07-2024,Chemistry,MCQ,5,3.32,Evaluate,1.79
+QZ1971,QF1364,21-08-2024,Physics,Mixed,3,3.94,Evaluate,0.62
+QZ1972,QF1364,11-08-2024,Mathematics,Open,12,2.79,Remember,0.13
+QZ1973,QF1366,30-08-2024,Chemistry,Open,5,4.62,Evaluate,5.44
+QZ1974,QF1366,08-08-2024,English,MCQ,10,2.81,Understand,1.24
+QZ1975,QF1366,10-08-2024,General Knowledge,Mixed,9,3.53,Analyze,9.79
+QZ1976,QF1366,25-08-2024,General Knowledge,MCQ,3,3.56,Apply,3.22
+QZ1977,QF1366,18-07-2024,English,MCQ,6,2.54,Remember,5.83
+QZ1978,QF1366,10-07-2024,Business Studies,Mixed,6,3.4,Understand,15
+QZ1979,QF1366,19-08-2024,Physics,MCQ,15,3.26,Remember,0.13
+QZ1980,QF1367,23-07-2024,Business Studies,Mixed,6,3.45,Understand,0.1
+QZ1981,QF1367,06-07-2024,English,Mixed,13,3.45,Apply,1.34
+QZ1982,QF1367,30-08-2024,Computer Science,Mixed,4,3.42,Apply,0.18
+QZ1983,QF1367,24-07-2024,English,Mixed,9,2.94,Analyze,0.1
+QZ1984,QF1367,24-08-2024,Language,Mixed,4,3.49,Understand,0.45
+QZ1985,QF1368,30-07-2024,Language,MCQ,10,2.93,Remember,0.29
+QZ1986,QF1368,21-08-2024,Business Studies,MCQ,7,2.42,Remember,0.94
+QZ1987,QF1369,05-08-2024,Business Studies,MCQ,11,3.53,Evaluate,2.74
+QZ1988,QF1369,14-08-2024,Physics,MCQ,8,2.35,Understand,0.16
+QZ1989,QF1369,30-08-2024,General Knowledge,Mixed,7,2.28,Remember,5
+QZ1990,QF1370,25-06-2024,Mathematics,MCQ,5,4.36,Analyze,5.83
+QZ1991,QF1370,25-08-2024,Computer Science,Mixed,8,2.99,Understand,1.21
+QZ1992,QF1372,07-08-2024,History,Mixed,8,2.93,Evaluate,1.41
+QZ1993,QF1372,22-07-2024,General Knowledge,Mixed,10,3.46,Remember,6.71
+QZ1994,QF1372,18-08-2024,English,MCQ,7,2.18,Remember,1.57
+QZ1995,QF1375,20-07-2024,Mathematics,MCQ,12,2.22,Understand,0.1
+QZ1996,QF1375,21-08-2024,Physics,MCQ,5,3.59,Evaluate,0.51
+QZ1997,QF1375,24-07-2024,Biology,MCQ,4,3.45,Remember,0.9
+QZ1998,QF1376,05-08-2024,Programming,Open,4,2.2,Remember,1.77
+QZ1999,QF1376,27-06-2024,General Knowledge,MCQ,12,2.97,Understand,0.51
+QZ2000,QF1376,01-07-2024,General Knowledge,Mixed,5,2.63,Understand,0.52
+QZ2001,QF1377,30-07-2024,Mathematics,Mixed,4,3.42,Understand,4.58
+QZ2002,QF1377,09-08-2024,Programming,MCQ,2,3.29,Understand,2.31
+QZ2003,QF1377,30-06-2024,English,Mixed,15,2.6,Remember,4.63
+QZ2004,QF1377,11-07-2024,General Knowledge,Mixed,8,2.78,Remember,1.45
+QZ2005,QF1377,04-08-2024,Mathematics,MCQ,6,3.71,Apply,5.8
+QZ2006,QF1377,06-08-2024,Chemistry,MCQ,9,2.58,Remember,9.63
+QZ2007,QF1377,04-07-2024,Business Studies,MCQ,7,3.16,Apply,5.74
+QZ2008,QF1377,26-07-2024,Language,Mixed,9,3.15,Remember,2.24
+QZ2009,QF1377,02-08-2024,Programming,Open,10,3.09,Understand,2.97
+QZ2010,QF1377,17-07-2024,Business Studies,Mixed,10,2.92,Remember,3.32
+QZ2011,QF1377,04-08-2024,English,MCQ,4,3.19,Understand,5.86
+QZ2012,QF1378,24-08-2024,Chemistry,MCQ,14,2.66,Remember,0.98
+QZ2013,QF1379,23-08-2024,General Knowledge,MCQ,3,2.94,Understand,1.63
+QZ2014,QF1380,22-06-2024,Computer Science,Mixed,9,3.17,Evaluate,0.25
+QZ2015,QF1380,29-06-2024,Programming,MCQ,10,3.44,Remember,0.29
+QZ2016,QF1381,10-07-2024,Business Studies,MCQ,18,2.71,Remember,1.85
+QZ2017,QF1381,27-08-2024,Physics,MCQ,3,2.18,Understand,0.23
+QZ2018,QF1383,04-08-2024,Business Studies,MCQ,4,2.24,Remember,4.23
+QZ2019,QF1385,28-07-2024,History,Mixed,3,3.56,Analyze,3.95
+QZ2020,QF1385,29-08-2024,Computer Science,MCQ,6,3.05,Understand,1.38
+QZ2021,QF1385,29-08-2024,History,MCQ,7,3.63,Understand,3.7
+QZ2022,QF1385,31-07-2024,History,MCQ,10,3.56,Remember,1.14
+QZ2023,QF1385,24-06-2024,Programming,Open,11,2.91,Understand,0.93
+QZ2024,QF1387,31-07-2024,Physics,MCQ,11,2.92,Understand,0.29
+QZ2025,QF1387,22-07-2024,Chemistry,Open,15,2.71,Understand,1.65
+QZ2026,QF1388,23-06-2024,History,MCQ,4,4.26,Evaluate,0.62
+QZ2027,QF1390,27-07-2024,Computer Science,MCQ,8,3.61,Understand,0.34
+QZ2028,QF1390,27-07-2024,Business Studies,MCQ,9,2.92,Remember,3.49
+QZ2029,QF1390,04-08-2024,English,MCQ,5,3.66,Evaluate,4.15
+QZ2030,QF1391,26-07-2024,Programming,Mixed,3,3.58,Analyze,3.69
+QZ2031,QF1391,04-07-2024,Computer Science,Mixed,2,1.93,Evaluate,0.6
+QZ2032,QF1392,01-07-2024,Language,MCQ,11,3.25,Understand,1.9
+QZ2033,QF1392,05-08-2024,Mathematics,Mixed,3,2.2,Remember,1.84
+QZ2034,QF1392,27-06-2024,Business Studies,MCQ,4,2.22,Remember,0.74
+QZ2035,QF1392,30-07-2024,Physics,Open,9,2.53,Remember,2.15
+QZ2036,QF1392,14-07-2024,History,Mixed,6,3.92,Apply,0.36
+QZ2037,QF1392,23-08-2024,English,MCQ,4,3.1,Evaluate,1.11
+QZ2038,QF1394,14-07-2024,History,Mixed,4,2.67,Understand,1.82
+QZ2039,QF1394,20-07-2024,Physics,Mixed,7,2.59,Remember,2.2
+QZ2040,QF1394,19-08-2024,Computer Science,Open,7,2.89,Apply,4.94
+QZ2041,QF1394,08-08-2024,Language,MCQ,6,3.14,Evaluate,9.23
+QZ2042,QF1394,25-08-2024,Mathematics,MCQ,9,3.24,Understand,1.89
+QZ2043,QF1395,20-08-2024,Programming,Mixed,6,2.91,Understand,0.24
+QZ2044,QF1396,27-08-2024,Language,Mixed,11,2.7,Apply,0.75
+QZ2045,QF1396,21-06-2024,Business Studies,MCQ,4,1.88,Understand,1.92
+QZ2046,QF1397,22-08-2024,Computer Science,Open,10,3.06,Apply,0.92
+QZ2047,QF1397,17-08-2024,Mathematics,Open,8,4.03,Evaluate,2.12
+QZ2048,QF1398,05-08-2024,Biology,Mixed,6,2.68,Remember,0.2
+QZ2049,QF1399,15-07-2024,Language,Mixed,12,3.49,Analyze,0.47
+QZ2050,QF1399,14-08-2024,History,MCQ,7,2.33,Remember,5.29
+QZ2051,QF1399,26-07-2024,General Knowledge,Mixed,6,2.42,Remember,4.65
+QZ2052,QF1399,30-08-2024,Business Studies,MCQ,6,2.56,Apply,0.44
+QZ2053,QF1400,25-08-2024,Programming,MCQ,8,2.79,Remember,4.58
+QZ2054,QF1400,29-06-2024,Business Studies,MCQ,7,2.99,Apply,1.11
+QZ2055,QF1400,23-08-2024,Mathematics,MCQ,7,2.45,Remember,6.37
+QZ2056,QF1400,22-06-2024,Biology,MCQ,11,3.23,Understand,0.85
+QZ2057,QF1400,14-08-2024,English,MCQ,9,3.02,Understand,0.49
+QZ2058,QF1400,28-08-2024,Language,MCQ,6,3.05,Understand,2.87
+QZ2059,QF1401,29-08-2024,Chemistry,Mixed,8,3.24,Understand,0.89
+QZ2060,QF1401,23-07-2024,English,MCQ,12,2.68,Remember,1.25
+QZ2061,QF1402,28-08-2024,Business Studies,Mixed,6,2.14,Understand,6.25
+QZ2062,QF1402,18-07-2024,Business Studies,MCQ,11,2.98,Understand,1.61
+QZ2063,QF1402,23-08-2024,Physics,Mixed,12,3.06,Understand,1.74
+QZ2064,QF1402,23-07-2024,Mathematics,Mixed,10,2.87,Remember,0.61
+QZ2065,QF1402,10-08-2024,Programming,MCQ,9,3.4,Understand,4.91
+QZ2066,QF1402,04-08-2024,General Knowledge,Open,7,2.87,Apply,0.59
+QZ2067,QF1405,28-07-2024,Biology,MCQ,9,2.88,Apply,2.24
+QZ2068,QF1405,06-07-2024,Chemistry,MCQ,14,2.87,Remember,0.85
+QZ2069,QF1407,19-08-2024,English,Open,11,3.14,Evaluate,0.23
+QZ2070,QF1407,31-08-2024,Language,Mixed,17,3.31,Understand,6.17
+QZ2071,QF1407,16-07-2024,Mathematics,Mixed,10,2.34,Remember,0.46
+QZ2072,QF1407,28-06-2024,Language,MCQ,7,2.05,Remember,0.83
+QZ2073,QF1407,02-08-2024,Computer Science,MCQ,6,2.87,Understand,0.71
+QZ2074,QF1407,23-08-2024,Physics,MCQ,7,2.33,Understand,1.02
+QZ2075,QF1407,24-07-2024,Biology,Mixed,7,2.25,Remember,4.07
+QZ2076,QF1407,28-08-2024,Physics,Open,7,2.84,Remember,0.94
+QZ2077,QF1407,13-08-2024,Business Studies,Mixed,10,2.8,Understand,1.79
+QZ2078,QF1407,26-07-2024,Physics,MCQ,3,3.32,Create,0.76
+QZ2079,QF1407,09-07-2024,Programming,MCQ,15,2.86,Remember,5.8
+QZ2080,QF1407,26-07-2024,Chemistry,MCQ,5,2.62,Understand,5.59
+QZ2081,QF1408,23-08-2024,Business Studies,MCQ,7,2.87,Understand,5.48
+QZ2082,QF1408,14-08-2024,English,MCQ,9,2.69,Remember,0.92
+QZ2083,QF1408,15-07-2024,Language,MCQ,13,2.67,Remember,0.25
+QZ2084,QF1408,06-08-2024,English,Open,9,2.86,Apply,3.47
+QZ2085,QF1408,06-07-2024,Computer Science,MCQ,7,3.13,Remember,3.6
+QZ2086,QF1408,20-08-2024,Business Studies,Open,9,3.3,Apply,1.63
+QZ2087,QF1409,31-08-2024,Business Studies,Open,6,2.97,Remember,2.75
+QZ2088,QF1409,02-08-2024,Biology,MCQ,13,2.65,Understand,0.16
+QZ2089,QF1409,17-07-2024,Business Studies,Mixed,9,2.8,Understand,4.3
+QZ2090,QF1409,20-07-2024,Language,MCQ,5,2.48,Remember,0.35
+QZ2091,QF1410,12-08-2024,Chemistry,MCQ,10,3.19,Remember,1.63
+QZ2092,QF1413,20-08-2024,Computer Science,Mixed,12,3.33,Evaluate,1.07
+QZ2093,QF1413,08-07-2024,Biology,MCQ,9,3.49,Apply,3.85
+QZ2094,QF1413,13-07-2024,General Knowledge,Mixed,10,2.69,Understand,0.28
+QZ2095,QF1413,28-08-2024,Language,MCQ,5,3.2,Remember,1.28
+QZ2096,QF1413,27-08-2024,Chemistry,MCQ,6,2.58,Remember,3.28
+QZ2097,QF1413,20-08-2024,Physics,MCQ,5,2.93,Apply,2.83
+QZ2098,QF1414,27-07-2024,English,MCQ,12,2.87,Understand,0.93
+QZ2099,QF1414,13-08-2024,Computer Science,MCQ,9,3,Apply,2.7
+QZ2100,QF1414,21-07-2024,History,MCQ,9,2.76,Apply,3.07
+QZ2101,QF1414,28-08-2024,Language,Mixed,11,2.6,Understand,0.4
+QZ2102,QF1414,13-07-2024,English,Mixed,7,2.68,Understand,2.39
+QZ2103,QF1414,14-08-2024,Mathematics,MCQ,14,3.1,Apply,0.71
+QZ2104,QF1415,29-08-2024,English,Mixed,7,2.68,Understand,1.43
+QZ2105,QF1415,19-08-2024,English,MCQ,7,2.76,Understand,1.16
+QZ2106,QF1416,25-06-2024,General Knowledge,Open,8,3.19,Understand,0.12
+QZ2107,QF1417,25-07-2024,General Knowledge,MCQ,8,3.75,Analyze,1.46
+QZ2108,QF1417,21-08-2024,Programming,MCQ,11,2.25,Remember,1.62
+QZ2109,QF1417,10-08-2024,Business Studies,Open,10,2.36,Understand,0.61
+QZ2110,QF1420,01-08-2024,Chemistry,MCQ,10,3.19,Apply,1.68
+QZ2111,QF1420,24-07-2024,Business Studies,MCQ,7,3.58,Understand,2.32
+QZ2112,QF1420,06-08-2024,Language,Open,9,2.56,Understand,1.33
+QZ2113,QF1420,17-08-2024,Business Studies,MCQ,11,2.81,Apply,1.64
+QZ2114,QF1421,02-08-2024,History,Mixed,17,2.86,Remember,3.61
+QZ2115,QF1421,31-08-2024,History,MCQ,6,2.72,Remember,2.98
+QZ2116,QF1421,06-07-2024,Language,Mixed,6,2.94,Remember,0.96
+QZ2117,QF1422,29-08-2024,Language,MCQ,8,2.45,Apply,4.92
+QZ2118,QF1422,10-08-2024,Computer Science,MCQ,12,3.61,Evaluate,4.22
+QZ2119,QF1423,13-08-2024,Business Studies,MCQ,10,2.58,Understand,0.47
+QZ2120,QF1423,18-08-2024,History,Open,6,2.78,Understand,5.22
+QZ2121,QF1423,23-08-2024,Biology,Mixed,2,2.77,Remember,0.1
+QZ2122,QF1423,26-08-2024,Biology,MCQ,6,2.97,Understand,0.83
+QZ2123,QF1424,11-08-2024,General Knowledge,MCQ,9,3,Apply,0.48
+QZ2124,QF1424,24-07-2024,Computer Science,MCQ,3,2.52,Understand,6.11
+QZ2125,QF1424,02-08-2024,Biology,Mixed,10,2.48,Remember,4.67
+QZ2126,QF1425,25-07-2024,Computer Science,MCQ,11,2.84,Remember,1.14
+QZ2127,QF1425,27-08-2024,Mathematics,MCQ,7,2.99,Apply,4.48
+QZ2128,QF1425,30-08-2024,History,Mixed,9,3.32,Understand,2.34
+QZ2129,QF1425,04-08-2024,Business Studies,Mixed,2,3.07,Understand,0.56
+QZ2130,QF1428,14-08-2024,Computer Science,Open,9,2.42,Remember,0.47
+QZ2131,QF1430,20-07-2024,Computer Science,MCQ,6,3.34,Remember,0.47
+QZ2132,QF1431,23-08-2024,Programming,MCQ,11,2.53,Understand,2.51
+QZ2133,QF1431,15-07-2024,Programming,Mixed,8,2.92,Apply,1.8
+QZ2134,QF1431,29-08-2024,Chemistry,MCQ,9,3.17,Understand,4.73
+QZ2135,QF1431,03-07-2024,Business Studies,MCQ,11,3.01,Understand,8.43
+QZ2136,QF1431,20-08-2024,Mathematics,Mixed,10,2.93,Understand,1.59
+QZ2137,QF1431,14-07-2024,Chemistry,Mixed,8,2.32,Understand,0.78
+QZ2138,QF1431,29-07-2024,Language,MCQ,11,2.81,Apply,3.75
+QZ2139,QF1431,03-08-2024,General Knowledge,MCQ,6,3.24,Understand,8.6
+QZ2140,QF1431,16-08-2024,History,Mixed,3,2.23,Understand,6.9
+QZ2141,QF1431,23-08-2024,Physics,MCQ,6,2.93,Evaluate,0.73
+QZ2142,QF1431,15-07-2024,Business Studies,MCQ,4,3.18,Understand,4.87
+QZ2143,QF1431,17-07-2024,Physics,MCQ,11,3.46,Remember,1.07
+QZ2144,QF1431,28-07-2024,Language,MCQ,7,2.58,Remember,0.64
+QZ2145,QF1434,17-08-2024,Business Studies,Mixed,10,3.4,Remember,1.41
+QZ2146,QF1434,08-08-2024,Mathematics,MCQ,9,2.84,Remember,1.47
+QZ2147,QF1434,26-08-2024,Chemistry,MCQ,5,2.71,Remember,1
+QZ2148,QF1434,16-07-2024,Computer Science,Mixed,3,3.83,Understand,5.8
+QZ2149,QF1434,27-07-2024,Programming,MCQ,11,2.77,Analyze,1.48
+QZ2150,QF1437,04-07-2024,Chemistry,MCQ,12,2.65,Understand,1.73
+QZ2151,QF1438,29-08-2024,Physics,MCQ,8,2.72,Remember,0.45
+QZ2152,QF1438,24-07-2024,Business Studies,Open,10,3.18,Understand,1.2
+QZ2153,QF1438,29-08-2024,English,MCQ,10,2.39,Understand,1.67
+QZ2154,QF1441,17-08-2024,History,Mixed,6,3.13,Understand,4.62
+QZ2155,QF1441,02-07-2024,General Knowledge,Mixed,10,2.69,Remember,2.86
+QZ2156,QF1441,29-08-2024,Computer Science,Mixed,11,2.75,Remember,0.1
+QZ2157,QF1441,05-08-2024,Programming,MCQ,11,2.49,Remember,1.02
+QZ2158,QF1441,11-07-2024,Physics,Open,4,3.12,Understand,3.8
+QZ2159,QF1441,31-08-2024,History,MCQ,10,3.39,Apply,1.39
+QZ2160,QF1441,06-07-2024,Programming,Open,10,3.06,Remember,0.91
+QZ2161,QF1442,27-07-2024,Language,Open,13,2.59,Understand,2
+QZ2162,QF1444,29-06-2024,Computer Science,MCQ,12,2.42,Understand,1.36
+QZ2163,QF1444,08-07-2024,History,Open,10,2.81,Remember,2.51
+QZ2164,QF1444,09-08-2024,Programming,MCQ,7,3.06,Understand,4.47
+QZ2165,QF1444,09-08-2024,Business Studies,MCQ,15,2.86,Understand,3.15
+QZ2166,QF1444,27-07-2024,Language,MCQ,7,3.36,Understand,6.69
+QZ2167,QF1444,30-07-2024,Mathematics,MCQ,6,2.16,Remember,1.25
+QZ2168,QF1444,31-07-2024,General Knowledge,MCQ,7,3.21,Understand,1.8
+QZ2169,QF1444,17-08-2024,Physics,Open,11,2.93,Understand,0.63
+QZ2170,QF1444,28-07-2024,Biology,MCQ,15,2.86,Remember,15
+QZ2171,QF1444,27-07-2024,Programming,Mixed,5,3.71,Understand,1.58
+QZ2172,QF1444,29-08-2024,Programming,MCQ,12,2.71,Remember,5.98
+QZ2173,QF1444,15-08-2024,English,Open,9,2.45,Understand,1.06
+QZ2174,QF1444,19-08-2024,Biology,MCQ,7,3.37,Remember,1.8
+QZ2175,QF1445,05-07-2024,Physics,MCQ,8,3.01,Remember,6.65
+QZ2176,QF1445,20-07-2024,Computer Science,Open,5,2.09,Remember,1.33
+QZ2177,QF1445,24-07-2024,Physics,Open,8,3.04,Remember,0.8
+QZ2178,QF1445,13-07-2024,Programming,Mixed,7,2.64,Understand,0.15
+QZ2179,QF1445,27-08-2024,Physics,Mixed,9,3.41,Evaluate,1.68
+QZ2180,QF1445,24-08-2024,Business Studies,Mixed,4,3.18,Apply,7.36
+QZ2181,QF1445,05-08-2024,Chemistry,MCQ,10,3.07,Understand,2.75
+QZ2182,QF1445,07-07-2024,English,MCQ,9,2.77,Evaluate,2.34
+QZ2183,QF1445,19-08-2024,Mathematics,MCQ,10,2.85,Understand,4.79
+QZ2184,QF1445,27-08-2024,Mathematics,Mixed,9,3.51,Remember,0.33
+QZ2185,QF1447,27-07-2024,History,Mixed,17,2.64,Understand,0.28
+QZ2186,QF1447,29-08-2024,Mathematics,MCQ,7,3.08,Understand,1.71
+QZ2187,QF1447,06-08-2024,English,MCQ,14,2.63,Remember,2.92
+QZ2188,QF1448,28-08-2024,History,MCQ,10,2.43,Understand,0.37
+QZ2189,QF1448,14-08-2024,History,Mixed,11,2.67,Remember,2.95
+QZ2190,QF1448,11-08-2024,Computer Science,MCQ,11,2.07,Remember,2.73
+QZ2191,QF1450,18-07-2024,Chemistry,Open,10,3.26,Analyze,0.31
+QZ2192,QF1451,22-08-2024,Biology,Open,13,3,Remember,0.27
+QZ2193,QF1452,12-07-2024,Language,MCQ,10,2.55,Remember,0.1
+QZ2194,QF1454,04-07-2024,Computer Science,MCQ,7,3.29,Understand,0.31
+QZ2195,QF1455,18-07-2024,General Knowledge,MCQ,14,2.75,Understand,0.92
+QZ2196,QF1456,29-07-2024,Programming,Mixed,9,2.72,Analyze,8.82
+QZ2197,QF1456,07-07-2024,Chemistry,MCQ,16,2.83,Understand,0.46
+QZ2198,QF1456,25-08-2024,Chemistry,Mixed,11,3.1,Evaluate,4.04
+QZ2199,QF1457,18-08-2024,Chemistry,Mixed,7,2.84,Remember,1.33
+QZ2200,QF1457,10-07-2024,Physics,MCQ,10,2.92,Understand,0.1
+QZ2201,QF1457,28-07-2024,General Knowledge,MCQ,4,3.46,Evaluate,5.23
+QZ2202,QF1457,19-08-2024,Computer Science,Mixed,8,3.53,Analyze,1.08
+QZ2203,QF1457,24-08-2024,General Knowledge,MCQ,4,2.26,Understand,4.36
+QZ2204,QF1457,19-07-2024,Programming,Open,7,2.86,Apply,4.37
+QZ2205,QF1457,16-08-2024,Biology,Mixed,8,3.23,Analyze,3.04
+QZ2206,QF1457,23-08-2024,Business Studies,MCQ,10,3.15,Remember,1.51
+QZ2207,QF1457,26-08-2024,General Knowledge,Open,12,3.22,Understand,0.33
+QZ2208,QF1457,24-07-2024,Chemistry,Open,9,2.87,Understand,1.13
+QZ2209,QF1457,02-07-2024,Biology,MCQ,9,3.01,Understand,2.36
+QZ2210,QF1457,04-07-2024,Business Studies,Open,9,3.5,Understand,0.53
+QZ2211,QF1457,29-08-2024,Programming,Open,5,3.26,Apply,0.85
+QZ2212,QF1459,07-08-2024,English,MCQ,3,2.97,Remember,0.25
+QZ2213,QF1459,27-07-2024,Business Studies,MCQ,2,3.13,Understand,0.1
+QZ2214,QF1459,21-08-2024,English,Open,7,2.87,Understand,1.31
+QZ2215,QF1461,11-07-2024,Programming,MCQ,5,2.66,Remember,0.18
+QZ2216,QF1461,22-08-2024,Mathematics,MCQ,5,3.34,Analyze,0.44
+QZ2217,QF1461,29-08-2024,Business Studies,Mixed,6,3.76,Apply,0.66
+QZ2218,QF1462,19-08-2024,English,MCQ,3,2.31,Remember,3.79
+QZ2219,QF1462,10-07-2024,Programming,Open,8,2.35,Remember,0.1
+QZ2220,QF1462,14-08-2024,Language,MCQ,6,2.93,Remember,0.85
+QZ2221,QF1462,07-07-2024,Chemistry,MCQ,12,2.38,Remember,7.28
+QZ2222,QF1462,15-07-2024,Physics,Open,12,2.79,Remember,0.6
+QZ2223,QF1462,05-07-2024,Business Studies,MCQ,13,2.72,Remember,0.48
+QZ2224,QF1462,12-08-2024,History,MCQ,8,2.92,Remember,11.12
+QZ2225,QF1462,30-07-2024,General Knowledge,Mixed,10,2.88,Remember,0.82
+QZ2226,QF1462,19-07-2024,English,Mixed,3,2.46,Apply,4.98
+QZ2227,QF1462,23-07-2024,Programming,Mixed,9,3.31,Apply,2.55
+QZ2228,QF1462,20-08-2024,Computer Science,MCQ,11,2.7,Understand,0.83
+QZ2229,QF1462,12-07-2024,English,Mixed,5,3.45,Understand,6.48
+QZ2230,QF1462,19-07-2024,Business Studies,MCQ,8,3.08,Remember,0.28
+QZ2231,QF1463,09-08-2024,English,MCQ,9,2.83,Analyze,0.63
+QZ2232,QF1463,20-08-2024,Biology,Mixed,4,3.09,Understand,1.29
+QZ2233,QF1463,08-07-2024,Computer Science,MCQ,8,3,Remember,0.1
+QZ2234,QF1464,19-08-2024,Business Studies,MCQ,11,3.31,Remember,0.51
+QZ2235,QF1465,23-08-2024,Physics,Open,7,2.75,Remember,1.1
+QZ2236,QF1465,26-08-2024,Biology,MCQ,5,3.3,Analyze,4.95
+QZ2237,QF1466,27-07-2024,Computer Science,MCQ,5,2.75,Remember,1.18
+QZ2238,QF1466,16-07-2024,General Knowledge,Mixed,12,3.21,Remember,1.71
+QZ2239,QF1466,21-08-2024,History,MCQ,8,2.74,Remember,0.21
+QZ2240,QF1466,24-07-2024,General Knowledge,Mixed,7,2.86,Remember,1.88
+QZ2241,QF1466,07-08-2024,English,MCQ,4,2.33,Understand,2.03
+QZ2242,QF1466,23-08-2024,English,MCQ,10,2.79,Understand,4.4
+QZ2243,QF1467,10-07-2024,Mathematics,Mixed,8,3.58,Evaluate,1.59
+QZ2244,QF1467,30-08-2024,Programming,Mixed,9,2.82,Understand,3.94
+QZ2245,QF1467,16-07-2024,Computer Science,MCQ,8,3,Understand,0.68
+QZ2246,QF1468,17-08-2024,English,MCQ,9,3.24,Remember,0.24
+QZ2247,QF1469,30-07-2024,Mathematics,MCQ,6,3.22,Remember,1.7
+QZ2248,QF1470,13-07-2024,General Knowledge,MCQ,12,2.83,Understand,2.21
+QZ2249,QF1471,30-08-2024,Programming,MCQ,6,3.03,Remember,0.24
+QZ2250,QF1473,24-08-2024,Mathematics,Mixed,8,2.63,Remember,0.29
+QZ2251,QF1473,21-08-2024,General Knowledge,MCQ,5,2.27,Apply,7.29
+QZ2252,QF1473,30-07-2024,Business Studies,Mixed,10,2.63,Remember,0.58
+QZ2253,QF1473,20-07-2024,English,MCQ,4,2.88,Remember,0.17
+QZ2254,QF1473,27-07-2024,Biology,Mixed,10,3.16,Understand,0.92
+QZ2255,QF1474,06-08-2024,General Knowledge,MCQ,14,3.35,Understand,0.78
+QZ2256,QF1475,18-07-2024,History,Open,7,3.24,Understand,0.98
+QZ2257,QF1475,26-08-2024,Biology,Mixed,6,2.76,Understand,1.86
+QZ2258,QF1475,06-07-2024,Programming,Mixed,9,2.71,Remember,4.55
+QZ2259,QF1475,27-08-2024,Biology,MCQ,6,2.43,Understand,3.9
+QZ2260,QF1475,19-08-2024,General Knowledge,MCQ,7,2.31,Remember,5.13
+QZ2261,QF1475,25-08-2024,English,MCQ,15,3.01,Understand,5.59
+QZ2262,QF1475,17-08-2024,Programming,Mixed,9,3.46,Remember,1.53
+QZ2263,QF1475,01-08-2024,Programming,MCQ,6,2.47,Understand,1.6
+QZ2264,QF1478,20-08-2024,Programming,Mixed,6,2.45,Remember,4.6
+QZ2265,QF1478,05-07-2024,Chemistry,MCQ,6,3.3,Analyze,1.75
+QZ2266,QF1478,27-08-2024,Programming,Mixed,11,3.73,Evaluate,7.2
+QZ2267,QF1478,01-08-2024,Physics,MCQ,13,3.47,Apply,2.99
+QZ2268,QF1478,07-08-2024,Programming,Mixed,5,3.15,Analyze,1.57
+QZ2269,QF1478,05-08-2024,Programming,MCQ,7,3.68,Evaluate,3.06
+QZ2270,QF1478,07-07-2024,Mathematics,Mixed,7,3.02,Understand,4.85
+QZ2271,QF1478,24-07-2024,English,MCQ,11,2.48,Understand,2.2
+QZ2272,QF1478,27-07-2024,Business Studies,MCQ,7,2.13,Understand,4.13
+QZ2273,QF1478,30-08-2024,Mathematics,Mixed,11,2.68,Remember,0.2
+QZ2274,QF1478,13-07-2024,General Knowledge,MCQ,10,2.45,Remember,1.49
+QZ2275,QF1479,29-08-2024,History,MCQ,11,2.76,Understand,0.85
+QZ2276,QF1479,13-07-2024,Chemistry,Mixed,6,3.08,Apply,3.55
+QZ2277,QF1480,22-08-2024,Physics,MCQ,6,2.27,Remember,0.42
+QZ2278,QF1480,23-07-2024,English,Mixed,5,2.1,Understand,1.73
+QZ2279,QF1480,22-08-2024,History,MCQ,7,3.23,Apply,0.68
+QZ2280,QF1482,09-08-2024,Computer Science,Mixed,9,2.73,Analyze,3.11
+QZ2281,QF1483,06-07-2024,Chemistry,MCQ,5,2.74,Apply,0.37
+QZ2282,QF1483,10-08-2024,Biology,MCQ,9,2.26,Understand,3.51
+QZ2283,QF1484,21-07-2024,Chemistry,MCQ,7,3,Remember,3.14
+QZ2284,QF1484,18-07-2024,Language,MCQ,10,2.06,Remember,0.15
+QZ2285,QF1484,30-07-2024,History,MCQ,8,2.86,Understand,4.59
+QZ2286,QF1486,21-08-2024,Language,MCQ,5,2.33,Remember,7.83
+QZ2287,QF1486,28-08-2024,Language,Mixed,13,2.85,Understand,1.33
+QZ2288,QF1487,29-08-2024,English,MCQ,9,3.13,Remember,0.89
+QZ2289,QF1487,16-07-2024,Chemistry,MCQ,10,2.67,Remember,2.11
+QZ2290,QF1490,22-07-2024,English,MCQ,5,3.32,Understand,0.39
+QZ2291,QF1490,20-07-2024,Business Studies,Mixed,9,3.51,Apply,2.02
+QZ2292,QF1491,24-08-2024,English,MCQ,8,2.72,Understand,0.22
+QZ2293,QF1492,28-08-2024,History,Mixed,7,3.48,Understand,0.1
+QZ2294,QF1493,08-08-2024,Physics,Mixed,9,3,Remember,1.35
+QZ2295,QF1494,30-07-2024,Business Studies,Open,9,2.81,Remember,2.54
+QZ2296,QF1494,04-08-2024,Physics,MCQ,8,3.4,Remember,0.81
+QZ2297,QF1494,01-08-2024,Chemistry,MCQ,12,2.03,Remember,1.07
+QZ2298,QF1494,18-08-2024,Biology,Open,4,3.13,Understand,0.33
+QZ2299,QF1494,12-07-2024,Programming,Mixed,4,2.18,Remember,2.46
+QZ2300,QF1494,15-07-2024,Programming,Open,12,2.58,Remember,2
+QZ2301,QF1494,29-07-2024,Computer Science,Mixed,7,3.22,Understand,1.85
+QZ2302,QF1494,25-08-2024,Language,MCQ,10,3.31,Remember,3.1
+QZ2303,QF1494,10-07-2024,History,MCQ,9,2.76,Apply,2.08
+QZ2304,QF1494,03-08-2024,Physics,MCQ,8,2.95,Understand,5.02
+QZ2305,QF1494,25-08-2024,Computer Science,Mixed,8,3.01,Remember,3.5
+QZ2306,QF1494,16-08-2024,Mathematics,Mixed,5,3.22,Apply,0.26
+QZ2307,QF1494,10-07-2024,English,MCQ,8,2.85,Understand,4.49
+QZ2308,QF1494,09-07-2024,Language,MCQ,12,3.21,Understand,3.28
+QZ2309,QF1495,27-07-2024,Physics,MCQ,9,2.9,Understand,0.1
+QZ2310,QF1495,31-08-2024,Business Studies,MCQ,8,2.24,Remember,4.73
+QZ2311,QF1496,20-08-2024,History,Open,11,2.43,Remember,1.32
+QZ2312,QF1496,11-08-2024,Programming,Open,6,3.22,Understand,2.47
+QZ2313,QF1496,24-08-2024,Programming,MCQ,4,2.77,Remember,2.13
+QZ2314,QF1496,11-08-2024,English,MCQ,10,3.25,Apply,1.34
+QZ2315,QF1496,20-08-2024,General Knowledge,Open,6,2.46,Understand,2.01
+QZ2316,QF1496,22-08-2024,Computer Science,MCQ,16,2.94,Remember,1.73
+QZ2317,QF1496,24-08-2024,Programming,MCQ,6,2.64,Remember,2.43
+QZ2318,QF1497,30-08-2024,History,MCQ,4,3.54,Understand,0.66
+QZ2319,QF1497,26-08-2024,Physics,MCQ,8,3.02,Remember,0.1
+QZ2320,QF1497,15-07-2024,Programming,Open,9,2.42,Remember,2.05
+QZ2321,QF1497,15-07-2024,Biology,MCQ,9,2.57,Remember,2.88
+QZ2322,QF1497,20-08-2024,Business Studies,MCQ,6,2.5,Remember,0.86
+QZ2323,QF1498,14-08-2024,Mathematics,Open,6,2.43,Remember,0.6
+QZ2324,QF1498,17-08-2024,General Knowledge,Open,11,3.39,Remember,1.7
+QZ2325,QF1499,30-08-2024,Language,Mixed,6,3.11,Apply,2.02
+QZ2326,QF1499,07-08-2024,History,Open,9,2.94,Apply,1.66
+QZ2327,QF1500,09-08-2024,General Knowledge,MCQ,3,1.97,Understand,6.18
+QZ2328,QF1502,29-08-2024,Biology,Mixed,7,2.8,Understand,1.68
+QZ2329,QF1502,16-08-2024,Programming,Mixed,9,2.59,Understand,1.14
+QZ2330,QF1503,16-08-2024,Physics,Open,8,3.06,Understand,2.56
+QZ2331,QF1503,18-07-2024,Programming,Mixed,10,3.17,Apply,1.15
+QZ2332,QF1503,03-08-2024,Business Studies,MCQ,9,3.12,Remember,0.82
+QZ2333,QF1503,22-07-2024,English,Mixed,5,2.48,Understand,1.06
+QZ2334,QF1503,14-07-2024,Programming,Open,8,2.29,Remember,1.72
+QZ2335,QF1504,01-08-2024,Computer Science,MCQ,11,2.81,Remember,2.81
+QZ2336,QF1504,13-07-2024,Physics,MCQ,2,2.21,Understand,2.31
+QZ2337,QF1504,19-08-2024,Chemistry,MCQ,6,2.79,Remember,3.14
+QZ2338,QF1504,27-07-2024,Mathematics,Mixed,6,3.39,Apply,1.44
+QZ2339,QF1505,15-08-2024,Mathematics,Mixed,8,3.73,Analyze,2.61
+QZ2340,QF1506,27-07-2024,English,MCQ,7,2.61,Remember,2
+QZ2341,QF1506,13-07-2024,Business Studies,MCQ,10,3.07,Remember,1.65
+QZ2342,QF1506,04-08-2024,Physics,Mixed,6,3.07,Remember,4.68
+QZ2343,QF1506,12-08-2024,Physics,MCQ,8,2.13,Understand,2.74
+QZ2344,QF1507,30-08-2024,Biology,MCQ,5,2.87,Remember,3.2
+QZ2345,QF1507,18-07-2024,Language,Open,6,3.13,Understand,1.65
+QZ2346,QF1507,19-08-2024,Chemistry,MCQ,6,3.04,Remember,0.97
+QZ2347,QF1508,17-08-2024,Computer Science,MCQ,9,3.19,Evaluate,0.57
+QZ2348,QF1508,30-08-2024,Business Studies,Open,9,3.4,Evaluate,0.28
+QZ2349,QF1512,13-08-2024,History,Open,13,3.1,Remember,5.84
+QZ2350,QF1512,27-07-2024,Programming,MCQ,9,2.8,Remember,0.49
+QZ2351,QF1514,30-08-2024,Language,Mixed,7,3.68,Understand,1.18
+QZ2352,QF1514,30-07-2024,Computer Science,MCQ,8,3.8,Understand,0.1
+QZ2353,QF1515,28-08-2024,General Knowledge,MCQ,13,2.07,Remember,1.65
+QZ2354,QF1517,21-08-2024,Chemistry,Open,9,3.36,Understand,6.95
+QZ2355,QF1517,23-08-2024,Computer Science,Mixed,6,3.15,Analyze,1.46
+QZ2356,QF1517,07-08-2024,Programming,Mixed,2,4.52,Evaluate,5.18
+QZ2357,QF1517,15-08-2024,Physics,MCQ,9,3.14,Remember,0.39
+QZ2358,QF1517,09-08-2024,Business Studies,Mixed,9,2.4,Remember,1.73
+QZ2359,QF1518,12-07-2024,General Knowledge,Open,8,3.29,Analyze,1.52
+QZ2360,QF1519,03-08-2024,Computer Science,MCQ,10,3.21,Remember,0.78
+QZ2361,QF1521,15-07-2024,English,Mixed,13,2.68,Understand,0.1
+QZ2362,QF1521,10-08-2024,Mathematics,MCQ,6,2.86,Understand,4.57
+QZ2363,QF1521,31-07-2024,History,MCQ,11,3.47,Apply,1.88
+QZ2364,QF1521,29-08-2024,Biology,Mixed,8,3.21,Remember,2.19
+QZ2365,QF1521,18-08-2024,Business Studies,Open,7,2.3,Remember,1.66
+QZ2366,QF1521,27-07-2024,Business Studies,Mixed,6,2.54,Understand,2.61
+QZ2367,QF1522,30-08-2024,Biology,Open,10,2.93,Remember,0.61
+QZ2368,QF1523,29-07-2024,History,Mixed,6,2.49,Understand,2.73
+QZ2369,QF1523,30-07-2024,Physics,Open,5,3.06,Remember,2.83
+QZ2370,QF1523,23-08-2024,Programming,MCQ,7,4.04,Evaluate,2.33
+QZ2371,QF1523,26-08-2024,History,Mixed,11,3.54,Evaluate,4.51
+QZ2372,QF1523,28-08-2024,Language,MCQ,4,3.91,Analyze,2.4
+QZ2373,QF1523,27-07-2024,Programming,Mixed,9,2.92,Remember,3.16
+QZ2374,QF1523,13-08-2024,History,MCQ,5,3.2,Evaluate,3.74
+QZ2375,QF1523,25-08-2024,Mathematics,MCQ,10,3.08,Remember,2.05
+QZ2376,QF1523,03-08-2024,Computer Science,MCQ,7,2.55,Remember,3.55
+QZ2377,QF1523,13-08-2024,English,Mixed,5,2.59,Remember,3.62
+QZ2378,QF1523,20-08-2024,Biology,Mixed,7,2.54,Understand,1.04
+QZ2379,QF1523,17-08-2024,Physics,MCQ,10,3.02,Remember,6.86
+QZ2380,QF1523,18-07-2024,Business Studies,MCQ,5,2.13,Remember,7.1
+QZ2381,QF1523,14-08-2024,Physics,Open,17,2.88,Understand,1.57
+QZ2382,QF1523,24-08-2024,Programming,MCQ,13,2.45,Remember,0.45
+QZ2383,QF1523,11-08-2024,Biology,MCQ,7,2.65,Understand,0.46
+QZ2384,QF1523,14-08-2024,Programming,MCQ,7,3.85,Remember,9.18
+QZ2385,QF1525,11-08-2024,Programming,Mixed,13,2.53,Understand,2.41
+QZ2386,QF1527,11-08-2024,General Knowledge,MCQ,9,2.3,Remember,4.47
+QZ2387,QF1527,04-08-2024,Mathematics,Mixed,8,3.37,Evaluate,0.16
+QZ2388,QF1528,09-08-2024,Mathematics,Open,16,3.29,Remember,0.12
+QZ2389,QF1530,13-07-2024,History,MCQ,7,2.36,Understand,0.78
+QZ2390,QF1530,24-08-2024,Biology,MCQ,7,2.88,Analyze,2.33
+QZ2391,QF1531,31-08-2024,Chemistry,MCQ,5,2.9,Understand,2.79
+QZ2392,QF1531,19-08-2024,General Knowledge,Mixed,9,2.49,Remember,0.54
+QZ2393,QF1531,19-08-2024,Biology,Mixed,13,2.96,Understand,0.22
+QZ2394,QF1531,21-08-2024,Physics,Mixed,10,3.49,Understand,3.94
+QZ2395,QF1532,18-07-2024,Language,MCQ,9,3.49,Understand,1.73
+QZ2396,QF1532,23-07-2024,Biology,Mixed,9,3.06,Understand,0.23
+QZ2397,QF1534,23-08-2024,General Knowledge,MCQ,6,3.02,Understand,1.79
+QZ2398,QF1534,11-08-2024,Biology,MCQ,9,3.06,Understand,0.41
+QZ2399,QF1534,27-08-2024,Biology,MCQ,9,3.2,Apply,1.4
+QZ2400,QF1534,20-08-2024,History,MCQ,5,2.57,Remember,0.54
+QZ2401,QF1534,23-08-2024,Chemistry,MCQ,7,3.11,Understand,2.91
+QZ2402,QF1534,04-08-2024,General Knowledge,MCQ,6,2.92,Remember,0.3
+QZ2403,QF1534,23-08-2024,Mathematics,MCQ,12,2.04,Remember,0.16
+QZ2404,QF1534,25-08-2024,English,Mixed,12,2.44,Understand,0.3
+QZ2405,QF1534,30-08-2024,Chemistry,Mixed,8,3.81,Apply,2.09
+QZ2406,QF1534,07-08-2024,Chemistry,Mixed,7,2.36,Remember,4.55
+QZ2407,QF1534,26-07-2024,Language,MCQ,11,2.83,Apply,0.18
+QZ2408,QF1534,20-07-2024,English,MCQ,7,2.93,Understand,3.11
+QZ2409,QF1534,27-07-2024,Chemistry,MCQ,7,2.69,Apply,2.63
+QZ2410,QF1535,16-07-2024,Physics,MCQ,7,2.63,Understand,2.44
+QZ2411,QF1536,28-07-2024,Programming,Open,4,3.1,Remember,0.17
+QZ2412,QF1537,15-07-2024,Mathematics,MCQ,9,3.11,Remember,1.85
+QZ2413,QF1537,18-08-2024,Chemistry,MCQ,4,3.18,Evaluate,5.99
+QZ2414,QF1537,29-08-2024,Mathematics,Open,2,2.38,Understand,0.1
+QZ2415,QF1537,21-07-2024,History,MCQ,12,3.4,Remember,11.45
+QZ2416,QF1537,18-08-2024,Biology,MCQ,7,2.89,Evaluate,0.81
+QZ2417,QF1539,17-07-2024,General Knowledge,MCQ,13,3.22,Understand,3.28
+QZ2418,QF1539,11-08-2024,History,Mixed,5,3.15,Understand,4.13
+QZ2419,QF1539,01-08-2024,Mathematics,Mixed,9,3.39,Remember,3.13
+QZ2420,QF1539,24-08-2024,Chemistry,MCQ,6,2.45,Understand,3.68
+QZ2421,QF1540,19-07-2024,English,MCQ,4,2.33,Understand,0.82
+QZ2422,QF1541,12-08-2024,Mathematics,MCQ,9,2.95,Understand,0.28
+QZ2423,QF1545,31-08-2024,Chemistry,MCQ,6,2.89,Understand,1.03
+QZ2424,QF1547,26-07-2024,Computer Science,Mixed,6,3.37,Understand,0.75
+QZ2425,QF1549,17-08-2024,Language,Open,4,2.15,Remember,0.1
+QZ2426,QF1550,09-08-2024,Physics,MCQ,3,2.87,Understand,1.43
+QZ2427,QF1550,28-07-2024,Physics,MCQ,13,2.89,Understand,1.66
+QZ2428,QF1551,17-08-2024,Business Studies,MCQ,9,2.96,Understand,6.01
+QZ2429,QF1551,11-08-2024,Business Studies,MCQ,10,3.24,Evaluate,2.58
+QZ2430,QF1552,29-08-2024,History,Mixed,7,2.74,Remember,1.39
+QZ2431,QF1552,20-07-2024,Language,Mixed,8,2.87,Remember,2.08
+QZ2432,QF1552,30-08-2024,General Knowledge,MCQ,4,2.66,Understand,4.69
+QZ2433,QF1553,16-08-2024,Physics,Open,6,2.9,Remember,2.25
+QZ2434,QF1554,20-08-2024,Business Studies,Open,10,2.35,Apply,2.93
+QZ2435,QF1554,28-08-2024,Language,MCQ,4,3.37,Analyze,0.1
+QZ2436,QF1556,23-07-2024,Biology,Mixed,6,3.54,Remember,0.19
+QZ2437,QF1558,29-08-2024,General Knowledge,Open,8,3.15,Apply,0.41
+QZ2438,QF1558,30-08-2024,Mathematics,MCQ,5,2.57,Understand,0.42
+QZ2439,QF1558,26-08-2024,Programming,MCQ,7,3.23,Understand,0.15
+QZ2440,QF1560,18-07-2024,Language,MCQ,3,2.56,Understand,1.41
+QZ2441,QF1560,09-08-2024,English,MCQ,13,3.02,Evaluate,1.35
+QZ2442,QF1560,04-08-2024,Business Studies,Mixed,9,2.52,Remember,1.76
+QZ2443,QF1560,07-08-2024,Programming,MCQ,9,2.91,Remember,5.35
+QZ2444,QF1560,03-08-2024,Mathematics,MCQ,12,2.83,Understand,0.1
+QZ2445,QF1560,08-08-2024,Mathematics,Mixed,9,3.03,Apply,6.4
+QZ2446,QF1560,23-08-2024,Business Studies,MCQ,11,3.54,Remember,0.97
+QZ2447,QF1561,12-08-2024,Computer Science,Mixed,13,3.6,Analyze,1.6
+QZ2448,QF1562,02-08-2024,Computer Science,MCQ,4,2.04,Remember,1.12
+QZ2449,QF1562,04-08-2024,Programming,MCQ,6,2.7,Understand,1.77
+QZ2450,QF1562,22-08-2024,Physics,MCQ,7,3.67,Evaluate,6.53
+QZ2451,QF1562,02-08-2024,Business Studies,Open,8,3.38,Understand,0.15
+QZ2452,QF1562,03-08-2024,Business Studies,MCQ,11,2.16,Remember,1.19
+QZ2453,QF1562,03-08-2024,Physics,MCQ,6,3.29,Remember,2.84
+QZ2454,QF1563,22-08-2024,Physics,MCQ,9,2.88,Understand,4.3
+QZ2455,QF1564,07-08-2024,History,MCQ,7,3.47,Understand,0.3
+QZ2456,QF1565,17-07-2024,General Knowledge,Mixed,15,2.84,Remember,2.03
+QZ2457,QF1566,19-08-2024,Chemistry,Mixed,9,2.88,Remember,4.13
+QZ2458,QF1566,31-08-2024,Physics,MCQ,7,2.98,Analyze,0.67
+QZ2459,QF1566,29-08-2024,Chemistry,Mixed,5,2.3,Understand,2.71
+QZ2460,QF1566,08-08-2024,English,MCQ,6,2.88,Understand,3.6
+QZ2461,QF1567,22-08-2024,General Knowledge,Open,9,3.35,Apply,4.65
+QZ2462,QF1567,31-08-2024,Programming,MCQ,7,3.6,Understand,3.46
+QZ2463,QF1568,28-08-2024,General Knowledge,MCQ,8,3.32,Understand,0.7
+QZ2464,QF1568,29-08-2024,Language,Mixed,9,2.36,Remember,1.15
+QZ2465,QF1568,26-08-2024,History,MCQ,9,2.81,Remember,2.65
+QZ2466,QF1570,24-07-2024,Computer Science,Mixed,8,3.33,Understand,3.89
+QZ2467,QF1570,21-07-2024,General Knowledge,MCQ,10,2.55,Understand,1.19
+QZ2468,QF1571,30-08-2024,Language,MCQ,1,2.84,Apply,3.74
+QZ2469,QF1571,02-08-2024,English,Mixed,11,2.54,Remember,4.85
+QZ2470,QF1571,10-08-2024,Business Studies,MCQ,13,3.15,Remember,1.67
+QZ2471,QF1571,03-08-2024,Language,MCQ,12,3.13,Apply,2.2
+QZ2472,QF1571,05-08-2024,General Knowledge,Mixed,10,2.79,Evaluate,0.4
+QZ2473,QF1571,26-08-2024,Computer Science,MCQ,7,3.25,Understand,1.23
+QZ2474,QF1574,06-08-2024,Physics,MCQ,8,2.57,Remember,0.84
+QZ2475,QF1575,09-08-2024,Physics,Mixed,10,2.83,Understand,1.31
+QZ2476,QF1575,16-08-2024,Programming,Mixed,3,1.83,Understand,3.74
+QZ2477,QF1575,12-08-2024,Programming,MCQ,10,3.18,Remember,10.76
+QZ2478,QF1575,25-07-2024,Language,Mixed,5,2.88,Apply,0.14
+QZ2479,QF1575,11-08-2024,Biology,MCQ,8,3.1,Remember,2.18
+QZ2480,QF1575,22-07-2024,Computer Science,Open,10,2.88,Apply,7.89
+QZ2481,QF1575,02-08-2024,Business Studies,MCQ,7,3.23,Analyze,1.23
+QZ2482,QF1575,04-08-2024,Biology,MCQ,14,2.78,Analyze,1.81
+QZ2483,QF1575,19-08-2024,Computer Science,MCQ,8,3.17,Understand,1.66
+QZ2484,QF1575,20-08-2024,History,MCQ,7,2.28,Remember,6.35
+QZ2485,QF1578,25-08-2024,Business Studies,MCQ,7,2.6,Understand,2.59
+QZ2486,QF1578,20-08-2024,Computer Science,Open,7,2.88,Apply,0.63
+QZ2487,QF1578,19-08-2024,Computer Science,Mixed,11,2.86,Remember,0.26
+QZ2488,QF1578,20-08-2024,Physics,MCQ,6,3.45,Remember,0.44
+QZ2489,QF1578,21-08-2024,History,MCQ,7,2.38,Apply,0.1
+QZ2490,QF1578,20-08-2024,Computer Science,Mixed,2,3.84,Evaluate,0.13
+QZ2491,QF1579,20-07-2024,History,MCQ,8,2.19,Remember,4.53
+QZ2492,QF1579,19-08-2024,Programming,Mixed,7,2.62,Understand,0.96
+QZ2493,QF1579,21-08-2024,English,Open,8,2.75,Apply,0.5
+QZ2494,QF1579,12-08-2024,History,Mixed,11,2.4,Remember,0.95
+QZ2495,QF1580,20-08-2024,Chemistry,MCQ,5,2.6,Understand,1.89
+QZ2496,QF1580,12-08-2024,Programming,Mixed,8,3.33,Analyze,1.45
+QZ2497,QF1580,05-08-2024,Business Studies,Open,7,3.37,Apply,0.41
+QZ2498,QF1587,18-08-2024,Physics,MCQ,8,2.79,Understand,5.02
+QZ2499,QF1587,12-08-2024,Physics,Mixed,6,3.8,Analyze,5.69
+QZ2500,QF1587,24-08-2024,Physics,MCQ,10,3.46,Apply,9
+QZ2501,QF1587,28-08-2024,Physics,Mixed,12,3.07,Understand,3.55
+QZ2502,QF1587,30-07-2024,Computer Science,MCQ,6,3.02,Remember,4.52
+QZ2503,QF1587,17-08-2024,Physics,MCQ,8,2.39,Remember,2.67
+QZ2504,QF1587,23-08-2024,History,MCQ,6,3.18,Understand,1.46
+QZ2505,QF1587,29-08-2024,Chemistry,Open,7,3.56,Apply,0.66
+QZ2506,QF1587,01-08-2024,Language,MCQ,11,2.49,Remember,2.62
+QZ2507,QF1587,25-08-2024,Mathematics,MCQ,7,3.53,Analyze,0.91
+QZ2508,QF1587,21-08-2024,General Knowledge,Mixed,7,2.98,Understand,4.37
+QZ2509,QF1587,29-08-2024,Language,MCQ,8,3.01,Remember,3.52
+QZ2510,QF1587,06-08-2024,Language,MCQ,11,2.65,Remember,0.23
+QZ2511,QF1588,30-08-2024,History,MCQ,11,3.45,Remember,0.93
+QZ2512,QF1588,05-08-2024,Programming,Mixed,7,2.99,Remember,0.58
+QZ2513,QF1588,25-07-2024,Physics,MCQ,13,3,Analyze,0.87
+QZ2514,QF1588,17-08-2024,Computer Science,MCQ,8,3.35,Understand,1.17
+QZ2515,QF1588,24-08-2024,History,MCQ,8,2.85,Analyze,3.18
+QZ2516,QF1588,14-08-2024,Programming,MCQ,5,4.15,Analyze,1.13
+QZ2517,QF1588,21-08-2024,Computer Science,Mixed,3,2.88,Apply,1.42
+QZ2518,QF1588,14-08-2024,Mathematics,MCQ,5,2.69,Understand,0.65
+QZ2519,QF1588,07-08-2024,English,Mixed,10,2.27,Remember,2.88
+QZ2520,QF1589,23-08-2024,General Knowledge,Mixed,8,3.43,Understand,4.39
+QZ2521,QF1589,11-08-2024,English,MCQ,12,2.8,Remember,2.06
+QZ2522,QF1589,24-08-2024,History,Open,12,2.68,Remember,0.1
+QZ2523,QF1589,13-08-2024,Physics,MCQ,8,3.63,Analyze,1.32
+QZ2524,QF1595,31-08-2024,General Knowledge,MCQ,6,2.85,Understand,0.82
+QZ2525,QF1595,30-08-2024,Language,Mixed,3,3.5,Understand,2.87
+QZ2526,QF1595,04-08-2024,Biology,MCQ,4,3.6,Evaluate,2.69
+QZ2527,QF1596,08-08-2024,Chemistry,MCQ,6,2.54,Understand,2.08
+QZ2528,QF1596,02-08-2024,Programming,MCQ,7,3.55,Understand,0.5
+QZ2529,QF1596,31-07-2024,Business Studies,MCQ,4,2.39,Remember,3.02
+QZ2530,QF1596,27-08-2024,Biology,Mixed,9,2.79,Understand,5.48
+QZ2531,QF1596,13-08-2024,Physics,Mixed,9,2.61,Understand,0.1
+QZ2532,QF1596,15-08-2024,History,Mixed,11,3.05,Understand,1.89
+QZ2533,QF1596,16-08-2024,Language,MCQ,11,2.55,Understand,0.45
+QZ2534,QF1596,26-08-2024,History,Open,4,2.7,Understand,2
+QZ2535,QF1596,24-08-2024,Physics,Open,6,1.53,Remember,6.01
+QZ2536,QF1596,17-08-2024,English,MCQ,6,3,Understand,1.55
+QZ2537,QF1596,30-08-2024,General Knowledge,Mixed,7,2.82,Remember,1.58
+QZ2538,QF1596,28-07-2024,Biology,MCQ,10,2.85,Analyze,11.03
+QZ2539,QF1596,12-08-2024,Computer Science,Mixed,4,3.84,Apply,3.69
+QZ2540,QF1596,27-08-2024,Language,Mixed,5,3.02,Analyze,0.98
+QZ2541,QF1596,28-08-2024,General Knowledge,Mixed,12,2.78,Remember,2.71
+QZ2542,QF1596,31-08-2024,General Knowledge,Mixed,9,3.97,Analyze,0.16
+QZ2543,QF1596,22-08-2024,Programming,Mixed,8,2.83,Remember,4.26
+QZ2544,QF1596,24-08-2024,Programming,Mixed,3,3.26,Understand,3.32
+QZ2545,QF1596,22-08-2024,Language,MCQ,8,2.46,Understand,0.66
+QZ2546,QF1596,16-08-2024,Mathematics,Mixed,6,1.92,Remember,2.89
+QZ2547,QF1596,22-08-2024,General Knowledge,MCQ,13,2.74,Remember,4.36
+QZ2548,QF1598,22-08-2024,Programming,Mixed,4,3.45,Evaluate,4.57
+QZ2549,QF1598,30-08-2024,English,Open,11,2.82,Understand,0.46
+QZ2550,QF1598,15-08-2024,Mathematics,MCQ,4,1.89,Remember,0.57
+QZ2551,QF1599,23-08-2024,Chemistry,MCQ,6,3.16,Understand,5.28
+QZ2552,QF1600,23-08-2024,English,Mixed,10,2.85,Understand,3.81
+QZ2553,QF1600,19-08-2024,English,MCQ,11,3.04,Understand,1.71
+QZ2554,QF1600,31-07-2024,History,MCQ,7,2.92,Understand,1.58
+QZ2555,QF1600,05-08-2024,History,Mixed,7,2.2,Remember,1.28
+QZ2556,QF1602,29-08-2024,Mathematics,Open,7,2.37,Understand,2.37
+QZ2557,QF1602,27-08-2024,Chemistry,MCQ,11,2.84,Apply,2.59
+QZ2558,QF1602,27-08-2024,Chemistry,MCQ,10,3.9,Apply,1.23
+QZ2559,QF1602,14-08-2024,General Knowledge,MCQ,5,2.98,Evaluate,2.84
+QZ2560,QF1602,25-07-2024,Programming,MCQ,12,3.23,Understand,6
+QZ2561,QF1602,12-08-2024,Computer Science,MCQ,7,2.7,Remember,0.66
+QZ2562,QF1602,18-08-2024,Physics,MCQ,10,2.78,Remember,1.19
+QZ2563,QF1605,30-07-2024,Chemistry,Mixed,5,3.37,Analyze,5.77
+QZ2564,QF1605,07-08-2024,Programming,Mixed,6,3.28,Remember,3.63
+QZ2565,QF1605,14-08-2024,Mathematics,MCQ,4,3.35,Remember,1.51
+QZ2566,QF1605,25-08-2024,Physics,MCQ,11,3.27,Analyze,2.72
+QZ2567,QF1606,30-08-2024,Language,Mixed,6,2.39,Remember,1.7
+QZ2568,QF1606,29-08-2024,Biology,Open,8,2.83,Understand,3.4
+QZ2569,QF1606,02-08-2024,Computer Science,MCQ,11,3.07,Remember,0.37
+QZ2570,QF1606,20-08-2024,Computer Science,Mixed,12,2.75,Remember,0.23
+QZ2571,QF1606,23-08-2024,Business Studies,MCQ,1,2.6,Understand,1.21
+QZ2572,QF1606,05-08-2024,History,MCQ,7,2.5,Understand,0.77
+QZ2573,QF1606,21-08-2024,Chemistry,Open,9,3.84,Evaluate,3.51
+QZ2574,QF1606,19-08-2024,History,Open,5,2.51,Understand,1.74
+QZ2575,QF1606,25-08-2024,English,MCQ,13,3.36,Understand,5.41
+QZ2576,QF1606,26-08-2024,History,MCQ,8,3.3,Remember,4.05
+QZ2577,QF1606,13-08-2024,General Knowledge,Mixed,5,3.37,Evaluate,1.33
+QZ2578,QF1606,27-08-2024,General Knowledge,MCQ,5,2.9,Analyze,1.5
+QZ2579,QF1606,30-08-2024,Physics,Open,9,2.82,Remember,12.97
+QZ2580,QF1606,29-08-2024,Mathematics,Mixed,8,2.94,Understand,8.33
+QZ2581,QF1606,25-08-2024,Chemistry,Mixed,8,3.05,Analyze,0.73
+QZ2582,QF1606,05-08-2024,Chemistry,MCQ,14,3.35,Apply,2.38
+QZ2583,QF1607,12-08-2024,General Knowledge,MCQ,3,2.17,Remember,2.36
+QZ2584,QF1607,02-08-2024,Mathematics,MCQ,10,2.78,Understand,4.3
+QZ2585,QF1607,26-07-2024,Programming,Open,9,2.66,Remember,8.21
+QZ2586,QF1607,22-07-2024,Physics,MCQ,8,2.91,Understand,0.31
+QZ2587,QF1607,21-08-2024,English,MCQ,11,2.66,Remember,7.17
+QZ2588,QF1607,30-07-2024,Business Studies,MCQ,7,2.5,Remember,0.47
+QZ2589,QF1607,24-08-2024,Programming,Mixed,5,3.96,Apply,2.52
+QZ2590,QF1607,22-07-2024,Computer Science,MCQ,9,2.97,Analyze,1.83
+QZ2591,QF1607,26-07-2024,Business Studies,MCQ,14,3.25,Create,0.66
+QZ2592,QF1607,03-08-2024,General Knowledge,MCQ,11,3.15,Understand,4.09
+QZ2593,QF1607,29-07-2024,Business Studies,Open,8,3.35,Analyze,5.66
+QZ2594,QF1610,31-08-2024,Computer Science,Mixed,8,3.26,Understand,6.28
+QZ2595,QF1610,30-08-2024,English,MCQ,6,2.21,Remember,2.22
+QZ2596,QF1611,08-08-2024,Biology,Mixed,6,2.58,Understand,1.59
+QZ2597,QF1611,25-08-2024,Language,MCQ,9,2.69,Understand,0.35
+QZ2598,QF1611,16-08-2024,Physics,MCQ,7,3.26,Remember,1.27
+QZ2599,QF1611,19-08-2024,History,MCQ,7,2.59,Remember,2.74
+QZ2600,QF1611,12-08-2024,Computer Science,MCQ,5,4.23,Apply,2.86
+QZ2601,QF1613,17-08-2024,Physics,MCQ,5,2.71,Apply,0.42
+QZ2602,QF1614,07-08-2024,English,Mixed,5,3,Remember,0.8
+QZ2603,QF1614,26-07-2024,Programming,MCQ,4,3.8,Analyze,1.56
+QZ2604,QF1615,04-08-2024,Programming,MCQ,11,2.91,Apply,2.94
+QZ2605,QF1615,16-08-2024,General Knowledge,MCQ,8,3,Understand,1.14
+QZ2606,QF1615,11-08-2024,Business Studies,MCQ,9,2.92,Remember,7.9
+QZ2607,QF1617,09-08-2024,Language,MCQ,7,3.22,Remember,0.58
+QZ2608,QF1617,23-08-2024,Programming,Open,8,2.89,Understand,0.43
+QZ2609,QF1617,29-08-2024,English,Mixed,5,2.75,Remember,2.48
+QZ2610,QF1618,23-08-2024,Mathematics,MCQ,3,3.41,Evaluate,0.13
+QZ2611,QF1618,19-08-2024,Biology,Mixed,3,3.4,Remember,0.55
+QZ2612,QF1620,28-08-2024,Computer Science,Mixed,6,3.48,Understand,0.83
+QZ2613,QF1620,02-08-2024,General Knowledge,MCQ,2,1.67,Remember,0.57
+QZ2614,QF1622,12-08-2024,Mathematics,Mixed,6,2.9,Remember,1.41
+QZ2615,QF1622,28-07-2024,Mathematics,Mixed,6,3.11,Understand,0.33
+QZ2616,QF1624,26-08-2024,Biology,Open,11,3.07,Understand,0.73
+QZ2617,QF1624,06-08-2024,English,MCQ,7,2.49,Remember,0.1
+QZ2618,QF1624,06-08-2024,Biology,Mixed,6,2.89,Understand,0.32
+QZ2619,QF1624,25-08-2024,Chemistry,Mixed,9,2.81,Understand,0.93
+QZ2620,QF1625,05-08-2024,English,MCQ,8,2.65,Understand,0.17
+QZ2621,QF1625,18-08-2024,English,Mixed,7,2.98,Understand,1.88
+QZ2622,QF1625,26-08-2024,History,MCQ,6,2.76,Understand,1.84
+QZ2623,QF1625,31-08-2024,Physics,MCQ,6,3.23,Understand,4.92
+QZ2624,QF1626,17-08-2024,Mathematics,Mixed,7,2.65,Understand,0.1
+QZ2625,QF1626,29-08-2024,Business Studies,MCQ,8,2.44,Understand,0.12
+QZ2626,QF1626,28-07-2024,Computer Science,MCQ,8,3.26,Remember,0.69
+QZ2627,QF1626,24-08-2024,Chemistry,MCQ,7,2.63,Understand,10.33
+QZ2628,QF1626,14-08-2024,Chemistry,MCQ,5,3.2,Remember,3.15
+QZ2629,QF1627,15-08-2024,Computer Science,Mixed,9,2.73,Understand,3.26
+QZ2630,QF1627,11-08-2024,Language,MCQ,10,3.45,Apply,0.49
+QZ2631,QF1629,08-08-2024,Biology,MCQ,4,3.49,Understand,0.67
+QZ2632,QF1629,15-08-2024,Language,MCQ,10,2.53,Remember,1.65
+QZ2633,QF1629,03-08-2024,Language,Open,6,2.3,Remember,2.99
+QZ2634,QF1629,30-07-2024,Programming,MCQ,7,3.07,Understand,2.76
+QZ2635,QF1629,04-08-2024,History,MCQ,4,3.28,Understand,1.09
+QZ2636,QF1631,29-08-2024,Physics,MCQ,17,2.63,Understand,2.14
+QZ2637,QF1632,02-08-2024,Computer Science,Mixed,6,3,Remember,1.41
+QZ2638,QF1632,12-08-2024,Mathematics,MCQ,10,2.44,Understand,0.16
+QZ2639,QF1632,12-08-2024,Computer Science,MCQ,12,2.78,Remember,1.28
+QZ2640,QF1633,25-08-2024,Mathematics,Mixed,8,3.01,Evaluate,2.32
+QZ2641,QF1633,27-08-2024,Business Studies,MCQ,5,3.26,Apply,3.14
+QZ2642,QF1633,03-08-2024,Physics,MCQ,9,3.15,Evaluate,0.97
+QZ2643,QF1633,16-08-2024,History,Mixed,9,3.02,Understand,3.31
+QZ2644,QF1635,09-08-2024,General Knowledge,Mixed,13,2.69,Understand,0.24
+QZ2645,QF1636,27-08-2024,Computer Science,MCQ,9,2.39,Understand,1.31
+QZ2646,QF1636,20-08-2024,General Knowledge,MCQ,8,2.81,Understand,0.51
+QZ2647,QF1636,02-08-2024,Computer Science,MCQ,5,2.39,Remember,2.14
+QZ2648,QF1636,14-08-2024,Programming,Mixed,7,3.53,Understand,2.65
+QZ2649,QF1636,08-08-2024,Computer Science,MCQ,12,2.41,Remember,2.1
+QZ2650,QF1636,29-07-2024,English,Mixed,5,3.41,Understand,1.37
+QZ2651,QF1636,31-08-2024,Physics,Mixed,17,3.58,Apply,4.1
+QZ2652,QF1636,25-08-2024,Computer Science,MCQ,8,2.54,Apply,7.49
+QZ2653,QF1637,19-08-2024,Mathematics,MCQ,6,3.07,Understand,0.76
+QZ2654,QF1638,22-08-2024,History,Mixed,9,3.25,Remember,0.15
+QZ2655,QF1640,25-08-2024,Chemistry,Mixed,9,3.54,Evaluate,0.36
+QZ2656,QF1640,23-08-2024,General Knowledge,MCQ,5,2.02,Remember,0.63
+QZ2657,QF1641,09-08-2024,Business Studies,MCQ,5,2.4,Remember,1.91
+QZ2658,QF1641,19-08-2024,History,MCQ,8,2.69,Remember,2.62
+QZ2659,QF1641,19-08-2024,Physics,Mixed,7,2.04,Understand,0.83
+QZ2660,QF1642,31-08-2024,Computer Science,MCQ,11,2.56,Remember,2.67
+QZ2661,QF1642,11-08-2024,Physics,Mixed,10,1.98,Remember,2.5
+QZ2662,QF1642,13-08-2024,Biology,Mixed,11,2.61,Remember,7.94
+QZ2663,QF1642,26-08-2024,Computer Science,Mixed,8,2.76,Understand,0.46
+QZ2664,QF1642,15-08-2024,General Knowledge,Open,9,2.94,Understand,1.38
+QZ2665,QF1644,25-08-2024,Computer Science,MCQ,9,3.57,Remember,4.09
+QZ2666,QF1644,21-08-2024,Language,MCQ,9,3.29,Analyze,2.41
+QZ2667,QF1644,03-08-2024,Physics,Mixed,11,3.22,Understand,3.56
+QZ2668,QF1644,25-08-2024,Computer Science,Mixed,11,3.36,Remember,1.38
+QZ2669,QF1644,27-08-2024,English,MCQ,5,2.07,Remember,0.8
+QZ2670,QF1644,09-08-2024,History,MCQ,9,2.84,Remember,2.04
+QZ2671,QF1644,03-08-2024,Biology,Open,11,3.31,Remember,3.41
+QZ2672,QF1644,13-08-2024,History,Mixed,9,2.9,Understand,3.31
+QZ2673,QF1644,01-08-2024,Chemistry,MCQ,13,3.01,Evaluate,1.62
+QZ2674,QF1644,27-08-2024,Physics,Mixed,7,4.32,Evaluate,3.45
+QZ2675,QF1644,23-08-2024,Language,Mixed,6,1.87,Understand,2.09
+QZ2676,QF1644,29-08-2024,Programming,MCQ,7,3.05,Understand,2.12
+QZ2677,QF1645,21-08-2024,Physics,Mixed,5,3.41,Remember,0.55
+QZ2678,QF1645,26-08-2024,Language,MCQ,10,2.6,Understand,0.67
+QZ2679,QF1645,08-08-2024,Language,Mixed,10,2.96,Remember,3.15
+QZ2680,QF1645,19-08-2024,Biology,MCQ,10,2.85,Understand,1.27
+QZ2681,QF1645,31-08-2024,History,MCQ,15,3.11,Remember,3.39
+QZ2682,QF1645,19-08-2024,History,Mixed,9,2.9,Understand,0.93
+QZ2683,QF1645,20-08-2024,Programming,MCQ,12,3.47,Apply,2.23
+QZ2684,QF1646,14-08-2024,Chemistry,Mixed,5,2.78,Remember,0.45
+QZ2685,QF1646,14-08-2024,Biology,Mixed,7,4.55,Analyze,2.08
+QZ2686,QF1646,07-08-2024,Physics,Mixed,9,3.02,Analyze,3.19
+QZ2687,QF1646,27-08-2024,Chemistry,MCQ,8,3.42,Analyze,2.69
+QZ2688,QF1647,23-08-2024,English,MCQ,10,2.66,Remember,1.12
+QZ2689,QF1647,31-08-2024,Biology,Mixed,8,2.93,Remember,2.02
+QZ2690,QF1648,29-08-2024,Chemistry,MCQ,12,3.1,Understand,2.35
+QZ2691,QF1648,09-08-2024,General Knowledge,MCQ,7,3.35,Understand,2.25
+QZ2692,QF1648,25-08-2024,Chemistry,Mixed,7,3.18,Understand,2.03
+QZ2693,QF1648,31-08-2024,Programming,MCQ,13,3.11,Remember,0.1
+QZ2694,QF1648,07-08-2024,Physics,MCQ,6,2.81,Remember,1.42
+QZ2695,QF1648,18-08-2024,Chemistry,MCQ,8,3.47,Evaluate,0.99
+QZ2696,QF1649,16-08-2024,Programming,MCQ,4,2.85,Understand,0.17
+QZ2697,QF1649,31-08-2024,Business Studies,MCQ,9,2.77,Remember,2.03
+QZ2698,QF1650,31-08-2024,Business Studies,MCQ,9,3.65,Create,1.05
+QZ2699,QF1651,17-08-2024,General Knowledge,MCQ,6,2.18,Remember,2.62
+QZ2700,QF1651,03-08-2024,General Knowledge,MCQ,9,3.12,Understand,0.72
+QZ2701,QF1652,21-08-2024,Business Studies,Mixed,4,2.21,Remember,3.42
+QZ2702,QF1654,29-08-2024,Programming,Mixed,13,2.79,Understand,2.29
+QZ2703,QF1654,27-08-2024,General Knowledge,MCQ,7,3.43,Remember,3.33
+QZ2704,QF1654,27-07-2024,Programming,MCQ,5,2.42,Understand,5.18
+QZ2705,QF1654,27-08-2024,Programming,Mixed,5,2.84,Understand,0.95
+QZ2706,QF1654,20-08-2024,General Knowledge,MCQ,10,2.9,Remember,1.14
+QZ2707,QF1657,25-08-2024,History,MCQ,10,3.12,Understand,3.21
+QZ2708,QF1657,01-08-2024,Programming,MCQ,7,2.97,Remember,3.03
+QZ2709,QF1657,25-08-2024,History,Mixed,1,3.51,Understand,4.44
+QZ2710,QF1657,27-08-2024,Chemistry,MCQ,8,2.37,Remember,0.54
+QZ2711,QF1657,24-08-2024,Business Studies,MCQ,8,3,Understand,2.68
+QZ2712,QF1657,10-08-2024,Physics,MCQ,9,3.02,Understand,0.22
+QZ2713,QF1657,26-08-2024,Business Studies,MCQ,4,2.61,Understand,0.1
+QZ2714,QF1657,30-07-2024,Business Studies,Open,7,3.12,Remember,6.88
+QZ2715,QF1657,11-08-2024,Programming,Mixed,11,2.81,Remember,4.5
+QZ2716,QF1657,29-08-2024,English,MCQ,6,3.96,Create,2.65
+QZ2717,QF1658,29-08-2024,English,MCQ,4,4.24,Evaluate,6.12
+QZ2718,QF1658,21-08-2024,General Knowledge,Mixed,6,3.01,Remember,2.49
+QZ2719,QF1659,20-08-2024,Mathematics,MCQ,6,2.01,Remember,0.1
+QZ2720,QF1659,16-08-2024,History,Mixed,4,2.95,Remember,0.35
+QZ2721,QF1659,20-08-2024,Language,MCQ,2,1,Remember,0.73
+QZ2722,QF1659,08-08-2024,Physics,MCQ,6,2.89,Remember,1.69
+QZ2723,QF1659,26-08-2024,English,MCQ,9,3.21,Understand,2.69
+QZ2724,QF1660,11-08-2024,Business Studies,Open,7,2.32,Remember,2.19
+QZ2725,QF1660,26-08-2024,Business Studies,MCQ,7,3.5,Understand,3.63
+QZ2726,QF1660,24-08-2024,Mathematics,MCQ,7,2.68,Understand,7
+QZ2727,QF1660,30-07-2024,Mathematics,MCQ,5,3.44,Apply,0.77
+QZ2728,QF1660,18-08-2024,History,MCQ,4,1.67,Understand,0.94
+QZ2729,QF1664,31-07-2024,English,Mixed,9,2.65,Understand,4.33
+QZ2730,QF1664,26-08-2024,Physics,MCQ,10,3,Understand,1.37
+QZ2731,QF1665,27-08-2024,Programming,MCQ,10,2.81,Understand,6
+QZ2732,QF1665,30-08-2024,Physics,Open,1,3.27,Apply,0.31
+QZ2733,QF1665,06-08-2024,General Knowledge,MCQ,11,2.46,Remember,2.66
+QZ2734,QF1665,20-08-2024,General Knowledge,MCQ,4,2.34,Remember,5.21
+QZ2735,QF1665,02-08-2024,Language,MCQ,15,2.49,Remember,1.64
+QZ2736,QF1666,02-08-2024,Computer Science,MCQ,9,2.4,Remember,1.2
+QZ2737,QF1666,17-08-2024,Business Studies,Mixed,5,4.04,Evaluate,0.46
+QZ2738,QF1666,24-08-2024,General Knowledge,MCQ,6,4.21,Evaluate,1.05
+QZ2739,QF1666,28-08-2024,Language,Mixed,13,2.85,Remember,3.75
+QZ2740,QF1666,30-07-2024,Mathematics,Mixed,10,3.39,Understand,4.62
+QZ2741,QF1667,02-08-2024,Business Studies,MCQ,12,3.14,Remember,2.98
+QZ2742,QF1667,29-08-2024,General Knowledge,MCQ,5,2.75,Remember,0.1
+QZ2743,QF1667,14-08-2024,Programming,MCQ,7,2.97,Understand,0.15
+QZ2744,QF1667,01-08-2024,Biology,MCQ,5,2.03,Remember,2.29
+QZ2745,QF1668,21-08-2024,History,Mixed,5,2.43,Remember,4.3
+QZ2746,QF1668,07-08-2024,General Knowledge,MCQ,9,3.2,Understand,4.02
+QZ2747,QF1668,26-08-2024,Business Studies,MCQ,10,3.59,Understand,8.4
+QZ2748,QF1668,27-08-2024,Language,MCQ,12,3.09,Remember,3.54
+QZ2749,QF1668,31-07-2024,Chemistry,MCQ,12,3.27,Remember,0.85
+QZ2750,QF1668,20-08-2024,Mathematics,MCQ,13,3.23,Remember,8.04
+QZ2751,QF1668,07-08-2024,Business Studies,Open,7,2.92,Remember,3.43
+QZ2752,QF1668,20-08-2024,Physics,MCQ,11,3.58,Remember,0.36
+QZ2753,QF1668,10-08-2024,History,MCQ,4,1.97,Remember,5.74
+QZ2754,QF1668,23-08-2024,Physics,Mixed,7,2.86,Understand,3.24
+QZ2755,QF1668,09-08-2024,Language,Mixed,9,3.08,Apply,1.13
+QZ2756,QF1668,21-08-2024,Programming,MCQ,8,3.23,Understand,13.72
+QZ2757,QF1668,23-08-2024,Chemistry,Mixed,5,2.6,Remember,7.03
+QZ2758,QF1668,04-08-2024,Mathematics,MCQ,11,2.83,Understand,4.74
+QZ2759,QF1668,29-08-2024,Biology,MCQ,7,3.21,Understand,0.88
+QZ2760,QF1668,11-08-2024,Business Studies,MCQ,7,2.56,Remember,1.56
+QZ2761,QF1669,13-08-2024,Business Studies,MCQ,12,3.02,Understand,2.25
+QZ2762,QF1669,07-08-2024,Language,MCQ,11,2.5,Understand,1.02
+QZ2763,QF1669,21-08-2024,Language,MCQ,10,2.61,Remember,3.95
+QZ2764,QF1671,31-07-2024,General Knowledge,MCQ,4,3,Understand,1.52
+QZ2765,QF1671,04-08-2024,Chemistry,Mixed,10,2.97,Remember,1.23
+QZ2766,QF1671,09-08-2024,History,MCQ,6,2.8,Understand,2.13
+QZ2767,QF1671,22-08-2024,History,Mixed,14,2.99,Understand,1.18
+QZ2768,QF1672,31-07-2024,English,Mixed,6,3.53,Understand,0.71
+QZ2769,QF1673,09-08-2024,Computer Science,MCQ,8,2.68,Remember,8.02
+QZ2770,QF1673,31-08-2024,Computer Science,MCQ,7,3.09,Remember,2.33
+QZ2771,QF1673,09-08-2024,History,MCQ,7,3.38,Understand,0.92
+QZ2772,QF1673,24-08-2024,Programming,Mixed,7,3.3,Understand,3.18
+QZ2773,QF1673,24-08-2024,General Knowledge,MCQ,6,3.33,Remember,0.99
+QZ2774,QF1673,29-08-2024,Mathematics,MCQ,12,3.27,Apply,4.11
+QZ2775,QF1673,03-08-2024,Programming,Open,8,3.08,Apply,2.36
+QZ2776,QF1673,21-08-2024,Programming,MCQ,6,2.4,Understand,0.51
+QZ2777,QF1673,11-08-2024,History,MCQ,12,3.35,Remember,1.07
+QZ2778,QF1673,29-07-2024,Physics,Mixed,9,3.8,Understand,2.51
+QZ2779,QF1675,15-08-2024,History,Open,10,2.73,Remember,4.77
+QZ2780,QF1675,11-08-2024,Physics,MCQ,4,3.49,Evaluate,0.82
+QZ2781,QF1675,25-08-2024,Language,MCQ,6,3.35,Understand,1.02
+QZ2782,QF1675,15-08-2024,Programming,MCQ,9,3.21,Remember,4.36
+QZ2783,QF1675,01-08-2024,Computer Science,MCQ,8,2.62,Remember,1.18
+QZ2784,QF1675,25-08-2024,English,Mixed,5,2.57,Understand,3.06
+QZ2785,QF1675,24-08-2024,English,Mixed,7,2.63,Understand,6.38
+QZ2786,QF1675,29-08-2024,Programming,Mixed,4,2.99,Understand,13.25
+QZ2787,QF1675,27-08-2024,General Knowledge,MCQ,13,2.86,Remember,5.78
+QZ2788,QF1675,06-08-2024,Chemistry,Open,11,3.16,Remember,2.55
+QZ2789,QF1675,08-08-2024,History,MCQ,10,3.15,Understand,0.1
+QZ2790,QF1675,19-08-2024,Physics,MCQ,11,2.35,Remember,1.52
+QZ2791,QF1675,26-08-2024,General Knowledge,MCQ,7,2.9,Understand,0.49
+QZ2792,QF1675,22-08-2024,Programming,MCQ,9,2.87,Remember,0.25
+QZ2793,QF1675,15-08-2024,Chemistry,MCQ,10,3.03,Understand,2.85
+QZ2794,QF1675,30-08-2024,History,MCQ,7,3.39,Remember,3.29
+QZ2795,QF1675,03-08-2024,English,MCQ,9,3.02,Remember,10.68
+QZ2796,QF1675,22-08-2024,Programming,MCQ,9,3.27,Apply,0.83
+QZ2797,QF1675,02-08-2024,Programming,MCQ,5,2.57,Remember,5.92
+QZ2798,QF1675,22-08-2024,Computer Science,Mixed,6,3.13,Remember,10.31
+QZ2799,QF1676,11-08-2024,Chemistry,MCQ,8,2.52,Remember,2.03
+QZ2800,QF1676,27-08-2024,General Knowledge,Mixed,8,4.5,Evaluate,0.1
+QZ2801,QF1676,16-08-2024,Physics,Mixed,12,2.91,Remember,2.85
+QZ2802,QF1676,31-07-2024,English,Mixed,7,2.79,Understand,0.5
+QZ2803,QF1676,24-08-2024,Language,MCQ,10,2.67,Remember,3.86
+QZ2804,QF1676,29-08-2024,Computer Science,Mixed,5,2.8,Remember,4.35
+QZ2805,QF1676,30-08-2024,Programming,Open,8,2.47,Analyze,6.36
+QZ2806,QF1676,15-08-2024,History,Mixed,12,3.88,Understand,4.06
+QZ2807,QF1676,11-08-2024,Chemistry,Open,12,2.74,Remember,1.72
+QZ2808,QF1676,02-08-2024,Programming,MCQ,9,2.44,Remember,2.74
+QZ2809,QF1676,12-08-2024,Programming,MCQ,5,2.23,Remember,3.14
+QZ2810,QF1676,14-08-2024,Language,Mixed,8,2.16,Remember,1.09
+QZ2811,QF1676,18-08-2024,Physics,MCQ,9,2.94,Understand,0.1
+QZ2812,QF1676,06-08-2024,Programming,Open,16,2.54,Remember,0.9
+QZ2813,QF1679,24-08-2024,Programming,MCQ,14,3.07,Remember,0.74
+QZ2814,QF1679,08-08-2024,Computer Science,MCQ,5,2.44,Remember,1.35
+QZ2815,QF1680,23-08-2024,Language,MCQ,17,2.86,Remember,1.74
+QZ2816,QF1680,09-08-2024,History,Mixed,8,2.28,Understand,1.5
+QZ2817,QF1680,26-08-2024,Mathematics,MCQ,9,2.5,Understand,4.43
+QZ2818,QF1680,31-08-2024,History,Mixed,9,3.3,Apply,1.11
+QZ2819,QF1680,26-08-2024,English,Mixed,4,2.81,Understand,0.48
+QZ2820,QF1683,19-08-2024,Chemistry,MCQ,6,3.49,Evaluate,2.87
+QZ2821,QF1683,24-08-2024,Biology,Mixed,5,3.27,Understand,0.81
+QZ2822,QF1684,30-07-2024,History,MCQ,8,3.15,Apply,0.41
+QZ2823,QF1685,14-08-2024,Business Studies,MCQ,5,2.75,Remember,4.7
+QZ2824,QF1685,14-08-2024,Biology,MCQ,8,3.32,Apply,5.01
+QZ2825,QF1686,16-08-2024,Biology,MCQ,8,3.13,Remember,5.27
+QZ2826,QF1686,15-08-2024,Chemistry,Open,10,2.46,Understand,4.11
+QZ2827,QF1686,28-08-2024,Chemistry,MCQ,7,2.43,Remember,0.41
+QZ2828,QF1686,26-08-2024,Physics,MCQ,12,2.53,Remember,1.59
+QZ2829,QF1686,10-08-2024,English,MCQ,13,2.74,Understand,3.3
+QZ2830,QF1687,31-07-2024,Physics,Mixed,9,2.43,Remember,1.16
+QZ2831,QF1687,30-08-2024,Language,MCQ,6,3.67,Understand,0.21
+QZ2832,QF1688,17-08-2024,Language,MCQ,10,2.97,Remember,0.62
+QZ2833,QF1688,23-08-2024,Language,Open,6,2.87,Apply,0.22
+QZ2834,QF1688,27-08-2024,Mathematics,Mixed,8,2.67,Understand,2.77
+QZ2835,QF1689,27-08-2024,Programming,Mixed,7,3.01,Understand,4.35
+QZ2836,QF1689,30-08-2024,History,MCQ,10,2.92,Understand,5.16
+QZ2837,QF1689,22-08-2024,General Knowledge,Mixed,6,3.04,Remember,5.7
+QZ2838,QF1689,21-08-2024,Chemistry,MCQ,9,2.52,Understand,1.65
+QZ2839,QF1690,25-08-2024,General Knowledge,Mixed,3,2.73,Understand,0.1
+QZ2840,QF1691,13-08-2024,Computer Science,MCQ,18,2.96,Remember,1.14
+QZ2841,QF1691,24-08-2024,Chemistry,Mixed,7,3.42,Understand,3.01
+QZ2842,QF1692,15-08-2024,Chemistry,MCQ,5,3.34,Evaluate,1.68
+QZ2843,QF1694,19-08-2024,Chemistry,Open,9,3.16,Understand,1.45
+QZ2844,QF1694,20-08-2024,General Knowledge,MCQ,6,3.24,Understand,0.33
+QZ2845,QF1694,20-08-2024,Chemistry,Open,3,2.38,Understand,10.93
+QZ2846,QF1694,17-08-2024,Business Studies,Mixed,5,2.56,Remember,7.15
+QZ2847,QF1694,23-08-2024,Mathematics,Mixed,11,2.78,Understand,1.56
+QZ2848,QF1694,29-08-2024,Computer Science,MCQ,8,2.99,Understand,5.14
+QZ2849,QF1694,10-08-2024,History,Mixed,5,3.24,Understand,0.8
+QZ2850,QF1694,31-08-2024,Programming,Open,10,2.63,Remember,7.26
+QZ2851,QF1694,13-08-2024,Biology,Open,7,3.09,Understand,1.14
+QZ2852,QF1694,27-08-2024,Business Studies,MCQ,11,3.03,Remember,3.29
+QZ2853,QF1695,16-08-2024,General Knowledge,MCQ,13,2.57,Remember,0.48
+QZ2854,QF1696,15-08-2024,English,MCQ,9,3.08,Understand,0.42
+QZ2855,QF1696,29-08-2024,Business Studies,MCQ,13,2.67,Remember,0.1
+QZ2856,QF1696,08-08-2024,Biology,MCQ,9,2.93,Remember,1.87
+QZ2857,QF1696,15-08-2024,Language,Open,9,3.24,Remember,2.32
+QZ2858,QF1696,19-08-2024,Biology,Mixed,7,2.48,Understand,1.33
+QZ2859,QF1696,26-08-2024,English,MCQ,5,2.85,Remember,1.81
+QZ2860,QF1696,24-08-2024,Business Studies,Open,11,2.4,Remember,5.89
+QZ2861,QF1698,10-08-2024,Biology,MCQ,5,3.26,Understand,2.09
+QZ2862,QF1698,29-08-2024,History,Mixed,7,2.89,Understand,3.45
+QZ2863,QF1699,31-08-2024,Programming,MCQ,9,3.06,Understand,0.6
+QZ2864,QF1700,08-08-2024,General Knowledge,Mixed,13,2.59,Remember,1.37
+QZ2865,QF1700,17-08-2024,Business Studies,MCQ,11,3.05,Remember,0.79
+QZ2866,QF1700,31-08-2024,Business Studies,Mixed,9,3.13,Remember,5.4
+QZ2867,QF1700,25-08-2024,English,Open,11,3.09,Understand,0.46
+QZ2868,QF1701,06-08-2024,Computer Science,MCQ,8,2.64,Remember,4.54
+QZ2869,QF1701,10-08-2024,Language,Mixed,4,2.64,Understand,0.62
+QZ2870,QF1701,02-08-2024,Language,Open,7,3.02,Apply,1.74
+QZ2871,QF1701,31-08-2024,Computer Science,MCQ,11,3.15,Analyze,2.59
+QZ2872,QF1702,16-08-2024,Chemistry,MCQ,11,3.49,Evaluate,0.97
+QZ2873,QF1702,11-08-2024,Biology,MCQ,9,2.92,Understand,0.95
+QZ2874,QF1702,03-08-2024,General Knowledge,MCQ,4,3.36,Understand,0.27
+QZ2875,QF1702,22-08-2024,Chemistry,MCQ,3,3.03,Remember,10.1
+QZ2876,QF1702,31-08-2024,English,Open,7,2.94,Understand,0.58
+QZ2877,QF1702,24-08-2024,Mathematics,Mixed,8,2.48,Understand,0.18
+QZ2878,QF1702,22-08-2024,Programming,Mixed,7,3.51,Remember,0.37
+QZ2879,QF1702,26-08-2024,Business Studies,MCQ,6,3.45,Apply,1.62
+QZ2880,QF1703,27-08-2024,History,Mixed,9,3.57,Understand,0.94
+QZ2881,QF1705,26-08-2024,Language,MCQ,9,2.98,Apply,0.2
+QZ2882,QF1705,28-08-2024,Physics,MCQ,8,3.06,Remember,1.85
+QZ2883,QF1705,10-08-2024,Language,MCQ,7,3.25,Understand,0.5
+QZ2884,QF1705,17-08-2024,Physics,MCQ,5,2.54,Remember,2.91
+QZ2885,QF1705,12-08-2024,English,MCQ,12,3.9,Understand,3.81
+QZ2886,QF1705,28-08-2024,Physics,MCQ,5,3.03,Evaluate,0.95
+QZ2887,QF1706,18-08-2024,Chemistry,Mixed,7,3.9,Analyze,1.11
+QZ2888,QF1706,24-08-2024,English,MCQ,9,3.24,Remember,1.37
+QZ2889,QF1707,18-08-2024,Business Studies,MCQ,9,2.48,Understand,7.44
+QZ2890,QF1707,30-08-2024,Language,MCQ,11,3.03,Remember,7.87
+QZ2891,QF1707,29-08-2024,Chemistry,MCQ,12,3.06,Understand,2.12
+QZ2892,QF1707,10-08-2024,Computer Science,Mixed,16,3.46,Evaluate,5.05
+QZ2893,QF1707,25-08-2024,Physics,Mixed,5,2.67,Remember,0.9
+QZ2894,QF1707,30-08-2024,Biology,MCQ,7,2.77,Understand,3.84
+QZ2895,QF1707,21-08-2024,Business Studies,MCQ,10,3.11,Remember,2.42
+QZ2896,QF1707,16-08-2024,History,MCQ,9,2.52,Remember,2.01
+QZ2897,QF1707,22-08-2024,Mathematics,MCQ,4,3.07,Remember,5.79
+QZ2898,QF1707,30-08-2024,Computer Science,MCQ,8,2.71,Remember,10.94
+QZ2899,QF1707,05-08-2024,Mathematics,Open,8,2.56,Remember,1.17
+QZ2900,QF1707,16-08-2024,Computer Science,MCQ,10,2.76,Remember,2.18
+QZ2901,QF1708,21-08-2024,Language,MCQ,8,2.06,Understand,2.32
+QZ2902,QF1708,16-08-2024,History,MCQ,10,2.69,Understand,1.28
+QZ2903,QF1708,31-08-2024,Biology,Mixed,7,2.65,Evaluate,0.38
+QZ2904,QF1709,28-08-2024,Computer Science,MCQ,6,2.75,Remember,0.96
+QZ2905,QF1710,18-08-2024,Physics,Open,9,2.34,Understand,2.44
+QZ2906,QF1710,31-08-2024,History,MCQ,5,2.58,Understand,5.05
+QZ2907,QF1711,10-08-2024,Biology,MCQ,11,2.65,Remember,0.74
+QZ2908,QF1712,17-08-2024,Mathematics,MCQ,5,2.19,Remember,2.95
+QZ2909,QF1712,19-08-2024,History,Mixed,10,2.68,Remember,0.4
+QZ2910,QF1712,09-08-2024,Physics,Mixed,7,3.6,Evaluate,0.77
+QZ2911,QF1712,26-08-2024,Programming,MCQ,6,2.41,Remember,3.07
+QZ2912,QF1712,06-08-2024,History,Mixed,8,2.91,Remember,1.82
+QZ2913,QF1712,10-08-2024,Chemistry,MCQ,6,2.38,Understand,5.44
+QZ2914,QF1713,23-08-2024,Chemistry,MCQ,9,2.53,Remember,0.72
+QZ2915,QF1713,13-08-2024,Mathematics,MCQ,7,2.49,Remember,0.86
+QZ2916,QF1713,20-08-2024,English,MCQ,17,3.48,Understand,0.14
+QZ2917,QF1714,23-08-2024,Business Studies,Open,8,2.41,Remember,2.94
+QZ2918,QF1714,26-08-2024,Chemistry,MCQ,8,3.49,Analyze,0.23
+QZ2919,QF1714,30-08-2024,Business Studies,Mixed,6,2.39,Understand,0.93
+QZ2920,QF1716,18-08-2024,Business Studies,MCQ,11,2.02,Remember,1.86
+QZ2921,QF1716,06-08-2024,General Knowledge,MCQ,7,2.82,Understand,3.65
+QZ2922,QF1716,17-08-2024,Mathematics,Mixed,6,2.91,Analyze,0.54
+QZ2923,QF1716,12-08-2024,Physics,MCQ,3,4.12,Understand,1.72
+QZ2924,QF1716,27-08-2024,Mathematics,Mixed,4,3.65,Evaluate,0.24
+QZ2925,QF1716,18-08-2024,English,MCQ,8,2.8,Analyze,0.16
+QZ2926,QF1716,24-08-2024,Biology,Mixed,8,3.22,Understand,0.84
+QZ2927,QF1716,06-08-2024,Chemistry,Mixed,10,2.53,Apply,7.24
+QZ2928,QF1716,07-08-2024,Language,MCQ,9,2.61,Remember,0.14
+QZ2929,QF1716,12-08-2024,General Knowledge,MCQ,6,3.27,Understand,3.24
+QZ2930,QF1717,05-08-2024,Language,MCQ,8,2.47,Understand,0.39
+QZ2931,QF1721,21-08-2024,Computer Science,MCQ,12,3.47,Understand,0.2
+QZ2932,QF1721,14-08-2024,Physics,Mixed,6,2.95,Understand,0.63
+QZ2933,QF1722,23-08-2024,English,MCQ,9,3.29,Remember,0.1
+QZ2934,QF1722,28-08-2024,Biology,MCQ,5,3.57,Evaluate,5.19
+QZ2935,QF1723,27-08-2024,English,Mixed,11,2.45,Remember,0.52
+QZ2936,QF1723,24-08-2024,Physics,MCQ,10,3.08,Evaluate,2.52
+QZ2937,QF1726,16-08-2024,Mathematics,MCQ,8,3.54,Evaluate,3
+QZ2938,QF1726,23-08-2024,Biology,MCQ,8,2.73,Remember,1.08
+QZ2939,QF1726,25-08-2024,Computer Science,Open,5,3.47,Understand,2.87
+QZ2940,QF1726,27-08-2024,Programming,MCQ,5,2.86,Understand,2.71
+QZ2941,QF1726,27-08-2024,General Knowledge,Mixed,14,3.13,Remember,2.99
+QZ2942,QF1726,27-08-2024,Business Studies,MCQ,12,2.6,Remember,0.4
+QZ2943,QF1726,28-08-2024,Physics,MCQ,6,3.23,Remember,0.14
+QZ2944,QF1726,11-08-2024,Physics,MCQ,14,3,Understand,2.42
+QZ2945,QF1726,13-08-2024,Business Studies,MCQ,6,1.94,Understand,3.54
+QZ2946,QF1727,26-08-2024,General Knowledge,Mixed,10,3.31,Understand,0.7
+QZ2947,QF1727,13-08-2024,Language,MCQ,9,2.41,Remember,0.14
+QZ2948,QF1727,10-08-2024,Mathematics,Mixed,7,2.67,Understand,1.12
+QZ2949,QF1728,26-08-2024,Programming,MCQ,12,2.85,Understand,0.99
+QZ2950,QF1728,15-08-2024,Language,MCQ,9,3.36,Understand,2.45
+QZ2951,QF1730,06-08-2024,General Knowledge,Open,5,2.4,Remember,0.52
+QZ2952,QF1730,30-08-2024,Biology,MCQ,8,2.19,Remember,1.35
+QZ2953,QF1732,08-08-2024,Chemistry,MCQ,8,2.71,Remember,0.14
+QZ2954,QF1732,16-08-2024,English,Open,6,2.27,Remember,1.75
+QZ2955,QF1733,27-08-2024,Computer Science,MCQ,11,2.93,Remember,2.15
+QZ2956,QF1733,15-08-2024,Mathematics,MCQ,7,2.87,Remember,0.1
+QZ2957,QF1733,26-08-2024,General Knowledge,Mixed,9,2.6,Remember,0.77
+QZ2958,QF1733,20-08-2024,History,Mixed,9,2.64,Understand,0.82
+QZ2959,QF1733,14-08-2024,Biology,Mixed,7,3.05,Remember,3.39
+QZ2960,QF1733,27-08-2024,General Knowledge,MCQ,16,2.84,Remember,1.57
+QZ2961,QF1733,29-08-2024,Computer Science,MCQ,6,2.57,Understand,1.99
+QZ2962,QF1734,11-08-2024,Chemistry,MCQ,6,2.52,Understand,0.33
+QZ2963,QF1734,27-08-2024,Programming,MCQ,9,3.11,Remember,2.25
+QZ2964,QF1735,19-08-2024,Programming,Mixed,8,2.85,Apply,0.56
+QZ2965,QF1735,10-08-2024,Physics,MCQ,6,3.1,Understand,0.74
+QZ2966,QF1735,27-08-2024,Language,MCQ,10,2.61,Apply,1.64
+QZ2967,QF1735,15-08-2024,History,Open,4,3.41,Understand,3.77
+QZ2968,QF1735,19-08-2024,Physics,Open,6,2.94,Remember,1.32
+QZ2969,QF1735,29-08-2024,Language,MCQ,6,3.69,Understand,3.22
+QZ2970,QF1736,28-08-2024,Language,Mixed,3,2.76,Understand,0.1
+QZ2971,QF1736,26-08-2024,Language,MCQ,7,3.79,Evaluate,0.1
+QZ2972,QF1736,20-08-2024,Language,MCQ,6,2.87,Remember,2.3
+QZ2973,QF1736,14-08-2024,Language,MCQ,7,2.81,Understand,1.13
+QZ2974,QF1736,23-08-2024,Mathematics,Open,7,2.23,Remember,1.67
+QZ2975,QF1736,23-08-2024,Computer Science,MCQ,6,2.24,Understand,3.97
+QZ2976,QF1737,24-08-2024,Business Studies,MCQ,13,2.79,Understand,1.11
+QZ2977,QF1738,22-08-2024,Mathematics,Mixed,10,3.43,Analyze,1.42
+QZ2978,QF1738,28-08-2024,Programming,MCQ,5,2.85,Understand,0.74
+QZ2979,QF1738,12-08-2024,Computer Science,MCQ,6,1.91,Understand,1.17
+QZ2980,QF1738,31-08-2024,History,Mixed,10,2.17,Understand,0.85
+QZ2981,QF1739,24-08-2024,English,Mixed,7,2.81,Remember,0.15
+QZ2982,QF1739,24-08-2024,Mathematics,MCQ,9,3.44,Understand,1.7
+QZ2983,QF1740,07-08-2024,History,MCQ,5,3.9,Evaluate,1.43
+QZ2984,QF1740,24-08-2024,Physics,Mixed,5,3.08,Understand,1.72
+QZ2985,QF1741,27-08-2024,History,Mixed,11,2.67,Understand,0.19
+QZ2986,QF1741,22-08-2024,Biology,MCQ,10,3.09,Evaluate,0.92
+QZ2987,QF1741,20-08-2024,Programming,MCQ,11,2.98,Understand,1.43
+QZ2988,QF1741,26-08-2024,Programming,MCQ,7,3.11,Remember,3.22
+QZ2989,QF1741,30-08-2024,Physics,MCQ,4,3.83,Create,3.28
+QZ2990,QF1741,12-08-2024,General Knowledge,Mixed,9,3.07,Understand,4.4
+QZ2991,QF1741,20-08-2024,History,MCQ,6,3.78,Evaluate,0.18
+QZ2992,QF1742,12-08-2024,Chemistry,MCQ,9,3.14,Understand,0.82
+QZ2993,QF1742,09-08-2024,Mathematics,MCQ,5,4.03,Create,2.06
+QZ2994,QF1743,10-08-2024,History,Mixed,6,3.06,Understand,1.71
+QZ2995,QF1743,27-08-2024,Language,Mixed,10,2.7,Remember,2.15
+QZ2996,QF1743,31-08-2024,History,Mixed,11,3.82,Remember,1.63
+QZ2997,QF1743,13-08-2024,Programming,Mixed,8,3.48,Understand,3.14
+QZ2998,QF1745,27-08-2024,Chemistry,MCQ,12,2.53,Remember,0.35
+QZ2999,QF1745,24-08-2024,Programming,Mixed,14,2.94,Remember,1.85
+QZ3000,QF1746,27-08-2024,Business Studies,Mixed,7,2.68,Remember,3.28
+QZ3001,QF1746,08-08-2024,Business Studies,MCQ,9,3.35,Apply,0.24
+QZ3002,QF1746,21-08-2024,Programming,MCQ,7,3.18,Remember,2.85
+QZ3003,QF1746,25-08-2024,Chemistry,Mixed,8,2.15,Understand,0.64
+QZ3004,QF1746,24-08-2024,Chemistry,Mixed,8,2.11,Apply,1.49
+QZ3005,QF1747,18-08-2024,Physics,MCQ,8,2.63,Understand,1.79
+QZ3006,QF1748,24-08-2024,Business Studies,Mixed,7,3.48,Analyze,0.67
+QZ3007,QF1750,09-08-2024,Mathematics,MCQ,6,2.86,Understand,1.93
+QZ3008,QF1751,30-08-2024,English,MCQ,7,3.02,Understand,0.86
+QZ3009,QF1752,17-08-2024,Biology,MCQ,5,3.86,Evaluate,3.34
+QZ3010,QF1752,13-08-2024,Mathematics,MCQ,12,2.93,Understand,2.62
+QZ3011,QF1753,08-08-2024,Biology,Mixed,7,3.8,Understand,0.54
+QZ3012,QF1755,25-08-2024,Mathematics,MCQ,8,3.24,Understand,2.92
+QZ3013,QF1756,29-08-2024,History,MCQ,14,3.07,Remember,6
+QZ3014,QF1756,09-08-2024,English,Mixed,10,2.72,Understand,0.27
+QZ3015,QF1756,28-08-2024,Language,MCQ,9,2.98,Understand,0.52
+QZ3016,QF1756,30-08-2024,Computer Science,Open,14,3.14,Understand,3.44
+QZ3017,QF1756,28-08-2024,Language,Mixed,7,2.91,Remember,1.69
+QZ3018,QF1756,08-08-2024,Business Studies,MCQ,16,2.93,Remember,0.26
+QZ3019,QF1756,30-08-2024,English,MCQ,5,2.46,Remember,1.65
+QZ3020,QF1758,28-08-2024,Mathematics,MCQ,8,2.78,Remember,1.38
+QZ3021,QF1759,25-08-2024,Programming,MCQ,6,2.53,Understand,2.25
+QZ3022,QF1759,22-08-2024,Biology,MCQ,13,3.32,Apply,0.74
+QZ3023,QF1759,10-08-2024,English,MCQ,9,3.4,Understand,0.87
+QZ3024,QF1759,22-08-2024,History,MCQ,9,2.66,Understand,4.95
+QZ3025,QF1759,19-08-2024,Mathematics,Open,10,2.42,Remember,2.69
+QZ3026,QF1762,22-08-2024,Programming,MCQ,5,3.01,Apply,0.59
+QZ3027,QF1762,20-08-2024,History,MCQ,9,3.11,Understand,0.81
+QZ3028,QF1762,09-08-2024,English,Mixed,7,2.49,Understand,0.31
+QZ3029,QF1762,16-08-2024,Physics,MCQ,8,2.83,Understand,4.96
+QZ3030,QF1762,20-08-2024,History,Mixed,7,3.35,Apply,0.16
+QZ3031,QF1762,23-08-2024,Computer Science,MCQ,6,2.69,Understand,2.24
+QZ3032,QF1762,26-08-2024,Computer Science,Mixed,9,3.32,Understand,1.26
+QZ3033,QF1762,09-08-2024,Business Studies,MCQ,4,2.89,Understand,3.28
+QZ3034,QF1763,14-08-2024,Computer Science,MCQ,5,2.59,Understand,0.32
+QZ3035,QF1763,25-08-2024,History,MCQ,9,2.66,Understand,5.9
+QZ3036,QF1763,26-08-2024,Chemistry,Mixed,8,2.78,Remember,6.13
+QZ3037,QF1763,10-08-2024,Business Studies,Mixed,4,2.65,Understand,1.34
+QZ3038,QF1763,14-08-2024,Business Studies,MCQ,8,2.75,Understand,4.32
+QZ3039,QF1763,21-08-2024,History,MCQ,10,3.12,Understand,2.78
+QZ3040,QF1763,14-08-2024,Language,Mixed,12,3.29,Remember,4.31
+QZ3041,QF1763,19-08-2024,English,MCQ,10,3.6,Evaluate,2.21
+QZ3042,QF1763,31-08-2024,Physics,MCQ,8,2.97,Understand,1.55
+QZ3043,QF1763,12-08-2024,Computer Science,MCQ,6,2.76,Apply,2.98
+QZ3044,QF1763,22-08-2024,Physics,Mixed,3,4.24,Evaluate,7.67
+QZ3045,QF1763,25-08-2024,Computer Science,MCQ,7,2.5,Remember,2.71
+QZ3046,QF1763,25-08-2024,General Knowledge,Open,1,2.06,Remember,7.04
+QZ3047,QF1766,19-08-2024,Chemistry,MCQ,7,2.66,Apply,1.92
+QZ3048,QF1768,30-08-2024,Language,Mixed,7,2.57,Understand,4.73
+QZ3049,QF1768,29-08-2024,English,MCQ,7,2.99,Understand,2.31
+QZ3050,QF1768,12-08-2024,History,MCQ,4,2.21,Understand,0.45
+QZ3051,QF1768,23-08-2024,Physics,Open,12,2.82,Understand,3.52
+QZ3052,QF1768,16-08-2024,Physics,Mixed,6,2.94,Apply,3.33
+QZ3053,QF1768,18-08-2024,History,MCQ,8,2.62,Remember,1.23
+QZ3054,QF1770,17-08-2024,Programming,Mixed,12,2.8,Understand,1.93
+QZ3055,QF1770,28-08-2024,English,Mixed,4,3.14,Understand,3.32
+QZ3056,QF1770,22-08-2024,English,Open,4,2.95,Remember,1.85
+QZ3057,QF1770,25-08-2024,Business Studies,Open,5,2.02,Understand,4.41
+QZ3058,QF1770,29-08-2024,General Knowledge,MCQ,9,2.99,Remember,1.28
+QZ3059,QF1771,13-08-2024,Computer Science,MCQ,5,3.15,Understand,0.72
+QZ3060,QF1771,23-08-2024,Chemistry,Mixed,5,3.38,Evaluate,1.94
+QZ3061,QF1771,12-08-2024,Business Studies,Open,6,3.08,Understand,1.13
+QZ3062,QF1771,31-08-2024,History,MCQ,6,3.37,Understand,1.36
+QZ3063,QF1772,12-08-2024,Business Studies,Open,8,2.74,Remember,1.01
+QZ3064,QF1773,31-08-2024,Mathematics,MCQ,12,2.66,Apply,10.84
+QZ3065,QF1773,13-08-2024,History,Mixed,9,3.7,Analyze,1.32
+QZ3066,QF1773,24-08-2024,General Knowledge,Mixed,11,3.09,Apply,1.82
+QZ3067,QF1773,29-08-2024,Computer Science,Mixed,11,3.21,Remember,2.11
+QZ3068,QF1773,22-08-2024,English,MCQ,7,3.34,Remember,0.69
+QZ3069,QF1773,23-08-2024,Programming,MCQ,5,3.24,Remember,2.22
+QZ3070,QF1773,29-08-2024,Mathematics,MCQ,9,3.48,Understand,3.06
+QZ3071,QF1773,23-08-2024,Physics,MCQ,9,3.45,Remember,5.32
+QZ3072,QF1773,19-08-2024,Programming,Mixed,8,3.4,Understand,1.87
+QZ3073,QF1773,20-08-2024,Programming,MCQ,5,2.64,Remember,5.53
+QZ3074,QF1773,29-08-2024,Computer Science,MCQ,10,3.19,Understand,1.33
+QZ3075,QF1773,27-08-2024,History,Mixed,7,3.69,Apply,0.66
+QZ3076,QF1775,25-08-2024,Language,MCQ,8,2.92,Analyze,1.49
+QZ3077,QF1778,27-08-2024,Programming,Open,3,1.66,Remember,4.04
+QZ3078,QF1778,25-08-2024,Chemistry,Open,4,3.37,Understand,1.53
+QZ3079,QF1778,19-08-2024,Mathematics,Open,5,3.39,Understand,0.63
+QZ3080,QF1778,13-08-2024,Chemistry,MCQ,7,2.17,Remember,0.53
+QZ3081,QF1778,30-08-2024,General Knowledge,MCQ,5,2.75,Understand,0.1
+QZ3082,QF1779,26-08-2024,Programming,Mixed,8,2.79,Understand,1.22
+QZ3083,QF1779,16-08-2024,Business Studies,Mixed,5,2.35,Remember,4.85
+QZ3084,QF1779,25-08-2024,Mathematics,MCQ,7,2.97,Remember,3.64
+QZ3085,QF1779,24-08-2024,Chemistry,MCQ,10,2.55,Remember,4.73
+QZ3086,QF1779,27-08-2024,Physics,MCQ,7,2.72,Remember,5.41
+QZ3087,QF1779,13-08-2024,Biology,Mixed,6,3.2,Understand,3.19
+QZ3088,QF1779,19-08-2024,Programming,MCQ,10,2.86,Remember,4.77
+QZ3089,QF1779,13-08-2024,History,MCQ,5,3.07,Apply,2.84
+QZ3090,QF1779,13-08-2024,History,MCQ,9,2.61,Apply,1.53
+QZ3091,QF1779,16-08-2024,Computer Science,Mixed,5,3.57,Analyze,3.03
+QZ3092,QF1780,31-08-2024,General Knowledge,Mixed,9,2.59,Understand,4.67
+QZ3093,QF1781,12-08-2024,Mathematics,MCQ,9,3.68,Apply,3.4
+QZ3094,QF1781,13-08-2024,General Knowledge,Open,10,2.14,Understand,6.19
+QZ3095,QF1782,31-08-2024,Chemistry,MCQ,4,3.23,Remember,0.15
+QZ3096,QF1782,21-08-2024,Programming,Open,10,2.8,Understand,0.47
+QZ3097,QF1784,15-08-2024,Business Studies,MCQ,7,2.89,Apply,1.44
+QZ3098,QF1786,21-08-2024,History,Mixed,4,2.51,Remember,0.32
+QZ3099,QF1786,29-08-2024,History,Mixed,7,3.43,Understand,2.14
+QZ3100,QF1786,27-08-2024,Business Studies,MCQ,4,3.49,Understand,1.65
+QZ3101,QF1786,26-08-2024,Physics,Mixed,5,3.07,Understand,4.94
+QZ3102,QF1786,27-08-2024,General Knowledge,Mixed,10,2.92,Understand,1.12
+QZ3103,QF1788,27-08-2024,Chemistry,MCQ,6,3.21,Remember,0.2
+QZ3104,QF1788,17-08-2024,Language,MCQ,3,3.25,Understand,2.55
+QZ3105,QF1788,14-08-2024,History,MCQ,9,3,Understand,1.23
+QZ3106,QF1789,18-08-2024,Computer Science,Open,6,3.17,Understand,0.5
+QZ3107,QF1789,25-08-2024,History,Open,8,1.85,Remember,1.22
+QZ3108,QF1789,30-08-2024,Programming,MCQ,7,3.11,Understand,1.19
+QZ3109,QF1789,27-08-2024,English,Mixed,10,2.6,Understand,0.13
+QZ3110,QF1790,14-08-2024,Biology,MCQ,9,3.45,Evaluate,1.33
+QZ3111,QF1792,18-08-2024,Physics,MCQ,12,3.23,Apply,4.81
+QZ3112,QF1794,17-08-2024,Mathematics,Mixed,7,3.71,Understand,1.86
+QZ3113,QF1794,18-08-2024,Chemistry,Mixed,5,2.99,Understand,2.22
+QZ3114,QF1795,28-08-2024,Business Studies,MCQ,7,3.42,Analyze,0.29
+QZ3115,QF1795,22-08-2024,Language,Mixed,8,2.86,Understand,2.67
+QZ3116,QF1795,14-08-2024,Computer Science,Open,8,2.58,Understand,3.2
+QZ3117,QF1795,31-08-2024,Language,MCQ,8,3.19,Understand,1.14
+QZ3118,QF1795,14-08-2024,Physics,Mixed,10,2.95,Remember,1.83
+QZ3119,QF1796,24-08-2024,English,MCQ,9,3.51,Understand,1.32
+QZ3120,QF1796,15-08-2024,English,Mixed,10,2.64,Remember,1.08
+QZ3121,QF1797,14-08-2024,Business Studies,Open,4,2.76,Understand,0.25
+QZ3122,QF1797,30-08-2024,Biology,Mixed,8,2.73,Remember,3.22
+QZ3123,QF1797,31-08-2024,General Knowledge,MCQ,17,2.64,Remember,6.34
+QZ3124,QF1797,22-08-2024,English,MCQ,11,3.02,Understand,3.35
+QZ3125,QF1797,14-08-2024,Business Studies,MCQ,9,3.42,Understand,3.79
+QZ3126,QF1797,16-08-2024,Biology,Mixed,7,2.5,Understand,6.87
+QZ3127,QF1797,27-08-2024,Physics,Open,10,2.45,Remember,2.92
+QZ3128,QF1801,29-08-2024,Chemistry,Mixed,5,2.72,Understand,0.42
+QZ3129,QF1801,28-08-2024,Physics,Mixed,7,2.78,Analyze,1.04
+QZ3130,QF1801,17-08-2024,Business Studies,MCQ,10,2.7,Remember,1.76
+QZ3131,QF1802,24-08-2024,Chemistry,Mixed,9,2.82,Understand,2.63
+QZ3132,QF1802,30-08-2024,Business Studies,MCQ,5,3.01,Apply,1.68
+QZ3133,QF1802,30-08-2024,Physics,MCQ,8,3.11,Understand,0.47
+QZ3134,QF1802,14-08-2024,Programming,MCQ,6,3.57,Remember,4.08
+QZ3135,QF1802,27-08-2024,History,Mixed,10,3.38,Understand,0.43
+QZ3136,QF1802,26-08-2024,Programming,Mixed,9,2.66,Remember,1.88
+QZ3137,QF1802,27-08-2024,History,MCQ,8,2.68,Remember,1.48
+QZ3138,QF1802,31-08-2024,Physics,MCQ,8,2.48,Understand,0.79
+QZ3139,QF1805,22-08-2024,Language,Mixed,15,3.12,Understand,0.55
+QZ3140,QF1807,29-08-2024,Language,MCQ,10,3.48,Understand,2.62
+QZ3141,QF1807,17-08-2024,English,MCQ,6,2.39,Understand,2.42
+QZ3142,QF1808,27-08-2024,English,MCQ,8,2.59,Remember,0.56
+QZ3143,QF1808,14-08-2024,Chemistry,MCQ,4,2.87,Apply,1.66
+QZ3144,QF1808,23-08-2024,Programming,MCQ,13,3.11,Understand,1.05
+QZ3145,QF1809,18-08-2024,Chemistry,MCQ,13,2.72,Remember,0.58
+QZ3146,QF1810,18-08-2024,History,Open,5,2.53,Understand,0.86
+QZ3147,QF1810,28-08-2024,Language,Open,6,3.2,Remember,1.32
+QZ3148,QF1811,20-08-2024,Biology,Mixed,7,2.82,Understand,0.33
+QZ3149,QF1811,28-08-2024,Physics,Mixed,8,2.99,Remember,3.4
+QZ3150,QF1811,20-08-2024,Biology,MCQ,14,2.73,Understand,1.27
+QZ3151,QF1811,30-08-2024,Chemistry,MCQ,7,2.83,Understand,3.64
+QZ3152,QF1812,22-08-2024,Biology,MCQ,8,3.3,Remember,0.18
+QZ3153,QF1812,29-08-2024,Business Studies,MCQ,4,2.9,Understand,2.36
+QZ3154,QF1813,19-08-2024,Mathematics,Open,8,2.74,Remember,1.05
+QZ3155,QF1813,25-08-2024,History,MCQ,12,3.29,Remember,2.02
+QZ3156,QF1813,31-08-2024,Language,MCQ,9,3.09,Analyze,3.07
+QZ3157,QF1814,31-08-2024,General Knowledge,Mixed,3,2.2,Understand,4.94
+QZ3158,QF1814,15-08-2024,History,MCQ,9,3,Remember,4.21
+QZ3159,QF1814,31-08-2024,Business Studies,MCQ,9,3.65,Evaluate,2.79
+QZ3160,QF1814,20-08-2024,Language,Mixed,8,3.26,Remember,3.15
+QZ3161,QF1814,15-08-2024,Chemistry,MCQ,5,2.16,Remember,5.39
+QZ3162,QF1814,25-08-2024,General Knowledge,MCQ,13,3,Remember,4.95
+QZ3163,QF1814,23-08-2024,Physics,MCQ,7,3,Remember,1.12
+QZ3164,QF1814,26-08-2024,Physics,MCQ,11,2.46,Understand,0.1
+QZ3165,QF1815,21-08-2024,English,Open,13,2.48,Remember,0.92
+QZ3166,QF1815,19-08-2024,Computer Science,MCQ,6,2.84,Understand,0.58
+QZ3167,QF1816,20-08-2024,Business Studies,MCQ,8,2.7,Analyze,3.48
+QZ3168,QF1816,26-08-2024,Language,MCQ,13,3.1,Understand,2.12
+QZ3169,QF1817,25-08-2024,Computer Science,MCQ,9,2.89,Apply,0.82
+QZ3170,QF1817,31-08-2024,Computer Science,MCQ,6,2.03,Understand,2.08
+QZ3171,QF1818,31-08-2024,General Knowledge,MCQ,11,2.91,Remember,5.18
+QZ3172,QF1819,20-08-2024,Physics,MCQ,11,2.73,Understand,2.11
+QZ3173,QF1821,30-08-2024,Chemistry,MCQ,9,2.82,Remember,1
+QZ3174,QF1821,29-08-2024,History,Mixed,6,3.06,Understand,0.36
+QZ3175,QF1821,21-08-2024,Programming,MCQ,4,3.23,Remember,0.56
+QZ3176,QF1821,22-08-2024,Physics,Mixed,10,2.91,Remember,1.02
+QZ3177,QF1821,24-08-2024,Business Studies,MCQ,8,2.36,Understand,3.9
+QZ3178,QF1822,26-08-2024,Business Studies,MCQ,8,2.62,Remember,2.1
+QZ3179,QF1822,22-08-2024,Programming,Mixed,8,3.76,Apply,6.82
+QZ3180,QF1822,15-08-2024,Language,Mixed,5,3.24,Remember,2.04
+QZ3181,QF1822,20-08-2024,History,Mixed,4,3.9,Evaluate,1.36
+QZ3182,QF1823,31-08-2024,Chemistry,MCQ,9,3.12,Understand,1.22
+QZ3183,QF1823,28-08-2024,Language,Mixed,7,3.23,Understand,0.1
+QZ3184,QF1824,21-08-2024,Programming,Mixed,6,2.76,Understand,2.58
+QZ3185,QF1824,28-08-2024,General Knowledge,MCQ,4,2.15,Remember,1.06
+QZ3186,QF1824,30-08-2024,Chemistry,MCQ,10,3.21,Remember,2.5
+QZ3187,QF1824,23-08-2024,Chemistry,MCQ,11,3.32,Understand,0.54
+QZ3188,QF1826,26-08-2024,Computer Science,MCQ,11,2.68,Remember,4.41
+QZ3189,QF1826,19-08-2024,Language,MCQ,5,2.94,Remember,2.03
+QZ3190,QF1826,16-08-2024,Mathematics,Mixed,13,2.93,Remember,8.66
+QZ3191,QF1826,29-08-2024,Physics,MCQ,11,2.96,Understand,2.94
+QZ3192,QF1826,25-08-2024,Language,MCQ,8,3.11,Remember,2.13
+QZ3193,QF1827,29-08-2024,Chemistry,MCQ,12,2.59,Remember,0.14
+QZ3194,QF1827,18-08-2024,English,MCQ,7,2.87,Remember,0.24
+QZ3195,QF1828,23-08-2024,Chemistry,Mixed,10,3.1,Understand,0.54
+QZ3196,QF1828,31-08-2024,Chemistry,MCQ,8,2.76,Analyze,1.15
+QZ3197,QF1829,26-08-2024,History,MCQ,6,2.91,Apply,3.39
+QZ3198,QF1829,29-08-2024,Biology,MCQ,10,2.56,Understand,3.87
+QZ3199,QF1829,27-08-2024,History,Open,2,3.89,Create,0.29
+QZ3200,QF1829,23-08-2024,Language,Mixed,8,2.95,Understand,3.29
+QZ3201,QF1830,27-08-2024,English,MCQ,8,3.22,Apply,1.31
+QZ3202,QF1830,30-08-2024,Physics,Open,3,4.15,Evaluate,4
+QZ3203,QF1832,17-08-2024,English,MCQ,6,2.11,Understand,1.54
+QZ3204,QF1832,25-08-2024,Biology,MCQ,13,2.8,Apply,1.7
+QZ3205,QF1832,26-08-2024,Programming,Mixed,7,2.86,Apply,2.74
+QZ3206,QF1834,31-08-2024,Language,Mixed,10,2.88,Understand,2.77
+QZ3207,QF1834,27-08-2024,English,MCQ,8,2.72,Understand,2.79
+QZ3208,QF1834,31-08-2024,Chemistry,Open,7,3.06,Analyze,0.68
+QZ3209,QF1834,24-08-2024,Programming,Mixed,9,2.62,Understand,2.68
+QZ3210,QF1835,22-08-2024,English,Mixed,12,2.91,Remember,0.5
+QZ3211,QF1836,26-08-2024,General Knowledge,MCQ,10,3.07,Remember,0.47
+QZ3212,QF1836,21-08-2024,Language,Mixed,10,2.76,Understand,6.32
+QZ3213,QF1836,27-08-2024,Physics,MCQ,12,3.34,Apply,0.41
+QZ3214,QF1836,21-08-2024,Language,MCQ,14,2.44,Remember,1.26
+QZ3215,QF1836,29-08-2024,Programming,MCQ,8,2.93,Apply,0.17
+QZ3216,QF1836,23-08-2024,Chemistry,Mixed,8,2.38,Remember,0.61
+QZ3217,QF1838,31-08-2024,General Knowledge,Mixed,12,2.72,Understand,0.56
+QZ3218,QF1838,31-08-2024,General Knowledge,MCQ,11,3.11,Understand,1.14
+QZ3219,QF1838,28-08-2024,Chemistry,MCQ,11,2.99,Understand,0.93
+QZ3220,QF1838,29-08-2024,Chemistry,MCQ,14,3.29,Analyze,1.64
+QZ3221,QF1838,21-08-2024,Programming,Mixed,8,3.11,Remember,2.22
+QZ3222,QF1838,28-08-2024,General Knowledge,Open,8,2.56,Understand,1.38
+QZ3223,QF1841,18-08-2024,General Knowledge,MCQ,10,2.72,Remember,2.05
+QZ3224,QF1841,17-08-2024,History,MCQ,9,3.32,Remember,2.38
+QZ3225,QF1841,25-08-2024,General Knowledge,MCQ,10,3.35,Apply,1.68
+QZ3226,QF1843,28-08-2024,Mathematics,MCQ,11,3.31,Apply,2.02
+QZ3227,QF1843,28-08-2024,Mathematics,MCQ,13,3.48,Apply,4.14
+QZ3228,QF1843,28-08-2024,Physics,Open,12,3.14,Understand,6.04
+QZ3229,QF1843,28-08-2024,Mathematics,MCQ,7,4.22,Evaluate,6.55
+QZ3230,QF1844,22-08-2024,Programming,Mixed,12,2.53,Remember,2.55
+QZ3231,QF1844,31-08-2024,General Knowledge,MCQ,8,2.8,Remember,8.09
+QZ3232,QF1844,23-08-2024,English,Mixed,4,3.04,Remember,9.45
+QZ3233,QF1844,31-08-2024,Programming,MCQ,9,3.13,Evaluate,4.23
+QZ3234,QF1844,29-08-2024,Biology,Mixed,13,3.47,Understand,4.13
+QZ3235,QF1844,31-08-2024,General Knowledge,MCQ,12,2.68,Understand,8.42
+QZ3236,QF1844,21-08-2024,Computer Science,MCQ,8,3.43,Understand,0.41
+QZ3237,QF1844,30-08-2024,General Knowledge,MCQ,6,3.09,Understand,1.11
+QZ3238,QF1844,26-08-2024,Programming,Mixed,8,2.7,Understand,0.41
+QZ3239,QF1844,29-08-2024,Mathematics,MCQ,4,2.38,Remember,2.41
+QZ3240,QF1844,30-08-2024,Business Studies,Open,10,3.2,Remember,0.22
+QZ3241,QF1844,31-08-2024,Programming,MCQ,7,3.07,Remember,1.26
+QZ3242,QF1846,30-08-2024,Language,Mixed,10,3.03,Evaluate,4.04
+QZ3243,QF1846,22-08-2024,English,MCQ,7,2.44,Understand,3.06
+QZ3244,QF1847,29-08-2024,Programming,Open,7,2.92,Apply,0.43
+QZ3245,QF1847,25-08-2024,English,Mixed,6,2.3,Remember,2.52
+QZ3246,QF1847,21-08-2024,Business Studies,Mixed,13,2.96,Remember,1.27
+QZ3247,QF1847,28-08-2024,Biology,MCQ,6,3.33,Remember,0.1
+QZ3248,QF1849,26-08-2024,Programming,Mixed,10,3.09,Analyze,2.15
+QZ3249,QF1849,25-08-2024,Computer Science,Mixed,12,2.73,Remember,1.97
+QZ3250,QF1852,21-08-2024,English,Open,9,2.9,Remember,0.47
+QZ3251,QF1853,25-08-2024,Business Studies,MCQ,7,3.02,Apply,7.37
+QZ3252,QF1853,26-08-2024,Physics,MCQ,10,3.02,Understand,5.32
+QZ3253,QF1853,26-08-2024,Mathematics,MCQ,8,2.4,Understand,1.84
+QZ3254,QF1853,25-08-2024,Chemistry,Mixed,10,2.19,Remember,2.89
+QZ3255,QF1853,29-08-2024,Business Studies,MCQ,9,3.23,Apply,3.93
+QZ3256,QF1853,30-08-2024,Computer Science,Mixed,5,3.28,Evaluate,2.72
+QZ3257,QF1853,31-08-2024,Business Studies,Open,8,2.55,Remember,0.6
+QZ3258,QF1853,25-08-2024,Business Studies,MCQ,7,2.5,Remember,11.39
+QZ3259,QF1854,30-08-2024,Biology,MCQ,13,2.95,Remember,1.04
+QZ3260,QF1854,29-08-2024,History,Mixed,8,2.78,Understand,2.02
+QZ3261,QF1854,22-08-2024,General Knowledge,MCQ,11,2.44,Remember,1.29
+QZ3262,QF1854,26-08-2024,Chemistry,Mixed,5,3.41,Remember,2.01
+QZ3263,QF1855,31-08-2024,History,MCQ,6,2.24,Remember,1.23
+QZ3264,QF1855,31-08-2024,History,Mixed,10,2.97,Understand,2.53
+QZ3265,QF1857,30-08-2024,History,Mixed,12,2.69,Understand,0.78
+QZ3266,QF1857,31-08-2024,Computer Science,MCQ,4,4.42,Understand,0.61
+QZ3267,QF1858,23-08-2024,Chemistry,MCQ,12,3.28,Apply,2.39
+QZ3268,QF1859,29-08-2024,History,Open,5,3.76,Analyze,0.62
+QZ3269,QF1859,28-08-2024,Language,MCQ,10,2.61,Remember,2.95
+QZ3270,QF1861,26-08-2024,Language,MCQ,6,2,Remember,0.47
+QZ3271,QF1862,30-08-2024,Physics,MCQ,7,3.22,Analyze,1.31
+QZ3272,QF1862,21-08-2024,History,MCQ,5,3.38,Apply,0.65
+QZ3273,QF1863,22-08-2024,Biology,Mixed,10,2.89,Remember,0.42
+QZ3274,QF1863,23-08-2024,Business Studies,MCQ,5,2.77,Remember,4.4
+QZ3275,QF1864,26-08-2024,Physics,Open,8,2.79,Understand,1.3
+QZ3276,QF1865,23-08-2024,English,MCQ,10,3.37,Evaluate,4.67
+QZ3277,QF1866,29-08-2024,Business Studies,Mixed,13,3.16,Evaluate,0.48
+QZ3278,QF1866,31-08-2024,Biology,MCQ,9,2.62,Remember,2.33
+QZ3279,QF1866,26-08-2024,Chemistry,MCQ,9,3.04,Remember,3.49
+QZ3280,QF1866,27-08-2024,Physics,Mixed,11,2.77,Remember,4.15
+QZ3281,QF1866,30-08-2024,Mathematics,MCQ,3,2.05,Remember,4.26
+QZ3282,QF1866,21-08-2024,English,Mixed,6,3.12,Evaluate,0.6
+QZ3283,QF1866,31-08-2024,Computer Science,Open,9,3.36,Understand,0.1
+QZ3284,QF1866,20-08-2024,General Knowledge,MCQ,11,2.73,Remember,1.33
+QZ3285,QF1869,31-08-2024,Computer Science,Mixed,13,2.87,Analyze,0.63
+QZ3286,QF1869,29-08-2024,Biology,MCQ,8,3.37,Remember,1.29
+QZ3287,QF1869,31-08-2024,Chemistry,Mixed,11,2.22,Remember,0.44
+QZ3288,QF1870,27-08-2024,History,MCQ,10,2.99,Understand,3.52
+QZ3289,QF1871,21-08-2024,General Knowledge,Mixed,3,3.34,Apply,0.16
+QZ3290,QF1871,30-08-2024,History,Mixed,4,2.53,Remember,7.07
+QZ3291,QF1871,30-08-2024,Biology,MCQ,9,3.12,Understand,5.22
+QZ3292,QF1871,25-08-2024,Chemistry,Mixed,9,2.84,Understand,4.9
+QZ3293,QF1871,28-08-2024,Business Studies,Open,7,2.88,Understand,2.48
+QZ3294,QF1871,23-08-2024,Language,Mixed,12,2.9,Remember,12.29
+QZ3295,QF1872,30-08-2024,Business Studies,MCQ,9,3.66,Evaluate,4.19
+QZ3296,QF1874,31-08-2024,Business Studies,MCQ,7,2.97,Remember,0.14
+QZ3297,QF1875,29-08-2024,English,Mixed,8,2.25,Remember,2.57
+QZ3298,QF1876,30-08-2024,Business Studies,MCQ,12,3.54,Evaluate,2.89
+QZ3299,QF1877,30-08-2024,Mathematics,Mixed,4,3.43,Apply,1.08
+QZ3300,QF1877,23-08-2024,Physics,MCQ,4,2.93,Understand,0.81
+QZ3301,QF1878,31-08-2024,Computer Science,Mixed,9,2.47,Remember,1.29
+QZ3302,QF1879,25-08-2024,Language,MCQ,5,3.42,Analyze,0.99
+QZ3303,QF1879,26-08-2024,Business Studies,MCQ,8,2.88,Understand,2.78
+QZ3304,QF1879,28-08-2024,Biology,Mixed,8,2.49,Analyze,0.84
+QZ3305,QF1882,26-08-2024,Biology,Mixed,11,2.75,Understand,1.17
+QZ3306,QF1882,28-08-2024,General Knowledge,MCQ,9,3.02,Understand,5.66
+QZ3307,QF1882,24-08-2024,History,MCQ,10,2.71,Remember,0.57
+QZ3308,QF1883,22-08-2024,Mathematics,MCQ,8,3.46,Analyze,4.72
+QZ3309,QF1883,29-08-2024,Mathematics,Mixed,11,3.35,Apply,1.06
+QZ3310,QF1883,31-08-2024,English,MCQ,8,2.87,Understand,2.12
+QZ3311,QF1883,31-08-2024,Business Studies,Mixed,11,3.23,Understand,0.59
+QZ3312,QF1884,29-08-2024,General Knowledge,Mixed,5,2.27,Remember,2.96
+QZ3313,QF1884,31-08-2024,Programming,Mixed,6,3.37,Understand,1.59
+QZ3314,QF1884,28-08-2024,Programming,MCQ,5,1.88,Understand,4.27
+QZ3315,QF1884,23-08-2024,Business Studies,Mixed,11,2.84,Remember,4.41
+QZ3316,QF1884,27-08-2024,English,MCQ,6,2.16,Remember,3.65
+QZ3317,QF1884,28-08-2024,Language,Mixed,7,3.32,Remember,9.45
+QZ3318,QF1885,23-08-2024,Mathematics,Mixed,7,3.23,Evaluate,2.92
+QZ3319,QF1885,29-08-2024,Physics,Mixed,8,4.3,Evaluate,0.25
+QZ3320,QF1885,31-08-2024,Computer Science,MCQ,9,2.29,Remember,0.17
+QZ3321,QF1885,30-08-2024,Chemistry,Open,5,3.3,Understand,2.32
+QZ3322,QF1885,27-08-2024,English,Open,6,2.85,Remember,6.47
+QZ3323,QF1886,27-08-2024,History,MCQ,14,3.21,Remember,2.44
+QZ3324,QF1886,29-08-2024,Computer Science,MCQ,6,2.65,Understand,3.26
+QZ3325,QF1886,24-08-2024,History,MCQ,6,3.33,Analyze,1.26
+QZ3326,QF1886,29-08-2024,Mathematics,MCQ,12,2.79,Remember,1.97
+QZ3327,QF1886,29-08-2024,Computer Science,Mixed,8,2.98,Remember,0.55
+QZ3328,QF1887,27-08-2024,Mathematics,MCQ,2,2.26,Understand,0.14
+QZ3329,QF1887,23-08-2024,General Knowledge,Mixed,3,2.65,Remember,2.29
+QZ3330,QF1887,29-08-2024,Language,MCQ,5,3.54,Evaluate,6.55
+QZ3331,QF1887,30-08-2024,Biology,Open,7,2.43,Remember,3.09
+QZ3332,QF1887,28-08-2024,History,Open,13,2.77,Understand,1.56
+QZ3333,QF1887,28-08-2024,Language,Mixed,5,3.24,Remember,4.51
+QZ3334,QF1887,30-08-2024,English,MCQ,7,3.31,Remember,1.72
+QZ3335,QF1887,28-08-2024,Physics,MCQ,7,3.4,Apply,1.95
+QZ3336,QF1887,31-08-2024,Computer Science,MCQ,8,2.88,Understand,1.46
+QZ3337,QF1887,31-08-2024,Language,MCQ,2,2.42,Remember,3.39
+QZ3338,QF1887,29-08-2024,Business Studies,Mixed,6,3.09,Understand,0.19
+QZ3339,QF1887,24-08-2024,Language,MCQ,10,2.98,Remember,3.04
+QZ3340,QF1887,28-08-2024,English,MCQ,5,2.45,Remember,0.11
+QZ3341,QF1888,24-08-2024,General Knowledge,MCQ,14,3.1,Remember,3.33
+QZ3342,QF1888,30-08-2024,Programming,Mixed,8,3.37,Remember,4.17
+QZ3343,QF1888,29-08-2024,General Knowledge,MCQ,13,2.27,Remember,5.78
+QZ3344,QF1888,28-08-2024,Physics,MCQ,13,2.78,Remember,2.38
+QZ3345,QF1888,28-08-2024,Chemistry,Open,6,3.3,Evaluate,1.46
+QZ3346,QF1889,26-08-2024,Physics,Mixed,8,3.18,Apply,0.8
+QZ3347,QF1889,31-08-2024,Computer Science,Open,4,3.14,Understand,0.25
+QZ3348,QF1889,27-08-2024,History,MCQ,7,3.23,Understand,1.99
+QZ3349,QF1889,22-08-2024,History,Mixed,10,2.94,Remember,0.6
+QZ3350,QF1890,28-08-2024,Language,MCQ,10,3.48,Analyze,3.47
+QZ3351,QF1891,30-08-2024,History,MCQ,6,2.93,Remember,2.73
+QZ3352,QF1891,29-08-2024,Chemistry,Mixed,6,3.07,Understand,1.15
+QZ3353,QF1891,26-08-2024,Biology,MCQ,8,2.91,Remember,10.47
+QZ3354,QF1891,26-08-2024,General Knowledge,MCQ,5,2.83,Analyze,0.66
+QZ3355,QF1891,28-08-2024,Language,MCQ,9,2.65,Remember,3.59
+QZ3356,QF1891,31-08-2024,Computer Science,Mixed,12,3.65,Understand,0.69
+QZ3357,QF1891,30-08-2024,Language,MCQ,5,3.53,Understand,2.58
+QZ3358,QF1891,26-08-2024,Mathematics,MCQ,6,2.79,Remember,2.27
+QZ3359,QF1891,25-08-2024,Mathematics,Mixed,5,3.31,Remember,2.16
+QZ3360,QF1891,29-08-2024,Mathematics,MCQ,9,3.15,Remember,7.46
+QZ3361,QF1892,30-08-2024,Chemistry,MCQ,5,2.85,Understand,1.15
+QZ3362,QF1893,24-08-2024,History,Open,5,2.74,Remember,3.19
+QZ3363,QF1894,25-08-2024,Business Studies,MCQ,12,3.16,Evaluate,1.18
+QZ3364,QF1894,23-08-2024,Language,Open,10,2.59,Remember,1.59
+QZ3365,QF1895,30-08-2024,Business Studies,MCQ,6,2.71,Apply,1.58
+QZ3366,QF1895,31-08-2024,Chemistry,Open,12,2.93,Remember,1.14
+QZ3367,QF1895,26-08-2024,General Knowledge,Mixed,7,2.98,Understand,4.85
+QZ3368,QF1895,29-08-2024,Language,Mixed,8,3.01,Apply,1.03
+QZ3369,QF1897,30-08-2024,Chemistry,MCQ,8,2.59,Remember,3.19
+QZ3370,QF1898,29-08-2024,History,Mixed,3,3.04,Apply,4.75
+QZ3371,QF1898,26-08-2024,General Knowledge,Open,6,2.19,Remember,3.42
+QZ3372,QF1898,22-08-2024,History,Mixed,9,2.98,Evaluate,4.02
+QZ3373,QF1902,23-08-2024,Chemistry,Open,8,3.2,Remember,1.68
+QZ3374,QF1902,23-08-2024,Computer Science,MCQ,9,2.81,Remember,1.68
+QZ3375,QF1902,22-08-2024,General Knowledge,Open,2,3.54,Understand,1.11
+QZ3376,QF1902,31-08-2024,English,MCQ,9,3.03,Understand,0.37
+QZ3377,QF1902,22-08-2024,General Knowledge,Mixed,7,2.8,Apply,3.82
+QZ3378,QF1902,29-08-2024,History,MCQ,6,3.85,Apply,1.92
+QZ3379,QF1903,25-08-2024,Language,MCQ,5,2.52,Remember,1.34
+QZ3380,QF1903,23-08-2024,Language,MCQ,14,3.46,Analyze,3.84
+QZ3381,QF1903,25-08-2024,Language,MCQ,9,2.83,Understand,0.84
+QZ3382,QF1903,24-08-2024,Business Studies,MCQ,5,2.15,Remember,1.45
+QZ3383,QF1903,28-08-2024,General Knowledge,MCQ,10,2.71,Apply,2.42
+QZ3384,QF1904,27-08-2024,English,MCQ,7,3.16,Evaluate,3.73
+QZ3385,QF1904,28-08-2024,Business Studies,MCQ,4,3.02,Remember,2.58
+QZ3386,QF1904,26-08-2024,Mathematics,MCQ,5,2.76,Evaluate,4.74
+QZ3387,QF1905,31-08-2024,History,MCQ,9,3.55,Remember,0.1
+QZ3388,QF1905,24-08-2024,History,MCQ,10,2.81,Remember,2.14
+QZ3389,QF1905,29-08-2024,Programming,Open,8,2.61,Understand,0.16
+QZ3390,QF1905,29-08-2024,Physics,MCQ,9,3.34,Remember,5.29
+QZ3391,QF1905,31-08-2024,Computer Science,Mixed,5,2.97,Understand,5.07
+QZ3392,QF1905,27-08-2024,General Knowledge,Open,10,2.9,Analyze,0.57
+QZ3393,QF1905,28-08-2024,English,Mixed,4,2.94,Understand,5.63
+QZ3394,QF1905,23-08-2024,Programming,Mixed,8,3.23,Understand,2.01
+QZ3395,QF1905,26-08-2024,Mathematics,MCQ,11,2.91,Apply,3.36
+QZ3396,QF1905,30-08-2024,General Knowledge,Mixed,8,3.44,Apply,0.29
+QZ3397,QF1906,29-08-2024,Business Studies,MCQ,9,2.35,Understand,1.62
+QZ3398,QF1906,31-08-2024,English,MCQ,7,3.16,Understand,1.04
+QZ3399,QF1906,31-08-2024,Programming,Mixed,8,3.26,Remember,0.71
+QZ3400,QF1906,31-08-2024,General Knowledge,MCQ,9,3.17,Understand,0.19
+QZ3401,QF1906,24-08-2024,General Knowledge,MCQ,7,2.87,Apply,0.8
+QZ3402,QF1906,26-08-2024,Biology,MCQ,9,2.56,Understand,0.32
+QZ3403,QF1908,29-08-2024,Mathematics,MCQ,9,3.37,Analyze,0.15
+QZ3404,QF1909,25-08-2024,General Knowledge,Mixed,8,2.86,Remember,0.81
+QZ3405,QF1909,30-08-2024,Business Studies,MCQ,12,3.04,Understand,0.16
+QZ3406,QF1909,26-08-2024,Chemistry,MCQ,11,3.32,Remember,5.23
+QZ3407,QF1910,26-08-2024,Language,MCQ,4,2.75,Understand,1.96
+QZ3408,QF1910,29-08-2024,Programming,MCQ,4,2.89,Understand,1.39
+QZ3409,QF1910,24-08-2024,General Knowledge,Mixed,9,2.5,Remember,0.79
+QZ3410,QF1911,23-08-2024,Computer Science,Open,8,2.76,Understand,0.98
+QZ3411,QF1911,28-08-2024,Chemistry,MCQ,14,3.13,Apply,1.81
+QZ3412,QF1911,24-08-2024,Programming,MCQ,8,4.16,Evaluate,2.4
+QZ3413,QF1911,27-08-2024,Biology,MCQ,8,3.23,Understand,4.32
+QZ3414,QF1911,27-08-2024,Mathematics,Mixed,7,2.62,Remember,1.6
+QZ3415,QF1911,29-08-2024,General Knowledge,Open,5,4.07,Evaluate,1.08
+QZ3416,QF1911,23-08-2024,Physics,MCQ,9,3.22,Remember,3.67
+QZ3417,QF1911,23-08-2024,Biology,Open,9,2.78,Remember,13.65
+QZ3418,QF1911,28-08-2024,Mathematics,MCQ,11,3.18,Understand,6
+QZ3419,QF1911,23-08-2024,Business Studies,MCQ,11,2.72,Remember,5.16
+QZ3420,QF1912,23-08-2024,History,MCQ,8,2.37,Remember,0.73
+QZ3421,QF1912,27-08-2024,Computer Science,Mixed,9,3.39,Remember,3.84
+QZ3422,QF1912,26-08-2024,Chemistry,MCQ,3,1.85,Remember,0.6
+QZ3423,QF1912,31-08-2024,Computer Science,Mixed,7,2.85,Understand,0.37
+QZ3424,QF1912,28-08-2024,Biology,MCQ,3,1.67,Remember,0.56
+QZ3425,QF1914,27-08-2024,Computer Science,MCQ,8,3.31,Apply,1.21
+QZ3426,QF1914,28-08-2024,Language,MCQ,8,2.37,Remember,0.47
+QZ3427,QF1914,31-08-2024,General Knowledge,Mixed,10,2.7,Understand,0.1
+QZ3428,QF1914,30-08-2024,Business Studies,MCQ,13,3.39,Analyze,2.27
+QZ3429,QF1915,24-08-2024,Mathematics,MCQ,8,2.59,Understand,0.31
+QZ3430,QF1915,23-08-2024,Chemistry,MCQ,10,2.61,Remember,2.03
+QZ3431,QF1916,29-08-2024,Language,Mixed,7,2.44,Remember,3.12
+QZ3432,QF1916,25-08-2024,Biology,MCQ,8,3.48,Understand,3.45
+QZ3433,QF1916,25-08-2024,Language,MCQ,5,3.59,Apply,0.56
+QZ3434,QF1916,26-08-2024,History,MCQ,7,3.06,Understand,1.63
+QZ3435,QF1916,31-08-2024,Programming,MCQ,10,2.93,Understand,1.5
+QZ3436,QF1916,27-08-2024,Business Studies,MCQ,9,2.89,Remember,4.33
+QZ3437,QF1916,31-08-2024,Language,Mixed,7,2.57,Understand,2.82
+QZ3438,QF1916,28-08-2024,Computer Science,MCQ,11,2.63,Understand,12.04
+QZ3439,QF1916,30-08-2024,History,Open,9,3.05,Understand,4.59
+QZ3440,QF1916,25-08-2024,Chemistry,MCQ,4,2.67,Remember,0.97
+QZ3441,QF1916,31-08-2024,Business Studies,MCQ,7,2.46,Understand,5.06
+QZ3442,QF1916,30-08-2024,Language,Open,12,2.9,Remember,0.99
+QZ3443,QF1917,29-08-2024,History,MCQ,2,3.58,Understand,1.19
+QZ3444,QF1919,30-08-2024,Language,MCQ,12,3.06,Remember,4.1
+QZ3445,QF1920,27-08-2024,History,Open,5,3.42,Apply,1.19
+QZ3446,QF1922,29-08-2024,Programming,Mixed,11,3.34,Apply,1
+QZ3447,QF1922,28-08-2024,Programming,MCQ,7,2.83,Analyze,3.39
+QZ3448,QF1922,31-08-2024,Programming,Mixed,8,2.63,Understand,0.1
+QZ3449,QF1923,28-08-2024,English,MCQ,13,2.42,Remember,0.57
+QZ3450,QF1923,24-08-2024,General Knowledge,Mixed,12,2.71,Apply,2.79
+QZ3451,QF1923,31-08-2024,Business Studies,MCQ,11,2.69,Understand,0.24
+QZ3452,QF1923,31-08-2024,Biology,MCQ,3,5,Evaluate,0.46
+QZ3453,QF1923,28-08-2024,Biology,Mixed,8,3.69,Remember,1.57
+QZ3454,QF1923,29-08-2024,English,Mixed,10,2.62,Understand,0.4
+QZ3455,QF1923,30-08-2024,Language,MCQ,9,3.06,Remember,2.33
+QZ3456,QF1924,29-08-2024,English,MCQ,6,3.22,Evaluate,3.59
+QZ3457,QF1925,26-08-2024,Biology,Mixed,7,2.82,Understand,1.34
+QZ3458,QF1926,26-08-2024,English,MCQ,5,2.52,Understand,0.38
+QZ3459,QF1927,30-08-2024,English,MCQ,14,2.63,Remember,0.89
+QZ3460,QF1927,31-08-2024,Biology,MCQ,8,3.43,Understand,1.62
+QZ3461,QF1927,25-08-2024,Business Studies,Mixed,7,3.54,Evaluate,1.08
+QZ3462,QF1927,31-08-2024,History,Mixed,7,2.12,Understand,1.97
+QZ3463,QF1927,26-08-2024,Business Studies,MCQ,6,2.73,Apply,1.57
+QZ3464,QF1928,30-08-2024,History,Mixed,5,2.76,Understand,2.89
+QZ3465,QF1928,30-08-2024,Language,Open,9,2.37,Understand,1.8
+QZ3466,QF1930,31-08-2024,English,MCQ,9,2.42,Remember,0.63
+QZ3467,QF1930,29-08-2024,English,MCQ,7,2.6,Understand,0.57
+QZ3468,QF1931,27-08-2024,Physics,MCQ,13,3.05,Understand,0.9
+QZ3469,QF1931,27-08-2024,General Knowledge,Open,7,2.35,Understand,0.92
+QZ3470,QF1932,31-08-2024,Programming,Mixed,2,2.35,Remember,0.53
+QZ3471,QF1932,27-08-2024,Language,Mixed,9,3.58,Understand,0.19
+QZ3472,QF1932,29-08-2024,Computer Science,MCQ,15,3.05,Apply,4.68
+QZ3473,QF1934,26-08-2024,Computer Science,MCQ,6,3.29,Remember,0.28
+QZ3474,QF1936,31-08-2024,History,Mixed,9,3.04,Remember,1.17
+QZ3475,QF1936,25-08-2024,Chemistry,MCQ,10,2.6,Remember,3.82
+QZ3476,QF1936,25-08-2024,English,Mixed,11,3.01,Remember,0.94
+QZ3477,QF1936,31-08-2024,Mathematics,Mixed,14,3.09,Apply,15
+QZ3478,QF1936,28-08-2024,English,Open,11,3.05,Understand,2.28
+QZ3479,QF1936,27-08-2024,Physics,MCQ,8,2.72,Apply,12.52
+QZ3480,QF1936,30-08-2024,History,MCQ,4,2.63,Apply,0.4
+QZ3481,QF1936,26-08-2024,Business Studies,MCQ,7,2.74,Understand,0.82
+QZ3482,QF1936,31-08-2024,Programming,MCQ,9,2.29,Remember,1.56
+QZ3483,QF1936,29-08-2024,English,MCQ,7,2.89,Understand,2.12
+QZ3484,QF1936,28-08-2024,Business Studies,MCQ,5,2.47,Remember,2.08
+QZ3485,QF1936,26-08-2024,Biology,Open,18,2.51,Remember,0.38
+QZ3486,QF1936,30-08-2024,Biology,Mixed,7,3.16,Understand,1.28
+QZ3487,QF1938,30-08-2024,Language,MCQ,4,2.6,Understand,1.86
+QZ3488,QF1938,27-08-2024,English,MCQ,7,2.76,Understand,3.57
+QZ3489,QF1938,28-08-2024,Language,Open,9,2.63,Understand,3.5
+QZ3490,QF1942,29-08-2024,English,MCQ,9,2.63,Understand,0.78
+QZ3491,QF1942,31-08-2024,Chemistry,Mixed,6,2.73,Remember,4.7
+QZ3492,QF1942,31-08-2024,Physics,MCQ,9,2.85,Remember,1.32
+QZ3493,QF1942,31-08-2024,General Knowledge,Mixed,4,2.59,Understand,4.8
+QZ3494,QF1942,26-08-2024,General Knowledge,Mixed,9,3.05,Understand,0.89
+QZ3495,QF1942,26-08-2024,Biology,Open,10,3.49,Understand,2.65
+QZ3496,QF1942,30-08-2024,Biology,Mixed,7,3.18,Apply,8.17
+QZ3497,QF1942,31-08-2024,Mathematics,Open,9,3.07,Understand,5.41
+QZ3498,QF1943,27-08-2024,Programming,Mixed,4,2.77,Remember,0.63
+QZ3499,QF1943,31-08-2024,Language,MCQ,6,2.77,Understand,1.19
+QZ3500,QF1945,26-08-2024,Biology,MCQ,8,3.27,Understand,0.51
+QZ3501,QF1947,30-08-2024,Programming,MCQ,8,2.31,Understand,1.41
+QZ3502,QF1947,30-08-2024,Biology,MCQ,8,2.04,Understand,0.82
+QZ3503,QF1947,28-08-2024,Mathematics,MCQ,8,3.24,Understand,1.77
+QZ3504,QF1947,31-08-2024,Physics,Mixed,7,2.98,Remember,1.53
+QZ3505,QF1947,30-08-2024,Computer Science,Mixed,8,3.22,Understand,2.75
+QZ3506,QF1947,31-08-2024,History,Mixed,9,2.57,Remember,3.39
+QZ3507,QF1947,31-08-2024,Business Studies,Mixed,14,3.07,Remember,4.58
+QZ3508,QF1948,26-08-2024,Physics,MCQ,5,3.37,Analyze,0.79
+QZ3509,QF1949,30-08-2024,Programming,MCQ,8,2.82,Understand,0.61
+QZ3510,QF1949,28-08-2024,Chemistry,MCQ,5,2.71,Apply,0.1
+QZ3511,QF1949,26-08-2024,Mathematics,MCQ,9,2.73,Remember,1.31
+QZ3512,QF1950,29-08-2024,Language,Mixed,6,3.01,Remember,0.89
+QZ3513,QF1950,29-08-2024,Chemistry,Mixed,10,2.94,Evaluate,6.29
+QZ3514,QF1950,26-08-2024,Computer Science,MCQ,6,2.76,Remember,1.83
+QZ3515,QF1950,26-08-2024,Programming,MCQ,6,3.57,Understand,0.66
+QZ3516,QF1950,29-08-2024,Business Studies,MCQ,9,2.64,Understand,4.47
+QZ3517,QF1950,31-08-2024,Business Studies,MCQ,11,2.92,Understand,3.65
+QZ3518,QF1952,30-08-2024,Programming,Open,12,2.41,Understand,0.56
+QZ3519,QF1952,31-08-2024,Biology,MCQ,5,2.99,Understand,0.46
+QZ3520,QF1952,29-08-2024,English,MCQ,11,3.02,Apply,3
+QZ3521,QF1953,31-08-2024,History,MCQ,5,3.42,Understand,1.12
+QZ3522,QF1953,30-08-2024,English,Mixed,8,2.53,Analyze,2.61
+QZ3523,QF1955,28-08-2024,Programming,MCQ,8,2.27,Remember,2.08
+QZ3524,QF1955,27-08-2024,Mathematics,MCQ,5,3.05,Analyze,5.9
+QZ3525,QF1955,31-08-2024,Physics,MCQ,9,3.07,Remember,6.37
+QZ3526,QF1955,31-08-2024,Programming,MCQ,7,2.33,Understand,5.64
+QZ3527,QF1955,30-08-2024,General Knowledge,Open,5,2.31,Understand,1.77
+QZ3528,QF1955,28-08-2024,Biology,Mixed,13,3.2,Understand,0.1
+QZ3529,QF1955,26-08-2024,Language,Mixed,6,2.9,Understand,3.13
+QZ3530,QF1955,30-08-2024,Mathematics,MCQ,9,3.49,Apply,2.7
+QZ3531,QF1955,28-08-2024,Chemistry,Mixed,10,3.12,Understand,5.61
+QZ3532,QF1955,31-08-2024,Computer Science,Mixed,13,3.19,Understand,1.26
+QZ3533,QF1955,28-08-2024,Chemistry,MCQ,5,2.89,Remember,2.88
+QZ3534,QF1955,30-08-2024,Mathematics,Mixed,10,2.63,Remember,3.45
+QZ3535,QF1955,29-08-2024,Computer Science,MCQ,8,3.64,Analyze,4.68
+QZ3536,QF1955,26-08-2024,Business Studies,Mixed,6,4.11,Apply,3.19
+QZ3537,QF1955,30-08-2024,Chemistry,MCQ,6,2.65,Remember,2.69
+QZ3538,QF1956,28-08-2024,English,MCQ,10,3.36,Apply,0.53
+QZ3539,QF1958,29-08-2024,Mathematics,MCQ,7,2.63,Remember,0.33
+QZ3540,QF1958,30-08-2024,Mathematics,MCQ,7,2.65,Remember,0.13
+QZ3541,QF1958,31-08-2024,English,Mixed,10,2.99,Remember,0.96
+QZ3542,QF1958,30-08-2024,General Knowledge,MCQ,10,2.81,Understand,0.1
+QZ3543,QF1958,30-08-2024,General Knowledge,Open,13,3.38,Evaluate,2.12
+QZ3544,QF1958,28-08-2024,Physics,MCQ,7,2.33,Apply,2.97
+QZ3545,QF1958,31-08-2024,History,Open,8,2.88,Remember,5.18
+QZ3546,QF1959,30-08-2024,English,MCQ,8,2.73,Apply,3.98
+QZ3547,QF1959,31-08-2024,Business Studies,Mixed,8,3.09,Understand,1.01
+QZ3548,QF1959,28-08-2024,Programming,MCQ,10,3,Apply,1.15
+QZ3549,QF1960,31-08-2024,Language,MCQ,6,2.85,Evaluate,4.57
+QZ3550,QF1961,27-08-2024,Language,Mixed,8,3.33,Remember,1.32
+QZ3551,QF1961,30-08-2024,Business Studies,MCQ,10,3.13,Understand,0.5
+QZ3552,QF1962,27-08-2024,Chemistry,MCQ,10,3.29,Understand,2.13
+QZ3553,QF1962,29-08-2024,Language,MCQ,9,2.72,Remember,0.1
+QZ3554,QF1963,31-08-2024,Business Studies,Mixed,7,3.21,Understand,0.59
+QZ3555,QF1965,30-08-2024,English,MCQ,5,2.01,Remember,1.7
+QZ3556,QF1966,31-08-2024,Biology,Mixed,11,3.38,Understand,0.17
+QZ3557,QF1966,31-08-2024,Physics,MCQ,4,3.18,Understand,1.89
+QZ3558,QF1966,30-08-2024,History,MCQ,7,3.18,Remember,3.81
+QZ3559,QF1966,31-08-2024,Chemistry,MCQ,9,2.22,Understand,1.65
+QZ3560,QF1966,30-08-2024,Business Studies,Open,8,2.84,Remember,0.6
+QZ3561,QF1966,28-08-2024,Programming,MCQ,4,2.77,Understand,0.4
+QZ3562,QF1966,31-08-2024,English,Open,6,2.95,Understand,1.21
+QZ3563,QF1967,31-08-2024,Chemistry,MCQ,16,2.92,Remember,0.97
+QZ3564,QF1967,29-08-2024,Mathematics,Mixed,4,3.27,Analyze,0.76
+QZ3565,QF1967,31-08-2024,History,Open,6,3.18,Understand,0.14
+QZ3566,QF1967,31-08-2024,English,Mixed,5,2.25,Understand,1.13
+QZ3567,QF1967,29-08-2024,General Knowledge,MCQ,5,1.88,Remember,0.53
+QZ3568,QF1967,30-08-2024,Programming,MCQ,5,2.81,Remember,0.27
+QZ3569,QF1968,30-08-2024,Biology,Mixed,7,2.94,Understand,0.29
+QZ3570,QF1968,31-08-2024,Chemistry,MCQ,10,3.03,Understand,1.63
+QZ3571,QF1970,29-08-2024,General Knowledge,MCQ,7,3.39,Remember,2.67
+QZ3572,QF1970,31-08-2024,Programming,Mixed,8,3.24,Analyze,2.79
+QZ3573,QF1971,28-08-2024,Computer Science,MCQ,8,2.29,Understand,1.03
+QZ3574,QF1971,31-08-2024,Computer Science,MCQ,8,3.39,Understand,1.94
+QZ3575,QF1971,28-08-2024,Language,MCQ,7,3.74,Analyze,0.1
+QZ3576,QF1971,30-08-2024,History,MCQ,8,3.92,Evaluate,1.49
+QZ3577,QF1971,28-08-2024,Physics,Open,9,3.02,Understand,2.17
+QZ3578,QF1973,30-08-2024,Computer Science,Mixed,4,2.54,Remember,1
+QZ3579,QF1976,31-08-2024,Programming,Open,2,2.48,Remember,2.09
+QZ3580,QF1976,30-08-2024,Physics,MCQ,5,2.88,Understand,0.27
+QZ3581,QF1976,28-08-2024,Chemistry,MCQ,5,3.75,Understand,0.46
+QZ3582,QF1976,31-08-2024,Chemistry,Mixed,8,3.28,Remember,3.02
+QZ3583,QF1976,29-08-2024,Business Studies,Mixed,7,2.53,Apply,2.06
+QZ3584,QF1976,29-08-2024,History,Mixed,7,2.79,Remember,2.66
+QZ3585,QF1976,29-08-2024,Biology,MCQ,6,2.29,Remember,1.76
+QZ3586,QF1978,31-08-2024,Mathematics,Open,6,3.24,Remember,0.72
+QZ3587,QF1978,30-08-2024,English,MCQ,5,2.87,Understand,0.83
+QZ3588,QF1979,29-08-2024,Computer Science,MCQ,5,3.45,Evaluate,0.1
+QZ3589,QF1980,30-08-2024,Biology,MCQ,11,3,Apply,1.64
+QZ3590,QF1980,31-08-2024,Business Studies,MCQ,7,2.35,Apply,1.09
+QZ3591,QF1980,31-08-2024,English,MCQ,7,3.06,Remember,2.86
+QZ3592,QF1980,31-08-2024,History,MCQ,7,3.05,Remember,6.47
+QZ3593,QF1980,30-08-2024,English,MCQ,5,2.62,Remember,1.14
+QZ3594,QF1981,29-08-2024,General Knowledge,MCQ,11,3.22,Understand,4.55
+QZ3595,QF1982,31-08-2024,General Knowledge,MCQ,2,4.56,Create,2.73
+QZ3596,QF1983,31-08-2024,Mathematics,Mixed,9,3.1,Understand,5.21
+QZ3597,QF1983,30-08-2024,English,MCQ,9,2.76,Apply,1.5
+QZ3598,QF1983,29-08-2024,Programming,Mixed,9,2.79,Remember,0.1
+QZ3599,QF1983,31-08-2024,History,Mixed,6,3.23,Analyze,1.07
+QZ3600,QF1983,30-08-2024,Biology,MCQ,10,2.97,Remember,1.15
+QZ3601,QF1984,31-08-2024,Mathematics,MCQ,5,3.34,Analyze,0.38
+QZ3602,QF1984,30-08-2024,Programming,MCQ,5,2.28,Understand,0.8
+QZ3603,QF1986,31-08-2024,Physics,MCQ,5,2.3,Understand,0.1
+QZ3604,QF1986,31-08-2024,Business Studies,MCQ,11,2.51,Remember,1.84
+QZ3605,QF1986,30-08-2024,English,MCQ,6,2.45,Understand,0.61
+QZ3606,QF1988,31-08-2024,Chemistry,MCQ,9,2.79,Apply,3.42
+QZ3607,QF1988,30-08-2024,Computer Science,MCQ,10,2.62,Remember,0.43
+QZ3608,QF1988,31-08-2024,Programming,Mixed,8,3.35,Remember,2.29
+QZ3609,QF1988,30-08-2024,Language,Mixed,9,2.73,Understand,1.91
+QZ3610,QF1988,29-08-2024,English,Open,7,2.84,Understand,9.35
+QZ3611,QF1988,31-08-2024,Physics,MCQ,10,3.02,Remember,0.76
+QZ3612,QF1989,30-08-2024,Programming,Mixed,8,2.91,Remember,3.57
+QZ3613,QF1989,29-08-2024,English,MCQ,10,3.12,Remember,2.34
+QZ3614,QF1989,30-08-2024,History,MCQ,13,2.85,Understand,0.47
+QZ3615,QF1990,29-08-2024,General Knowledge,MCQ,6,2.84,Remember,0.98
+QZ3616,QF1990,29-08-2024,Biology,Open,8,2.28,Understand,2.35
+QZ3617,QF1990,29-08-2024,Biology,Open,6,2.74,Remember,1.89
+QZ3618,QF1990,31-08-2024,Chemistry,MCQ,8,2.03,Remember,4.34
+QZ3619,QF1990,30-08-2024,Business Studies,Mixed,4,1.98,Remember,5.79
+QZ3620,QF1990,30-08-2024,Chemistry,MCQ,4,2.31,Remember,15
+QZ3621,QF1990,30-08-2024,Business Studies,MCQ,7,3.23,Understand,4.3
+QZ3622,QF1990,30-08-2024,General Knowledge,Mixed,11,3.44,Remember,1.16
+QZ3623,QF1991,31-08-2024,History,Mixed,8,3.31,Remember,3.22
+QZ3624,QF1992,31-08-2024,Computer Science,MCQ,7,2.76,Apply,1.91
+QZ3625,QF1992,30-08-2024,Language,MCQ,11,2.21,Understand,3.75
+QZ3626,QF1992,30-08-2024,Business Studies,Mixed,8,3.01,Apply,3.77
+QZ3627,QF1992,31-08-2024,Language,MCQ,3,1.97,Understand,5.64
+QZ3628,QF1992,30-08-2024,Programming,Mixed,8,2.68,Remember,2.68
+QZ3629,QF1992,29-08-2024,Biology,Mixed,9,2.72,Understand,2.62
+QZ3630,QF1992,30-08-2024,Biology,MCQ,5,3.71,Apply,0.26
+QZ3631,QF1992,30-08-2024,Programming,MCQ,11,3.31,Analyze,0.74
+QZ3632,QF1992,31-08-2024,General Knowledge,MCQ,7,3.26,Analyze,6.13
+QZ3633,QF1992,31-08-2024,Physics,Mixed,10,2.36,Remember,0.1
+QZ3634,QF1992,31-08-2024,Language,Open,4,3.59,Analyze,9.18
+QZ3635,QF1993,31-08-2024,Business Studies,Mixed,5,2.28,Remember,2.44
+QZ3636,QF1993,31-08-2024,Language,Mixed,6,2.01,Remember,0.42
+QZ3637,QF1994,30-08-2024,History,MCQ,9,2.96,Remember,1.78
+QZ3638,QF1994,31-08-2024,Physics,Mixed,5,2.8,Remember,0.75
+QZ3639,QF1994,31-08-2024,General Knowledge,MCQ,10,2.68,Understand,1.51
+QZ3640,QF1995,30-08-2024,Physics,MCQ,9,3.51,Evaluate,1.28
+QZ3641,QF1997,31-08-2024,Mathematics,MCQ,6,3.94,Create,1.07
+QZ3642,QF1998,31-08-2024,Language,Mixed,7,2.89,Understand,1.71
+QZ3643,QF1998,30-08-2024,Language,MCQ,7,3.37,Understand,1.82
+QZ3644,QF1998,31-08-2024,Biology,Mixed,8,3.98,Understand,5.8
+QZ3645,QF1998,31-08-2024,General Knowledge,MCQ,8,3.23,Evaluate,2.93
+QZ3646,QF1999,31-08-2024,Language,MCQ,6,3.21,Understand,0.43
